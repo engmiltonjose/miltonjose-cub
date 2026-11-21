@@ -1,0 +1,74 @@
+name: CUB diário
+
+on:
+  schedule:
+    - cron: "0 11 1-15 * 1-5"   # dias 1 a 15, dias úteis, 08:00 (Brasília) — o CUB sai até o dia 5
+    - cron: "0 11 * * 1"        # toda segunda, o mês todo (pega retificações e atrasados)
+  workflow_dispatch:
+    inputs:
+      inicio:
+        description: "Carga histórica a partir de (AAAA-MM). Vazio = rotina normal"
+        required: false
+      ufs:
+        description: "UFs separadas por vírgula (vazio = todas)"
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: cub-diario
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install requests pymupdf beautifulsoup4
+
+      - name: Buscar CUB novo
+        env:
+          INICIO: ${{ inputs.inicio }}
+          UFS: ${{ inputs.ufs }}
+        run: |
+          ARGS=""
+          [ -n "$INICIO" ] && ARGS="$ARGS --inicio $INICIO"
+          [ -n "$UFS" ] && ARGS="$ARGS --ufs $UFS"
+          python scripts/atualizar_cub.py $ARGS
+
+      - name: Salvar no repositório
+        if: always()
+        run: |
+          git config user.name "robo-cub"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          if git diff --cached --quiet; then
+            echo "Nada novo para salvar."
+          else
+            git commit -m "CUB: atualização automática $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Avisar por e-mail (issue no GitHub)
+        if: always() && hashFiles('saida/novidades.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --assignee "${{ github.repository_owner }}" --title "$(cat saida/titulo.txt)" --body-file saida/novidades.md
+
+      - name: Avisar falha inesperada
+        if: failure() && hashFiles('saida/novidades.md') == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --assignee "${{ github.repository_owner }}" --title "❌ Robô do CUB falhou antes de gerar o relatório" --body "O robô parou antes de montar o relatório.
+
+          **O que fazer:** nada por enquanto — ele tenta de novo no próximo agendamento. Se repetir, peça ao Claude para olhar o log: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"

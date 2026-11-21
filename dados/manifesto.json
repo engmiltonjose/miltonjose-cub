@@ -1,0 +1,54 @@
+{
+ "gerado_em": "2026-11-21T00:47:28+00:00",
+ "projetos": [
+  "R1-B",
+  "PP4-B",
+  "R8-B",
+  "PIS",
+  "R1-N",
+  "PP4-N",
+  "R8-N",
+  "R16-N",
+  "R1-A",
+  "R8-A",
+  "R16-A",
+  "CAL8-N",
+  "CSL8-N",
+  "CSL16-N",
+  "CAL8-A",
+  "CSL8-A",
+  "CSL16-A",
+  "RP1Q",
+  "GI"
+ ],
+ "ufs": {
+  "DF": {
+   "arquivo": "cub-DF.json",
+   "fontes": {
+    "cbic-8": {
+     "nome": "Sinduscon-DF",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2026-07",
+     "ultimo": "2026-10",
+     "meses": 4
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "GO": {
+   "arquivo": "cub-GO.json",
+   "fontes": {
+    "cbic-10": {
+     "nome": "Sinduscon-GO",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2026-07",
+     "ultimo": "2026-10",
+     "meses": 4
+    }
+   },
+   "ultimo": "2026-10"
+  }
+ }
+}
