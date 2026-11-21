@@ -77,6 +77,20 @@ def validar(valores, minimo=12):
     return prob
 
 
+def sanear(valores):
+    """Parcelas que não somam o total (erro de digitação no PDF do Sinduscon): mantém o total oficial e descarta
+    as parcelas daquele projeto. Devolve a lista de projetos saneados."""
+    feitos = []
+    for p, v in valores.items():
+        partes = [v.get(k) for k in PARCELAS]
+        tot = v.get('total')
+        if tot and all(x is not None for x in partes) and abs(sum(partes) - tot) > 0.05 + tot * 0.0005:
+            for k in PARCELAS:
+                v.pop(k, None)
+            feitos.append(p)
+    return feitos
+
+
 def caminho_uf(uf):
     return os.path.join(DADOS, f'cub-{uf}.json')
 

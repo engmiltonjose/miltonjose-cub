@@ -14,6 +14,8 @@ sys.stdout.reconfigure(encoding='utf-8')
 import cub_comum as C
 import cbic
 import gerar_saidas
+import sp, rs, ms, se, ro, mg
+PROPRIOS = [sp, rs, ms, se, ro, mg]   # coletores próprios: módulos com UF, FONTE_ID, FONTE e coletar(desejados, log)
 
 ESTADO = os.path.join(C.DADOS, 'estado.json')
 SAIDA = os.path.join(C.RAIZ, 'saida')
@@ -39,6 +41,7 @@ def main():
     ap.add_argument('--inicio', help='primeiro mês (AAAA-MM); padrão = últimos meses')
     ap.add_argument('--ufs', help='lista de UFs separadas por vírgula')
     ap.add_argument('--pausa', type=float, default=0.4)
+    ap.add_argument('--so-proprios', action='store_true', help='pula o portal da CBIC')
     a = ap.parse_args()
 
     fim = mes_atual()
@@ -49,7 +52,7 @@ def main():
     estado = json.load(open(ESTADO, encoding='utf-8')) if os.path.exists(ESTADO) else {'ausentes': {}}
 
     novidades, alteracoes, falhas, problemas = [], [], [], []
-    for uf in ufs:
+    for uf in ([] if a.so_proprios else ufs):
         if uf not in cbic.SINDUSCONS:
             continue
         d = C.ler_uf(uf)
@@ -82,6 +85,7 @@ def main():
                         continue
                     estado['ausentes'].pop(chave, None)
                     mes_dados = vals.pop('_mes_dados', None) or mes
+                    saneados = C.sanear(vals)
                     prob = C.validar(vals)
                     if prob:
                         problemas.append(f'{uf} {nome} {mes} {des}: ' + '; '.join(prob))
@@ -90,6 +94,8 @@ def main():
                               'desoneracao': des}
                     if mes_dados != mes:
                         origem['obs'] = f'Sinduscon rotula pelo mês de uso ({mes}); gravado no mês dos dados ({mes_dados})'
+                    if saneados:
+                        origem['parcelas_descartadas'] = saneados
                     r = C.registrar(d, fid, info, mes_dados, des, vals, origem)
                     if r == 'novo':
                         novidades.append((uf, nome, mes_dados, des, vals.get('R8-N', {}).get('total')))
@@ -98,6 +104,44 @@ def main():
             print(f'{uf} {nome}: ok', flush=True)
         C.gravar_uf(d)
         json.dump(estado, open(ESTADO, 'w', encoding='utf-8'), ensure_ascii=False, indent=0, sort_keys=True)
+
+    # ---- coletores próprios (sites dos Sinduscons)
+    for mod in PROPRIOS:
+        if a.ufs and mod.UF not in ufs:
+            continue
+        d = C.ler_uf(mod.UF)
+        inicio_mod = max(ini, getattr(mod, 'PRIMEIRO_MES', '2015-10'))
+        desejados = set()
+        for mes in C.meses_entre(inicio_mod, fim):
+            for des in ('sem', 'com'):
+                ja = d['meses'].get(mes, {}).get(mod.FONTE_ID, {}).get(des)
+                chave = f'{mod.FONTE_ID}|{mes}|{des}'
+                if (ja and mes < recheck_de) or (chave in estado['ausentes'] and mes < ausente_de):
+                    continue
+                desejados.add((mes, des))
+        achados = set()
+        try:
+            for mes, des, vals, origem in mod.coletar(desejados, log=lambda m: falhas.append(m)):
+                saneados = C.sanear(vals)
+                if saneados:
+                    origem['parcelas_descartadas'] = saneados
+                prob = C.validar(vals)
+                if prob:
+                    problemas.append(f'{mod.UF} {mod.FONTE["nome"]} {mes} {des}: ' + '; '.join(prob))
+                    continue
+                achados.add((mes, des))
+                r = C.registrar(d, mod.FONTE_ID, mod.FONTE, mes, des, vals, origem)
+                if r == 'novo':
+                    novidades.append((mod.UF, mod.FONTE['nome'], mes, des, vals.get('R8-N', {}).get('total')))
+                elif r == 'alterado':
+                    alteracoes.append(f'{mod.UF} {mod.FONTE["nome"]} {mes} ({des} desoneração)')
+        except Exception as e:
+            falhas.append(f'{mod.UF} {mod.FONTE["nome"]}: coletor parou ({type(e).__name__}: {e})')
+        for mes, des in desejados - achados:
+            estado['ausentes'].setdefault(f'{mod.FONTE_ID}|{mes}|{des}', datetime.date.today().isoformat())
+        C.gravar_uf(d)
+        json.dump(estado, open(ESTADO, 'w', encoding='utf-8'), ensure_ascii=False, indent=0, sort_keys=True)
+        print(f'{mod.UF} {mod.FONTE["nome"]}: ok ({len(achados)} meses/desoneração)', flush=True)
 
     gerar_saidas.main()
     relatorio(novidades, alteracoes, falhas, problemas, carga=bool(a.inicio))

@@ -1,0 +1,9751 @@
+{
+ "uf": "MS",
+ "fontes": {
+  "sinduscon-ms": {
+   "nome": "Sinduscon-MS",
+   "origem": "https://sindusconms.com.br/cub/",
+   "principal": true
+  }
+ },
+ "meses": {
+  "2020-01": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1126.16
+      },
+      "R1-N": {
+       "total": 1296.18
+      },
+      "R1-A": {
+       "total": 1637.99
+      },
+      "PP4-B": {
+       "total": 1059.75
+      },
+      "PP4-N": {
+       "total": 1256.07
+      },
+      "R8-A": {
+       "total": 1339.69
+      },
+      "R8-B": {
+       "total": 1009.79
+      },
+      "R8-N": {
+       "total": 1094.91
+      },
+      "R16-A": {
+       "total": 1399.96
+      },
+      "PIS": {
+       "total": 778.15
+      },
+      "R16-N": {
+       "total": 1064.66
+      },
+      "CAL8-N": {
+       "total": 1296.9
+      },
+      "CAL8-A": {
+       "total": 1398.75
+      },
+      "CSL8-N": {
+       "total": 1094.08
+      },
+      "CSL8-A": {
+       "total": 1204.69
+      },
+      "CSL16-N": {
+       "total": 1460.66
+      },
+      "CSL16-A": {
+       "total": 1603.05
+      },
+      "RP1Q": {
+       "total": 1096.96
+      },
+      "GI": {
+       "total": 596.95
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-D-JAN2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1385.0
+      },
+      "R1-A": {
+       "total": 1734.36
+      },
+      "R1-B": {
+       "total": 1190.29
+      },
+      "PP4-N": {
+       "total": 1334.62
+      },
+      "R8-A": {
+       "total": 1414.28
+      },
+      "PP4-B": {
+       "total": 1113.65
+      },
+      "R8-N": {
+       "total": 1165.5
+      },
+      "R16-A": {
+       "total": 1483.76
+      },
+      "R8-B": {
+       "total": 1060.46
+      },
+      "R16-N": {
+       "total": 1132.56
+      },
+      "PIS": {
+       "total": 821.84
+      },
+      "CAL8-N": {
+       "total": 1375.67
+      },
+      "CAL8-A": {
+       "total": 1478.27
+      },
+      "CSL8-N": {
+       "total": 1165.1
+      },
+      "CSL8-A": {
+       "total": 1277.67
+      },
+      "CSL16-N": {
+       "total": 1555.21
+      },
+      "CSL16-A": {
+       "total": 1700.26
+      },
+      "RP1Q": {
+       "total": 1181.91
+      },
+      "GI": {
+       "total": 636.45
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-JANEIRO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-02": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1128.64
+      },
+      "R1-N": {
+       "total": 1299.52
+      },
+      "R1-A": {
+       "total": 1641.51
+      },
+      "PP4-B": {
+       "total": 1059.77
+      },
+      "PP4-N": {
+       "total": 1258.11
+      },
+      "R8-A": {
+       "total": 1343.1
+      },
+      "R8-B": {
+       "total": 1010.77
+      },
+      "R8-N": {
+       "total": 1097.36
+      },
+      "R16-A": {
+       "total": 1407.76
+      },
+      "PIS": {
+       "total": 777.39
+      },
+      "R16-N": {
+       "total": 1066.33
+      },
+      "CAL8-N": {
+       "total": 1300.32
+      },
+      "CAL8-A": {
+       "total": 1401.84
+      },
+      "CSL8-N": {
+       "total": 1098.6
+      },
+      "CSL8-A": {
+       "total": 1208.83
+      },
+      "CSL16-N": {
+       "total": 1466.7
+      },
+      "CSL16-A": {
+       "total": 1608.59
+      },
+      "RP1Q": {
+       "total": 1097.66
+      },
+      "GI": {
+       "total": 601.59
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-D-FEV2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1388.35
+      },
+      "R1-A": {
+       "total": 1737.89
+      },
+      "R1-B": {
+       "total": 1192.77
+      },
+      "PP4-N": {
+       "total": 1336.66
+      },
+      "R8-A": {
+       "total": 1417.7
+      },
+      "PP4-B": {
+       "total": 1113.66
+      },
+      "R8-N": {
+       "total": 1167.95
+      },
+      "R16-A": {
+       "total": 1491.57
+      },
+      "R8-B": {
+       "total": 1061.44
+      },
+      "R16-N": {
+       "total": 1134.22
+      },
+      "PIS": {
+       "total": 821.08
+      },
+      "CAL8-N": {
+       "total": 1379.08
+      },
+      "CAL8-A": {
+       "total": 1481.36
+      },
+      "CSL8-N": {
+       "total": 1169.61
+      },
+      "CSL8-A": {
+       "total": 1281.81
+      },
+      "CSL16-N": {
+       "total": 1561.25
+      },
+      "CSL16-A": {
+       "total": 1705.8
+      },
+      "RP1Q": {
+       "total": 1182.61
+      },
+      "GI": {
+       "total": 641.09
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-FEVEREIRO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-03": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1130.14
+      },
+      "R1-N": {
+       "total": 1301.03
+      },
+      "R1-A": {
+       "total": 1645.36
+      },
+      "PP4-B": {
+       "total": 1062.82
+      },
+      "PP4-N": {
+       "total": 1260.97
+      },
+      "R8-A": {
+       "total": 1346.15
+      },
+      "R8-B": {
+       "total": 1013.34
+      },
+      "R8-N": {
+       "total": 1099.72
+      },
+      "R16-A": {
+       "total": 1411.14
+      },
+      "PIS": {
+       "total": 779.83
+      },
+      "R16-N": {
+       "total": 1069.31
+      },
+      "CAL8-N": {
+       "total": 1304.29
+      },
+      "CAL8-A": {
+       "total": 1405.99
+      },
+      "CSL8-N": {
+       "total": 1100.76
+      },
+      "CSL8-A": {
+       "total": 1211.25
+      },
+      "CSL16-N": {
+       "total": 1470.24
+      },
+      "CSL16-A": {
+       "total": 1612.51
+      },
+      "RP1Q": {
+       "total": 1098.84
+      },
+      "GI": {
+       "total": 601.84
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-D-MAR2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-04": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1389.98
+      },
+      "R1-A": {
+       "total": 1741.86
+      },
+      "R1-B": {
+       "total": 1195.53
+      },
+      "PP4-N": {
+       "total": 1339.87
+      },
+      "R8-A": {
+       "total": 1421.07
+      },
+      "PP4-B": {
+       "total": 1118.38
+      },
+      "R8-N": {
+       "total": 1170.59
+      },
+      "R16-A": {
+       "total": 1495.18
+      },
+      "R8-B": {
+       "total": 1065.65
+      },
+      "R16-N": {
+       "total": 1137.44
+      },
+      "PIS": {
+       "total": 824.51
+      },
+      "CAL8-N": {
+       "total": 1383.3
+      },
+      "CAL8-A": {
+       "total": 1485.75
+      },
+      "CSL8-N": {
+       "total": 1171.98
+      },
+      "CSL8-A": {
+       "total": 1284.45
+      },
+      "CSL16-N": {
+       "total": 1565.05
+      },
+      "CSL16-A": {
+       "total": 1709.99
+      },
+      "RP1Q": {
+       "total": 1184.72
+      },
+      "GI": {
+       "total": 641.92
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-ABRIL2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1131.4
+      },
+      "R1-N": {
+       "total": 1301.16
+      },
+      "R1-A": {
+       "total": 1645.48
+      },
+      "PP4-B": {
+       "total": 1064.48
+      },
+      "PP4-N": {
+       "total": 1261.32
+      },
+      "R8-A": {
+       "total": 1346.48
+      },
+      "R8-B": {
+       "total": 1014.98
+      },
+      "R8-N": {
+       "total": 1100.0
+      },
+      "R16-A": {
+       "total": 1411.37
+      },
+      "PIS": {
+       "total": 780.82
+      },
+      "R16-N": {
+       "total": 1069.54
+      },
+      "CAL8-N": {
+       "total": 1304.54
+      },
+      "CAL8-A": {
+       "total": 1406.23
+      },
+      "CSL8-N": {
+       "total": 1100.97
+      },
+      "CSL8-A": {
+       "total": 1211.47
+      },
+      "CSL16-N": {
+       "total": 1470.5
+      },
+      "CSL16-A": {
+       "total": 1612.78
+      },
+      "RP1Q": {
+       "total": 1099.77
+      },
+      "GI": {
+       "total": 602.42
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-D-ABR2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-05": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1129.97
+      },
+      "R1-N": {
+       "total": 1302.77
+      },
+      "R1-A": {
+       "total": 1646.82
+      },
+      "PP4-B": {
+       "total": 1065.77
+      },
+      "PP4-N": {
+       "total": 1264.48
+      },
+      "R8-A": {
+       "total": 1350.24
+      },
+      "R8-B": {
+       "total": 1016.23
+      },
+      "R8-N": {
+       "total": 1103.08
+      },
+      "R16-A": {
+       "total": 1415.84
+      },
+      "PIS": {
+       "total": 781.73
+      },
+      "R16-N": {
+       "total": 1072.69
+      },
+      "CAL8-N": {
+       "total": 1308.04
+      },
+      "CAL8-A": {
+       "total": 1409.76
+      },
+      "CSL8-N": {
+       "total": 1103.76
+      },
+      "CSL8-A": {
+       "total": 1214.26
+      },
+      "CSL16-N": {
+       "total": 1475.26
+      },
+      "CSL16-A": {
+       "total": 1617.97
+      },
+      "RP1Q": {
+       "total": 1100.94
+      },
+      "GI": {
+       "total": 603.64
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-D-MAI2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1391.59
+      },
+      "R1-A": {
+       "total": 1743.2
+      },
+      "R1-B": {
+       "total": 1194.1
+      },
+      "PP4-N": {
+       "total": 1343.03
+      },
+      "R8-A": {
+       "total": 1424.84
+      },
+      "PP4-B": {
+       "total": 1119.67
+      },
+      "R8-N": {
+       "total": 1173.67
+      },
+      "R16-A": {
+       "total": 1499.65
+      },
+      "R8-B": {
+       "total": 1066.9
+      },
+      "R16-N": {
+       "total": 1140.59
+      },
+      "PIS": {
+       "total": 825.42
+      },
+      "CAL8-N": {
+       "total": 1386.81
+      },
+      "CAL8-A": {
+       "total": 1489.27
+      },
+      "CSL8-N": {
+       "total": 1174.77
+      },
+      "CSL8-A": {
+       "total": 1287.24
+      },
+      "CSL16-N": {
+       "total": 1569.82
+      },
+      "CSL16-A": {
+       "total": 1715.18
+      },
+      "RP1Q": {
+       "total": 1185.89
+      },
+      "GI": {
+       "total": 643.14
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-MAIO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-06": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1131.13
+      },
+      "R1-N": {
+       "total": 1304.41
+      },
+      "R1-A": {
+       "total": 1648.49
+      },
+      "PP4-B": {
+       "total": 1068.56
+      },
+      "PP4-N": {
+       "total": 1266.58
+      },
+      "R8-A": {
+       "total": 1352.38
+      },
+      "R8-B": {
+       "total": 1018.61
+      },
+      "R8-N": {
+       "total": 1104.99
+      },
+      "R16-A": {
+       "total": 1418.12
+      },
+      "PIS": {
+       "total": 785.11
+      },
+      "R16-N": {
+       "total": 1074.53
+      },
+      "CAL8-N": {
+       "total": 1309.66
+      },
+      "CAL8-A": {
+       "total": 1411.38
+      },
+      "CSL8-N": {
+       "total": 1105.13
+      },
+      "CSL8-A": {
+       "total": 1215.64
+      },
+      "CSL16-N": {
+       "total": 1477.82
+      },
+      "CSL16-A": {
+       "total": 1620.61
+      },
+      "RP1Q": {
+       "total": 1102.72
+      },
+      "GI": {
+       "total": 604.44
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-D-JUN2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1393.23
+      },
+      "R1-A": {
+       "total": 1744.86
+      },
+      "R1-B": {
+       "total": 1195.27
+      },
+      "PP4-N": {
+       "total": 1345.13
+      },
+      "R8-A": {
+       "total": 1426.98
+      },
+      "PP4-B": {
+       "total": 1122.46
+      },
+      "R8-N": {
+       "total": 1175.58
+      },
+      "R16-A": {
+       "total": 1501.93
+      },
+      "R8-B": {
+       "total": 1069.28
+      },
+      "R16-N": {
+       "total": 1142.43
+      },
+      "PIS": {
+       "total": 828.8
+      },
+      "CAL8-N": {
+       "total": 1388.42
+      },
+      "CAL8-A": {
+       "total": 1490.89
+      },
+      "CSL8-N": {
+       "total": 1176.14
+      },
+      "CSL8-A": {
+       "total": 1288.62
+      },
+      "CSL16-N": {
+       "total": 1572.37
+      },
+      "CSL16-A": {
+       "total": 1717.82
+      },
+      "RP1Q": {
+       "total": 1187.67
+      },
+      "GI": {
+       "total": 643.94
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-JUNHO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-07": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1137.26
+      },
+      "R1-N": {
+       "total": 1312.26
+      },
+      "R1-A": {
+       "total": 1656.26
+      },
+      "PP4-B": {
+       "total": 1080.79
+      },
+      "PP4-N": {
+       "total": 1277.0
+      },
+      "R8-A": {
+       "total": 1363.8
+      },
+      "R8-B": {
+       "total": 1029.65
+      },
+      "R8-N": {
+       "total": 1114.59
+      },
+      "R16-A": {
+       "total": 1430.83
+      },
+      "PIS": {
+       "total": 795.61
+      },
+      "R16-N": {
+       "total": 1084.38
+      },
+      "CAL8-N": {
+       "total": 1319.46
+      },
+      "CAL8-A": {
+       "total": 1421.76
+      },
+      "CSL8-N": {
+       "total": 1112.69
+      },
+      "CSL8-A": {
+       "total": 1223.53
+      },
+      "CSL16-N": {
+       "total": 1491.5
+      },
+      "CSL16-A": {
+       "total": 1634.8
+      },
+      "RP1Q": {
+       "total": 1108.92
+      },
+      "GI": {
+       "total": 607.78
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/07.CUB-D-JUL2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-08": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1428.58
+      },
+      "R1-A": {
+       "total": 1786.42
+      },
+      "R1-B": {
+       "total": 1224.32
+      },
+      "PP4-N": {
+       "total": 1385.87
+      },
+      "R8-A": {
+       "total": 1466.7
+      },
+      "PP4-B": {
+       "total": 1166.67
+      },
+      "R8-N": {
+       "total": 1213.07
+      },
+      "R16-A": {
+       "total": 1549.21
+      },
+      "R8-B": {
+       "total": 1109.19
+      },
+      "R16-N": {
+       "total": 1180.66
+      },
+      "PIS": {
+       "total": 857.95
+      },
+      "CAL8-N": {
+       "total": 1429.36
+      },
+      "CAL8-A": {
+       "total": 1532.84
+      },
+      "CSL8-N": {
+       "total": 1210.91
+      },
+      "CSL8-A": {
+       "total": 1324.58
+      },
+      "CSL16-N": {
+       "total": 1624.9
+      },
+      "CSL16-A": {
+       "total": 1772.11
+      },
+      "RP1Q": {
+       "total": 1218.72
+      },
+      "GI": {
+       "total": 657.58
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-AGOSTO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1160.18
+      },
+      "R1-N": {
+       "total": 1339.76
+      },
+      "R1-A": {
+       "total": 1690.04
+      },
+      "PP4-B": {
+       "total": 1112.78
+      },
+      "PP4-N": {
+       "total": 1307.32
+      },
+      "R8-A": {
+       "total": 1392.11
+      },
+      "R8-B": {
+       "total": 1058.52
+      },
+      "R8-N": {
+       "total": 1142.48
+      },
+      "R16-A": {
+       "total": 1465.4
+      },
+      "PIS": {
+       "total": 814.26
+      },
+      "R16-N": {
+       "total": 1112.76
+      },
+      "CAL8-N": {
+       "total": 1350.6
+      },
+      "CAL8-A": {
+       "total": 1453.32
+      },
+      "CSL8-N": {
+       "total": 1139.89
+      },
+      "CSL8-A": {
+       "total": 1251.6
+      },
+      "CSL16-N": {
+       "total": 1530.35
+      },
+      "CSL16-A": {
+       "total": 1674.9
+      },
+      "RP1Q": {
+       "total": 1133.77
+      },
+      "GI": {
+       "total": 618.08
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-D-AGO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-09": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1180.25
+      },
+      "R1-N": {
+       "total": 1360.66
+      },
+      "R1-A": {
+       "total": 1710.78
+      },
+      "PP4-B": {
+       "total": 1147.06
+      },
+      "PP4-N": {
+       "total": 1333.0
+      },
+      "R8-A": {
+       "total": 1419.76
+      },
+      "R8-B": {
+       "total": 1088.76
+      },
+      "R8-N": {
+       "total": 1167.23
+      },
+      "R16-A": {
+       "total": 1494.86
+      },
+      "PIS": {
+       "total": 840.92
+      },
+      "R16-N": {
+       "total": 1137.3
+      },
+      "CAL8-N": {
+       "total": 1374.67
+      },
+      "CAL8-A": {
+       "total": 1476.52
+      },
+      "CSL8-N": {
+       "total": 1158.74
+      },
+      "CSL8-A": {
+       "total": 1270.02
+      },
+      "CSL16-N": {
+       "total": 1565.37
+      },
+      "CSL16-A": {
+       "total": 1709.07
+      },
+      "RP1Q": {
+       "total": 1149.98
+      },
+      "GI": {
+       "total": 626.55
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-D-SET2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1449.48
+      },
+      "R1-A": {
+       "total": 1807.16
+      },
+      "R1-B": {
+       "total": 1244.38
+      },
+      "PP4-N": {
+       "total": 1411.55
+      },
+      "R8-A": {
+       "total": 1494.36
+      },
+      "PP4-B": {
+       "total": 1200.96
+      },
+      "R8-N": {
+       "total": 1237.82
+      },
+      "R16-A": {
+       "total": 1578.66
+      },
+      "R8-B": {
+       "total": 1139.43
+      },
+      "R16-N": {
+       "total": 1205.2
+      },
+      "PIS": {
+       "total": 884.61
+      },
+      "CAL8-N": {
+       "total": 1453.44
+      },
+      "CAL8-A": {
+       "total": 1556.04
+      },
+      "CSL8-N": {
+       "total": 1229.76
+      },
+      "CSL8-A": {
+       "total": 1342.99
+      },
+      "CSL16-N": {
+       "total": 1659.92
+      },
+      "CSL16-A": {
+       "total": 1806.27
+      },
+      "RP1Q": {
+       "total": 1234.93
+      },
+      "GI": {
+       "total": 666.06
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-SETEMBRO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-10": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1197.82
+      },
+      "R1-N": {
+       "total": 1384.72
+      },
+      "R1-A": {
+       "total": 1741.13
+      },
+      "PP4-B": {
+       "total": 1165.09
+      },
+      "PP4-N": {
+       "total": 1353.12
+      },
+      "R8-A": {
+       "total": 1442.73
+      },
+      "R8-B": {
+       "total": 1105.81
+      },
+      "R8-N": {
+       "total": 1185.42
+      },
+      "R16-A": {
+       "total": 1513.87
+      },
+      "PIS": {
+       "total": 846.14
+      },
+      "R16-N": {
+       "total": 1155.45
+      },
+      "CAL8-N": {
+       "total": 1390.43
+      },
+      "CAL8-A": {
+       "total": 1494.52
+      },
+      "CSL8-N": {
+       "total": 1172.97
+      },
+      "CSL8-A": {
+       "total": 1286.54
+      },
+      "CSL16-N": {
+       "total": 1584.45
+      },
+      "CSL16-A": {
+       "total": 1731.12
+      },
+      "RP1Q": {
+       "total": 1167.0
+      },
+      "GI": {
+       "total": 635.27
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-D-OUT2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1473.54
+      },
+      "R1-A": {
+       "total": 1837.51
+      },
+      "R1-B": {
+       "total": 1261.95
+      },
+      "PP4-N": {
+       "total": 1431.67
+      },
+      "R8-A": {
+       "total": 1517.32
+      },
+      "PP4-B": {
+       "total": 1218.99
+      },
+      "R8-N": {
+       "total": 1256.01
+      },
+      "R16-A": {
+       "total": 1597.68
+      },
+      "R8-B": {
+       "total": 1156.48
+      },
+      "R16-N": {
+       "total": 1223.35
+      },
+      "PIS": {
+       "total": 889.83
+      },
+      "CAL8-N": {
+       "total": 1469.19
+      },
+      "CAL8-A": {
+       "total": 1574.04
+      },
+      "CSL8-N": {
+       "total": 1243.99
+      },
+      "CSL8-A": {
+       "total": 1359.51
+      },
+      "CSL16-N": {
+       "total": 1679.0
+      },
+      "CSL16-A": {
+       "total": 1828.33
+      },
+      "RP1Q": {
+       "total": 1251.96
+      },
+      "GI": {
+       "total": 674.77
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-OUTUBRO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-11": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1208.61
+      },
+      "R1-N": {
+       "total": 1400.06
+      },
+      "R1-A": {
+       "total": 1762.52
+      },
+      "PP4-B": {
+       "total": 1179.34
+      },
+      "PP4-N": {
+       "total": 1369.42
+      },
+      "R8-A": {
+       "total": 1463.35
+      },
+      "R8-B": {
+       "total": 1120.78
+      },
+      "R8-N": {
+       "total": 1199.79
+      },
+      "R16-A": {
+       "total": 1531.33
+      },
+      "PIS": {
+       "total": 855.01
+      },
+      "R16-N": {
+       "total": 1169.63
+      },
+      "CAL8-N": {
+       "total": 1403.95
+      },
+      "CAL8-A": {
+       "total": 1509.84
+      },
+      "CSL8-N": {
+       "total": 1185.64
+      },
+      "CSL8-A": {
+       "total": 1301.42
+      },
+      "CSL16-N": {
+       "total": 1601.42
+      },
+      "CSL16-A": {
+       "total": 1751.37
+      },
+      "RP1Q": {
+       "total": 1178.43
+      },
+      "GI": {
+       "total": 642.28
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-D-NOV2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1488.88
+      },
+      "R1-A": {
+       "total": 1858.9
+      },
+      "R1-B": {
+       "total": 1272.74
+      },
+      "PP4-N": {
+       "total": 1447.97
+      },
+      "R8-A": {
+       "total": 1537.95
+      },
+      "PP4-B": {
+       "total": 1233.24
+      },
+      "R8-N": {
+       "total": 1270.38
+      },
+      "R16-A": {
+       "total": 1615.13
+      },
+      "R8-B": {
+       "total": 1171.45
+      },
+      "R16-N": {
+       "total": 1237.52
+      },
+      "PIS": {
+       "total": 898.7
+      },
+      "CAL8-N": {
+       "total": 1482.71
+      },
+      "CAL8-A": {
+       "total": 1589.36
+      },
+      "CSL8-N": {
+       "total": 1256.66
+      },
+      "CSL8-A": {
+       "total": 1374.4
+      },
+      "CSL16-N": {
+       "total": 1695.97
+      },
+      "CSL16-A": {
+       "total": 1848.58
+      },
+      "RP1Q": {
+       "total": 1263.39
+      },
+      "GI": {
+       "total": 681.78
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-NOVEMBRO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2020-12": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1211.01
+      },
+      "R1-N": {
+       "total": 1404.69
+      },
+      "R1-A": {
+       "total": 1768.15
+      },
+      "PP4-B": {
+       "total": 1179.91
+      },
+      "PP4-N": {
+       "total": 1373.0
+      },
+      "R8-A": {
+       "total": 1467.51
+      },
+      "R8-B": {
+       "total": 1121.21
+      },
+      "R8-N": {
+       "total": 1202.04
+      },
+      "R16-A": {
+       "total": 1533.25
+      },
+      "PIS": {
+       "total": 858.15
+      },
+      "R16-N": {
+       "total": 1172.08
+      },
+      "CAL8-N": {
+       "total": 1406.28
+      },
+      "CAL8-A": {
+       "total": 1513.48
+      },
+      "CSL8-N": {
+       "total": 1187.17
+      },
+      "CSL8-A": {
+       "total": 1304.93
+      },
+      "CSL16-N": {
+       "total": 1603.0
+      },
+      "CSL16-A": {
+       "total": 1755.63
+      },
+      "RP1Q": {
+       "total": 1182.56
+      },
+      "GI": {
+       "total": 645.59
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-D-DEZ2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1493.52
+      },
+      "R1-A": {
+       "total": 1864.53
+      },
+      "R1-B": {
+       "total": 1275.15
+      },
+      "PP4-N": {
+       "total": 1451.55
+      },
+      "R8-A": {
+       "total": 1542.11
+      },
+      "PP4-B": {
+       "total": 1233.81
+      },
+      "R8-N": {
+       "total": 1272.63
+      },
+      "R16-A": {
+       "total": 1617.06
+      },
+      "R8-B": {
+       "total": 1171.88
+      },
+      "R16-N": {
+       "total": 1239.98
+      },
+      "PIS": {
+       "total": 901.84
+      },
+      "CAL8-N": {
+       "total": 1485.05
+      },
+      "CAL8-A": {
+       "total": 1593.0
+      },
+      "CSL8-N": {
+       "total": 1258.19
+      },
+      "CSL8-A": {
+       "total": 1377.9
+      },
+      "CSL16-N": {
+       "total": 1697.55
+      },
+      "CSL16-A": {
+       "total": 1852.84
+      },
+      "RP1Q": {
+       "total": 1267.51
+      },
+      "GI": {
+       "total": 685.09
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-DEZEMBRO2020-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-01": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1218.28
+      },
+      "R1-N": {
+       "total": 1410.26
+      },
+      "R1-A": {
+       "total": 1769.89
+      },
+      "PP4-B": {
+       "total": 1185.12
+      },
+      "PP4-N": {
+       "total": 1375.77
+      },
+      "R8-A": {
+       "total": 1470.13
+      },
+      "R8-B": {
+       "total": 1126.01
+      },
+      "R8-N": {
+       "total": 1204.9
+      },
+      "R16-A": {
+       "total": 1536.37
+      },
+      "PIS": {
+       "total": 864.23
+      },
+      "R16-N": {
+       "total": 1173.6
+      },
+      "CAL8-N": {
+       "total": 1407.41
+      },
+      "CAL8-A": {
+       "total": 1514.32
+      },
+      "CSL8-N": {
+       "total": 1189.66
+      },
+      "CSL8-A": {
+       "total": 1306.95
+      },
+      "CSL16-N": {
+       "total": 1607.43
+      },
+      "CSL16-A": {
+       "total": 1759.26
+      },
+      "RP1Q": {
+       "total": 1186.74
+      },
+      "GI": {
+       "total": 650.3
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-D-JAN2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1499.08
+      },
+      "R1-A": {
+       "total": 1866.27
+      },
+      "R1-B": {
+       "total": 1282.42
+      },
+      "PP4-N": {
+       "total": 1454.32
+      },
+      "R8-A": {
+       "total": 1544.73
+      },
+      "PP4-B": {
+       "total": 1239.02
+      },
+      "R8-N": {
+       "total": 1275.49
+      },
+      "R16-A": {
+       "total": 1620.18
+      },
+      "R8-B": {
+       "total": 1176.68
+      },
+      "R16-N": {
+       "total": 1241.5
+      },
+      "PIS": {
+       "total": 907.92
+      },
+      "CAL8-N": {
+       "total": 1486.18
+      },
+      "CAL8-A": {
+       "total": 1593.84
+      },
+      "CSL8-N": {
+       "total": 1260.68
+      },
+      "CSL8-A": {
+       "total": 1379.93
+      },
+      "CSL16-N": {
+       "total": 1701.99
+      },
+      "CSL16-A": {
+       "total": 1856.47
+      },
+      "RP1Q": {
+       "total": 1271.69
+      },
+      "GI": {
+       "total": 689.8
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-JANEIRO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-02": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1233.25
+      },
+      "R1-N": {
+       "total": 1415.89
+      },
+      "R1-A": {
+       "total": 1777.72
+      },
+      "PP4-B": {
+       "total": 1204.36
+      },
+      "PP4-N": {
+       "total": 1383.79
+      },
+      "R8-A": {
+       "total": 1479.95
+      },
+      "R8-B": {
+       "total": 1145.03
+      },
+      "R8-N": {
+       "total": 1211.38
+      },
+      "R16-A": {
+       "total": 1543.27
+      },
+      "PIS": {
+       "total": 876.59
+      },
+      "R16-N": {
+       "total": 1179.88
+      },
+      "CAL8-N": {
+       "total": 1415.85
+      },
+      "CAL8-A": {
+       "total": 1524.43
+      },
+      "CSL8-N": {
+       "total": 1194.77
+      },
+      "CSL8-A": {
+       "total": 1313.01
+      },
+      "CSL16-N": {
+       "total": 1614.12
+      },
+      "CSL16-A": {
+       "total": 1767.25
+      },
+      "RP1Q": {
+       "total": 1199.79
+      },
+      "GI": {
+       "total": 657.35
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-D-FEV2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1504.71
+      },
+      "R1-A": {
+       "total": 1874.1
+      },
+      "R1-B": {
+       "total": 1297.39
+      },
+      "PP4-N": {
+       "total": 1462.34
+      },
+      "R8-A": {
+       "total": 1554.55
+      },
+      "PP4-B": {
+       "total": 1258.25
+      },
+      "R8-N": {
+       "total": 1281.97
+      },
+      "R16-A": {
+       "total": 1627.07
+      },
+      "R8-B": {
+       "total": 1195.7
+      },
+      "R16-N": {
+       "total": 1247.78
+      },
+      "PIS": {
+       "total": 920.29
+      },
+      "CAL8-N": {
+       "total": 1494.61
+      },
+      "CAL8-A": {
+       "total": 1603.95
+      },
+      "CSL8-N": {
+       "total": 1265.79
+      },
+      "CSL8-A": {
+       "total": 1385.99
+      },
+      "CSL16-N": {
+       "total": 1708.68
+      },
+      "CSL16-A": {
+       "total": 1864.46
+      },
+      "RP1Q": {
+       "total": 1284.75
+      },
+      "GI": {
+       "total": 696.85
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-FEVEREIRO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-03": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1245.9
+      },
+      "R1-N": {
+       "total": 1432.26
+      },
+      "R1-A": {
+       "total": 1799.34
+      },
+      "PP4-B": {
+       "total": 1222.77
+      },
+      "PP4-N": {
+       "total": 1404.13
+      },
+      "R8-A": {
+       "total": 1505.21
+      },
+      "R8-B": {
+       "total": 1163.35
+      },
+      "R8-N": {
+       "total": 1228.75
+      },
+      "R16-A": {
+       "total": 1566.07
+      },
+      "PIS": {
+       "total": 892.33
+      },
+      "R16-N": {
+       "total": 1196.8
+      },
+      "CAL8-N": {
+       "total": 1435.18
+      },
+      "CAL8-A": {
+       "total": 1548.16
+      },
+      "CSL8-N": {
+       "total": 1212.35
+      },
+      "CSL8-A": {
+       "total": 1340.91
+      },
+      "CSL16-N": {
+       "total": 1640.26
+      },
+      "CSL16-A": {
+       "total": 1806.64
+      },
+      "RP1Q": {
+       "total": 1208.2
+      },
+      "GI": {
+       "total": 667.13
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-D-MAR2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1521.08
+      },
+      "R1-A": {
+       "total": 1895.72
+      },
+      "R1-B": {
+       "total": 1310.03
+      },
+      "PP4-B": {
+       "total": 1276.67
+      },
+      "PP4-N": {
+       "total": 1482.68
+      },
+      "R8-A": {
+       "total": 1579.81
+      },
+      "R8-B": {
+       "total": 1214.02
+      },
+      "R8-N": {
+       "total": 1299.34
+      },
+      "R16-A": {
+       "total": 1649.88
+      },
+      "PIS": {
+       "total": 936.02
+      },
+      "R16-N": {
+       "total": 1264.7
+      },
+      "CAL8-N": {
+       "total": 1513.94
+      },
+      "CAL8-A": {
+       "total": 1627.68
+      },
+      "CSL8-N": {
+       "total": 1283.37
+      },
+      "CSL8-A": {
+       "total": 1413.89
+      },
+      "CSL16-N": {
+       "total": 1734.82
+      },
+      "CSL16-A": {
+       "total": 1903.85
+      },
+      "RP1Q": {
+       "total": 1293.15
+      },
+      "GI": {
+       "total": 706.63
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-MARCO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-04": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1525.26
+      },
+      "R1-A": {
+       "total": 1900.43
+      },
+      "R1-B": {
+       "total": 1314.52
+      },
+      "PP4-N": {
+       "total": 1489.55
+      },
+      "R8-A": {
+       "total": 1587.22
+      },
+      "PP4-B": {
+       "total": 1282.57
+      },
+      "R8-N": {
+       "total": 1305.94
+      },
+      "R16-A": {
+       "total": 1659.91
+      },
+      "R8-B": {
+       "total": 1221.13
+      },
+      "R16-N": {
+       "total": 1271.22
+      },
+      "PIS": {
+       "total": 938.6
+      },
+      "CAL8-N": {
+       "total": 1523.83
+      },
+      "CAL8-A": {
+       "total": 1637.58
+      },
+      "CSL8-N": {
+       "total": 1292.02
+      },
+      "CSL8-A": {
+       "total": 1422.55
+      },
+      "CSL16-N": {
+       "total": 1746.44
+      },
+      "CSL16-A": {
+       "total": 1915.49
+      },
+      "RP1Q": {
+       "total": 1296.34
+      },
+      "GI": {
+       "total": 712.01
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-ABRIL2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-05": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1275.3
+      },
+      "R1-N": {
+       "total": 1461.37
+      },
+      "R1-A": {
+       "total": 1837.79
+      },
+      "PP4-B": {
+       "total": 1258.33
+      },
+      "PP4-N": {
+       "total": 1446.47
+      },
+      "R8-A": {
+       "total": 1554.38
+      },
+      "R8-B": {
+       "total": 1205.5
+      },
+      "R8-N": {
+       "total": 1269.92
+      },
+      "R16-A": {
+       "total": 1627.93
+      },
+      "PIS": {
+       "total": 910.43
+      },
+      "R16-N": {
+       "total": 1236.56
+      },
+      "CAL8-N": {
+       "total": 1493.08
+      },
+      "CAL8-A": {
+       "total": 1605.89
+      },
+      "CSL8-N": {
+       "total": 1265.13
+      },
+      "CSL8-A": {
+       "total": 1394.31
+      },
+      "CSL16-N": {
+       "total": 1711.03
+      },
+      "CSL16-A": {
+       "total": 1878.43
+      },
+      "RP1Q": {
+       "total": 1229.16
+      },
+      "GI": {
+       "total": 699.13
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-D-MAI2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1550.19
+      },
+      "R1-A": {
+       "total": 1934.17
+      },
+      "R1-B": {
+       "total": 1339.43
+      },
+      "PP4-N": {
+       "total": 1525.02
+      },
+      "R8-A": {
+       "total": 1628.98
+      },
+      "PP4-B": {
+       "total": 1312.23
+      },
+      "R8-N": {
+       "total": 1340.51
+      },
+      "R16-A": {
+       "total": 1711.74
+      },
+      "R8-B": {
+       "total": 1256.17
+      },
+      "R16-N": {
+       "total": 1304.45
+      },
+      "PIS": {
+       "total": 954.12
+      },
+      "CAL8-N": {
+       "total": 1571.84
+      },
+      "CAL8-A": {
+       "total": 1685.41
+      },
+      "CSL8-N": {
+       "total": 1336.15
+      },
+      "CSL8-A": {
+       "total": 1467.29
+      },
+      "CSL16-N": {
+       "total": 1805.58
+      },
+      "CSL16-A": {
+       "total": 1975.64
+      },
+      "RP1Q": {
+       "total": 1314.12
+      },
+      "GI": {
+       "total": 738.64
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-MAIO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-06": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1287.92
+      },
+      "R1-N": {
+       "total": 1472.55
+      },
+      "R1-A": {
+       "total": 1849.89
+      },
+      "PP4-B": {
+       "total": 1275.0
+      },
+      "PP4-N": {
+       "total": 1466.13
+      },
+      "R8-A": {
+       "total": 1575.24
+      },
+      "R8-B": {
+       "total": 1226.08
+      },
+      "R8-N": {
+       "total": 1289.01
+      },
+      "R16-A": {
+       "total": 1657.79
+      },
+      "PIS": {
+       "total": 917.17
+      },
+      "R16-N": {
+       "total": 1255.38
+      },
+      "CAL8-N": {
+       "total": 1521.36
+      },
+      "CAL8-A": {
+       "total": 1634.18
+      },
+      "CSL8-N": {
+       "total": 1290.98
+      },
+      "CSL8-A": {
+       "total": 1420.16
+      },
+      "CSL16-N": {
+       "total": 1745.66
+      },
+      "CSL16-A": {
+       "total": 1913.06
+      },
+      "RP1Q": {
+       "total": 1235.18
+      },
+      "GI": {
+       "total": 713.55
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-D-JUN2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1561.37
+      },
+      "R1-A": {
+       "total": 1946.27
+      },
+      "R1-B": {
+       "total": 1352.05
+      },
+      "PP4-N": {
+       "total": 1544.68
+      },
+      "R8-A": {
+       "total": 1649.84
+      },
+      "PP4-B": {
+       "total": 1328.9
+      },
+      "R8-N": {
+       "total": 1359.6
+      },
+      "R16-A": {
+       "total": 1741.6
+      },
+      "R8-B": {
+       "total": 1276.75
+      },
+      "R16-N": {
+       "total": 1323.27
+      },
+      "PIS": {
+       "total": 960.86
+      },
+      "CAL8-N": {
+       "total": 1600.13
+      },
+      "CAL8-A": {
+       "total": 1713.7
+      },
+      "CSL8-N": {
+       "total": 1362.0
+      },
+      "CSL8-A": {
+       "total": 1493.13
+      },
+      "CSL16-N": {
+       "total": 1840.22
+      },
+      "CSL16-A": {
+       "total": 2010.27
+      },
+      "RP1Q": {
+       "total": 1320.13
+      },
+      "GI": {
+       "total": 753.06
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-JUNHO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-07": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1345.6
+      },
+      "R1-N": {
+       "total": 1556.98
+      },
+      "R1-A": {
+       "total": 1941.62
+      },
+      "PP4-B": {
+       "total": 1324.18
+      },
+      "PP4-N": {
+       "total": 1540.53
+      },
+      "R8-A": {
+       "total": 1644.94
+      },
+      "R8-B": {
+       "total": 1272.22
+      },
+      "R8-N": {
+       "total": 1356.38
+      },
+      "R16-A": {
+       "total": 1737.1
+      },
+      "PIS": {
+       "total": 956.48
+      },
+      "R16-N": {
+       "total": 1320.12
+      },
+      "CAL8-N": {
+       "total": 1597.02
+      },
+      "CAL8-A": {
+       "total": 1710.38
+      },
+      "CSL8-N": {
+       "total": 1358.6
+      },
+      "CSL8-A": {
+       "total": 1489.32
+      },
+      "CSL16-N": {
+       "total": 1835.66
+      },
+      "CSL16-A": {
+       "total": 2005.05
+      },
+      "RP1Q": {
+       "total": 1319.56
+      },
+      "GI": {
+       "total": 752.3
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-D-JUL2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1657.55
+      },
+      "R1-A": {
+       "total": 2050.76
+      },
+      "R1-B": {
+       "total": 1417.78
+      },
+      "PP4-B": {
+       "total": 1384.89
+      },
+      "PP4-N": {
+       "total": 1629.46
+      },
+      "R8-A": {
+       "total": 1729.37
+      },
+      "R8-B": {
+       "total": 1329.29
+      },
+      "R8-N": {
+       "total": 1436.35
+      },
+      "R16-A": {
+       "total": 1831.97
+      },
+      "PIS": {
+       "total": 1005.64
+      },
+      "R16-N": {
+       "total": 1397.05
+      },
+      "CAL8-N": {
+       "total": 1686.29
+      },
+      "CAL8-A": {
+       "total": 1800.5
+      },
+      "CSL8-N": {
+       "total": 1439.02
+      },
+      "CSL8-A": {
+       "total": 1571.94
+      },
+      "CSL16-N": {
+       "total": 1942.72
+      },
+      "CSL16-A": {
+       "total": 2115.09
+      },
+      "RP1Q": {
+       "total": 1415.98
+      },
+      "GI": {
+       "total": 797.04
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/07.CUB-JULHO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-08": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1660.35
+      },
+      "R1-A": {
+       "total": 2052.71
+      },
+      "R1-B": {
+       "total": 1419.08
+      },
+      "PP4-N": {
+       "total": 1630.94
+      },
+      "R8-A": {
+       "total": 1731.11
+      },
+      "PP4-B": {
+       "total": 1385.37
+      },
+      "R8-N": {
+       "total": 1437.5
+      },
+      "R16-A": {
+       "total": 1831.48
+      },
+      "R8-B": {
+       "total": 1329.63
+      },
+      "R16-N": {
+       "total": 1398.82
+      },
+      "PIS": {
+       "total": 1002.64
+      },
+      "CAL8-N": {
+       "total": 1685.91
+      },
+      "CAL8-A": {
+       "total": 1800.67
+      },
+      "CSL8-N": {
+       "total": 1439.35
+      },
+      "CSL8-A": {
+       "total": 1572.07
+      },
+      "CSL16-N": {
+       "total": 1942.46
+      },
+      "CSL16-A": {
+       "total": 2114.49
+      },
+      "RP1Q": {
+       "total": 1416.28
+      },
+      "GI": {
+       "total": 796.63
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-AGOSTO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1346.91
+      },
+      "R1-N": {
+       "total": 1559.78
+      },
+      "R1-A": {
+       "total": 1943.57
+      },
+      "PP4-B": {
+       "total": 1324.65
+      },
+      "PP4-N": {
+       "total": 1542.01
+      },
+      "R8-A": {
+       "total": 1646.67
+      },
+      "R8-B": {
+       "total": 1272.56
+      },
+      "R8-N": {
+       "total": 1357.53
+      },
+      "R16-A": {
+       "total": 1736.61
+      },
+      "PIS": {
+       "total": 953.47
+      },
+      "R16-N": {
+       "total": 1321.89
+      },
+      "CAL8-N": {
+       "total": 1596.64
+      },
+      "CAL8-A": {
+       "total": 1710.55
+      },
+      "CSL8-N": {
+       "total": 1358.93
+      },
+      "CSL8-A": {
+       "total": 1489.45
+      },
+      "CSL16-N": {
+       "total": 1835.4
+      },
+      "CSL16-A": {
+       "total": 2004.45
+      },
+      "RP1Q": {
+       "total": 1319.86
+      },
+      "GI": {
+       "total": 751.89
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-D-AGO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-09": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1350.02
+      },
+      "R1-N": {
+       "total": 1566.08
+      },
+      "R1-A": {
+       "total": 1954.05
+      },
+      "PP4-B": {
+       "total": 1327.27
+      },
+      "PP4-N": {
+       "total": 1547.06
+      },
+      "R8-A": {
+       "total": 1659.18
+      },
+      "R8-B": {
+       "total": 1274.97
+      },
+      "R8-N": {
+       "total": 1361.14
+      },
+      "R16-A": {
+       "total": 1739.08
+      },
+      "PIS": {
+       "total": 958.43
+      },
+      "R16-N": {
+       "total": 1325.93
+      },
+      "CAL8-N": {
+       "total": 1598.67
+      },
+      "CAL8-A": {
+       "total": 1718.47
+      },
+      "CSL8-N": {
+       "total": 1360.76
+      },
+      "CSL8-A": {
+       "total": 1501.78
+      },
+      "CSL16-N": {
+       "total": 1837.25
+      },
+      "CSL16-A": {
+       "total": 2019.81
+      },
+      "RP1Q": {
+       "total": 1322.78
+      },
+      "GI": {
+       "total": 752.97
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-D-SET2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1666.65
+      },
+      "R1-A": {
+       "total": 2063.19
+      },
+      "R1-B": {
+       "total": 1422.2
+      },
+      "PP4-N": {
+       "total": 1635.99
+      },
+      "R8-A": {
+       "total": 1743.61
+      },
+      "PP4-B": {
+       "total": 1387.99
+      },
+      "R8-N": {
+       "total": 1441.11
+      },
+      "R16-A": {
+       "total": 1833.95
+      },
+      "R8-B": {
+       "total": 1332.04
+      },
+      "R16-N": {
+       "total": 1402.85
+      },
+      "PIS": {
+       "total": 1007.59
+      },
+      "CAL8-N": {
+       "total": 1687.95
+      },
+      "CAL8-A": {
+       "total": 1808.59
+      },
+      "CSL8-N": {
+       "total": 1441.19
+      },
+      "CSL8-A": {
+       "total": 1584.4
+      },
+      "CSL16-N": {
+       "total": 1944.32
+      },
+      "CSL16-A": {
+       "total": 2129.85
+      },
+      "RP1Q": {
+       "total": 1419.2
+      },
+      "GI": {
+       "total": 797.7
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-SETEMBRO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-10": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1370.76
+      },
+      "R1-N": {
+       "total": 1581.39
+      },
+      "R1-A": {
+       "total": 1982.34
+      },
+      "PP4-B": {
+       "total": 1351.27
+      },
+      "PP4-N": {
+       "total": 1562.85
+      },
+      "R8-A": {
+       "total": 1681.99
+      },
+      "R8-B": {
+       "total": 1298.23
+      },
+      "R8-N": {
+       "total": 1375.01
+      },
+      "R16-A": {
+       "total": 1755.89
+      },
+      "PIS": {
+       "total": 974.64
+      },
+      "R16-N": {
+       "total": 1338.82
+      },
+      "CAL8-N": {
+       "total": 1617.94
+      },
+      "CAL8-A": {
+       "total": 1743.15
+      },
+      "CSL8-N": {
+       "total": 1372.92
+      },
+      "CSL8-A": {
+       "total": 1516.38
+      },
+      "CSL16-N": {
+       "total": 1853.23
+      },
+      "CSL16-A": {
+       "total": 2039.32
+      },
+      "RP1Q": {
+       "total": 1342.76
+      },
+      "GI": {
+       "total": 765.31
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-D-OUT2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1681.96
+      },
+      "R1-A": {
+       "total": 2091.48
+      },
+      "R1-B": {
+       "total": 1442.94
+      },
+      "PP4-N": {
+       "total": 1651.78
+      },
+      "R8-A": {
+       "total": 1766.42
+      },
+      "PP4-B": {
+       "total": 1411.99
+      },
+      "R8-N": {
+       "total": 1454.98
+      },
+      "R16-A": {
+       "total": 1850.76
+      },
+      "R8-B": {
+       "total": 1355.3
+      },
+      "R16-N": {
+       "total": 1415.75
+      },
+      "PIS": {
+       "total": 1023.81
+      },
+      "CAL8-N": {
+       "total": 1707.21
+      },
+      "CAL8-A": {
+       "total": 1833.27
+      },
+      "CSL8-N": {
+       "total": 1453.35
+      },
+      "CSL8-A": {
+       "total": 1599.01
+      },
+      "CSL16-N": {
+       "total": 1960.29
+      },
+      "CSL16-A": {
+       "total": 2149.36
+      },
+      "RP1Q": {
+       "total": 1439.18
+      },
+      "GI": {
+       "total": 810.05
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-OUTUBRO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-11": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1373.59
+      },
+      "R1-N": {
+       "total": 1585.12
+      },
+      "R1-A": {
+       "total": 1986.74
+      },
+      "PP4-B": {
+       "total": 1354.52
+      },
+      "PP4-N": {
+       "total": 1566.03
+      },
+      "R8-A": {
+       "total": 1684.97
+      },
+      "R8-B": {
+       "total": 1301.25
+      },
+      "R8-N": {
+       "total": 1378.14
+      },
+      "R16-A": {
+       "total": 1759.88
+      },
+      "PIS": {
+       "total": 977.82
+      },
+      "R16-N": {
+       "total": 1341.48
+      },
+      "CAL8-N": {
+       "total": 1621.15
+      },
+      "CAL8-A": {
+       "total": 1746.12
+      },
+      "CSL8-N": {
+       "total": 1375.76
+      },
+      "CSL8-A": {
+       "total": 1519.54
+      },
+      "CSL16-N": {
+       "total": 1857.35
+      },
+      "CSL16-A": {
+       "total": 2043.97
+      },
+      "RP1Q": {
+       "total": 1349.4
+      },
+      "GI": {
+       "total": 767.89
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-D-NOV2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2021-12": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1375.47
+      },
+      "R1-N": {
+       "total": 1588.62
+      },
+      "R1-A": {
+       "total": 1990.63
+      },
+      "PP4-B": {
+       "total": 1357.21
+      },
+      "PP4-N": {
+       "total": 1569.02
+      },
+      "R8-A": {
+       "total": 1687.59
+      },
+      "R8-B": {
+       "total": 1303.51
+      },
+      "R8-N": {
+       "total": 1380.86
+      },
+      "R16-A": {
+       "total": 1768.34
+      },
+      "PIS": {
+       "total": 981.35
+      },
+      "R16-N": {
+       "total": 1344.1
+      },
+      "CAL8-N": {
+       "total": 1624.07
+      },
+      "CAL8-A": {
+       "total": 1749.0
+      },
+      "CSL8-N": {
+       "total": 1377.93
+      },
+      "CSL8-A": {
+       "total": 1521.67
+      },
+      "CSL16-N": {
+       "total": 1860.7
+      },
+      "CSL16-A": {
+       "total": 2047.27
+      },
+      "RP1Q": {
+       "total": 1355.73
+      },
+      "GI": {
+       "total": 771.35
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-D-DEZ2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1689.2
+      },
+      "R1-A": {
+       "total": 2099.77
+      },
+      "R1-B": {
+       "total": 1447.65
+      },
+      "PP4-N": {
+       "total": 1657.95
+      },
+      "R8-A": {
+       "total": 1772.02
+      },
+      "PP4-B": {
+       "total": 1417.93
+      },
+      "R8-N": {
+       "total": 1460.83
+      },
+      "R16-A": {
+       "total": 1863.22
+      },
+      "R8-B": {
+       "total": 1360.58
+      },
+      "R16-N": {
+       "total": 1421.03
+      },
+      "PIS": {
+       "total": 1030.51
+      },
+      "CAL8-N": {
+       "total": 1713.34
+      },
+      "CAL8-A": {
+       "total": 1839.12
+      },
+      "CSL8-N": {
+       "total": 1458.35
+      },
+      "CSL8-A": {
+       "total": 1604.29
+      },
+      "CSL16-N": {
+       "total": 1967.77
+      },
+      "CSL16-A": {
+       "total": 2157.31
+      },
+      "RP1Q": {
+       "total": 1452.15
+      },
+      "GI": {
+       "total": 816.08
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-DEZEMBRO2021-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-01": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1694.87
+      },
+      "R1-A": {
+       "total": 2111.11
+      },
+      "R1-B": {
+       "total": 1453.96
+      },
+      "PP4-N": {
+       "total": 1661.38
+      },
+      "R8-A": {
+       "total": 1778.73
+      },
+      "PP4-B": {
+       "total": 1421.59
+      },
+      "R8-N": {
+       "total": 1464.35
+      },
+      "R16-A": {
+       "total": 1866.58
+      },
+      "R8-B": {
+       "total": 1363.94
+      },
+      "R16-N": {
+       "total": 1423.93
+      },
+      "PIS": {
+       "total": 1033.66
+      },
+      "CAL8-N": {
+       "total": 1716.91
+      },
+      "CAL8-A": {
+       "total": 1842.73
+      },
+      "CSL8-N": {
+       "total": 1462.04
+      },
+      "CSL8-A": {
+       "total": 1608.0
+      },
+      "CSL16-N": {
+       "total": 1971.75
+      },
+      "CSL16-A": {
+       "total": 2161.21
+      },
+      "RP1Q": {
+       "total": 1455.98
+      },
+      "GI": {
+       "total": 819.23
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-JANEIRO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1381.78
+      },
+      "R1-N": {
+       "total": 1594.3
+      },
+      "R1-A": {
+       "total": 2001.98
+      },
+      "PP4-B": {
+       "total": 1360.87
+      },
+      "PP4-N": {
+       "total": 1572.45
+      },
+      "R8-A": {
+       "total": 1694.3
+      },
+      "R8-B": {
+       "total": 1306.86
+      },
+      "R8-N": {
+       "total": 1384.38
+      },
+      "R16-A": {
+       "total": 1771.7
+      },
+      "PIS": {
+       "total": 984.5
+      },
+      "R16-N": {
+       "total": 1347.01
+      },
+      "CAL8-N": {
+       "total": 1627.64
+      },
+      "CAL8-A": {
+       "total": 1752.61
+      },
+      "CSL8-N": {
+       "total": 1381.61
+      },
+      "CSL8-A": {
+       "total": 1525.38
+      },
+      "CSL16-N": {
+       "total": 1864.69
+      },
+      "CSL16-A": {
+       "total": 2051.17
+      },
+      "RP1Q": {
+       "total": 1359.56
+      },
+      "GI": {
+       "total": 774.5
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-D-JAN2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-02": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1382.06
+      },
+      "R1-N": {
+       "total": 1594.8
+      },
+      "R1-A": {
+       "total": 2002.57
+      },
+      "PP4-B": {
+       "total": 1361.34
+      },
+      "PP4-N": {
+       "total": 1572.84
+      },
+      "R8-A": {
+       "total": 1694.22
+      },
+      "R8-B": {
+       "total": 1307.27
+      },
+      "R8-N": {
+       "total": 1384.85
+      },
+      "R16-A": {
+       "total": 1772.18
+      },
+      "PIS": {
+       "total": 984.78
+      },
+      "R16-N": {
+       "total": 1347.35
+      },
+      "CAL8-N": {
+       "total": 1628.23
+      },
+      "CAL8-A": {
+       "total": 1753.11
+      },
+      "CSL8-N": {
+       "total": 1382.08
+      },
+      "CSL8-A": {
+       "total": 1525.78
+      },
+      "CSL16-N": {
+       "total": 1865.39
+      },
+      "CSL16-A": {
+       "total": 2051.72
+      },
+      "RP1Q": {
+       "total": 1361.1
+      },
+      "GI": {
+       "total": 775.36
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-D-FEV2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1695.37
+      },
+      "R1-A": {
+       "total": 2111.7
+      },
+      "R1-B": {
+       "total": 1454.24
+      },
+      "PP4-B": {
+       "total": 1422.06
+      },
+      "PP4-N": {
+       "total": 1661.77
+      },
+      "R8-A": {
+       "total": 1778.65
+      },
+      "R8-B": {
+       "total": 1364.34
+      },
+      "R8-N": {
+       "total": 1464.82
+      },
+      "R16-A": {
+       "total": 1867.05
+      },
+      "PIS": {
+       "total": 1033.95
+      },
+      "R16-N": {
+       "total": 1424.28
+      },
+      "CAL8-N": {
+       "total": 1717.5
+      },
+      "CAL8-A": {
+       "total": 1843.23
+      },
+      "CSL8-N": {
+       "total": 1462.51
+      },
+      "CSL8-A": {
+       "total": 1608.4
+      },
+      "CSL16-N": {
+       "total": 1972.46
+      },
+      "CSL16-A": {
+       "total": 2161.76
+      },
+      "RP1Q": {
+       "total": 1457.53
+      },
+      "GI": {
+       "total": 820.09
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-FEVREIRO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-03": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1384.12
+      },
+      "R1-N": {
+       "total": 1597.28
+      },
+      "R1-A": {
+       "total": 2005.52
+      },
+      "PP4-B": {
+       "total": 1363.83
+      },
+      "PP4-N": {
+       "total": 1575.05
+      },
+      "R8-A": {
+       "total": 1696.34
+      },
+      "R8-B": {
+       "total": 1309.6
+      },
+      "R8-N": {
+       "total": 1387.1
+      },
+      "R16-A": {
+       "total": 1776.31
+      },
+      "PIS": {
+       "total": 987.51
+      },
+      "R16-N": {
+       "total": 1349.12
+      },
+      "CAL8-N": {
+       "total": 1630.5
+      },
+      "CAL8-A": {
+       "total": 1755.09
+      },
+      "CSL8-N": {
+       "total": 1384.17
+      },
+      "CSL8-A": {
+       "total": 1528.17
+      },
+      "CSL16-N": {
+       "total": 1868.56
+      },
+      "CSL16-A": {
+       "total": 2055.42
+      },
+      "RP1Q": {
+       "total": 1365.34
+      },
+      "GI": {
+       "total": 776.61
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-D-MAR2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1697.86
+      },
+      "R1-A": {
+       "total": 2114.66
+      },
+      "R1-B": {
+       "total": 1456.3
+      },
+      "PP4-N": {
+       "total": 1663.98
+      },
+      "R8-A": {
+       "total": 1780.77
+      },
+      "PP4-B": {
+       "total": 1424.54
+      },
+      "R8-N": {
+       "total": 1467.07
+      },
+      "R16-A": {
+       "total": 1871.18
+      },
+      "R8-B": {
+       "total": 1366.68
+      },
+      "R16-N": {
+       "total": 1426.05
+      },
+      "PIS": {
+       "total": 1036.67
+      },
+      "CAL8-N": {
+       "total": 1719.77
+      },
+      "CAL8-A": {
+       "total": 1845.21
+      },
+      "CSL8-N": {
+       "total": 1464.59
+      },
+      "CSL8-A": {
+       "total": 1610.79
+      },
+      "CSL16-N": {
+       "total": 1975.62
+      },
+      "CSL16-A": {
+       "total": 2165.46
+      },
+      "RP1Q": {
+       "total": 1461.76
+      },
+      "GI": {
+       "total": 821.35
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-MARCO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-04": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1704.6
+      },
+      "R1-A": {
+       "total": 2127.89
+      },
+      "R1-B": {
+       "total": 1461.35
+      },
+      "PP4-B": {
+       "total": 1430.12
+      },
+      "PP4-N": {
+       "total": 1671.57
+      },
+      "R8-A": {
+       "total": 1788.3
+      },
+      "R8-B": {
+       "total": 1371.73
+      },
+      "R8-N": {
+       "total": 1473.27
+      },
+      "R16-A": {
+       "total": 1879.38
+      },
+      "PIS": {
+       "total": 1039.8
+      },
+      "R16-N": {
+       "total": 1433.7
+      },
+      "CAL8-N": {
+       "total": 1730.38
+      },
+      "CAL8-A": {
+       "total": 1856.35
+      },
+      "CSL8-N": {
+       "total": 1470.99
+      },
+      "CSL8-A": {
+       "total": 1618.04
+      },
+      "CSL16-N": {
+       "total": 1984.08
+      },
+      "CSL16-A": {
+       "total": 2174.97
+      },
+      "RP1Q": {
+       "total": 1473.55
+      },
+      "GI": {
+       "total": 827.63
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-ABRIL2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1389.17
+      },
+      "R1-N": {
+       "total": 1604.03
+      },
+      "R1-A": {
+       "total": 2018.75
+      },
+      "PP4-B": {
+       "total": 1369.4
+      },
+      "PP4-N": {
+       "total": 1582.64
+      },
+      "R8-A": {
+       "total": 1703.86
+      },
+      "R8-B": {
+       "total": 1314.66
+      },
+      "R8-N": {
+       "total": 1393.3
+      },
+      "R16-A": {
+       "total": 1784.51
+      },
+      "PIS": {
+       "total": 990.63
+      },
+      "R16-N": {
+       "total": 1356.78
+      },
+      "CAL8-N": {
+       "total": 1641.11
+      },
+      "CAL8-A": {
+       "total": 1766.23
+      },
+      "CSL8-N": {
+       "total": 1390.56
+      },
+      "CSL8-A": {
+       "total": 1535.41
+      },
+      "CSL16-N": {
+       "total": 1877.01
+      },
+      "CSL16-A": {
+       "total": 2064.93
+      },
+      "RP1Q": {
+       "total": 1377.13
+      },
+      "GI": {
+       "total": 782.89
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-D-ABR2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-05": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1394.36
+      },
+      "R1-N": {
+       "total": 1610.33
+      },
+      "R1-A": {
+       "total": 2025.94
+      },
+      "PP4-B": {
+       "total": 1376.15
+      },
+      "PP4-N": {
+       "total": 1589.54
+      },
+      "R8-A": {
+       "total": 1710.33
+      },
+      "R8-B": {
+       "total": 1321.66
+      },
+      "R8-N": {
+       "total": 1400.2
+      },
+      "R16-A": {
+       "total": 1798.91
+      },
+      "PIS": {
+       "total": 995.97
+      },
+      "R16-N": {
+       "total": 1362.87
+      },
+      "CAL8-N": {
+       "total": 1649.58
+      },
+      "CAL8-A": {
+       "total": 1774.24
+      },
+      "CSL8-N": {
+       "total": 1398.1
+      },
+      "CSL8-A": {
+       "total": 1543.27
+      },
+      "CSL16-N": {
+       "total": 1887.82
+      },
+      "CSL16-A": {
+       "total": 2076.27
+      },
+      "RP1Q": {
+       "total": 1387.09
+      },
+      "GI": {
+       "total": 788.59
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-D-MAI2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1710.9
+      },
+      "R1-A": {
+       "total": 2135.08
+      },
+      "R1-B": {
+       "total": 1466.54
+      },
+      "PP4-B": {
+       "total": 1436.87
+      },
+      "PP4-N": {
+       "total": 1678.47
+      },
+      "R8-A": {
+       "total": 1794.76
+      },
+      "R8-B": {
+       "total": 1378.73
+      },
+      "R8-N": {
+       "total": 1480.17
+      },
+      "R16-A": {
+       "total": 1893.78
+      },
+      "PIS": {
+       "total": 1045.14
+      },
+      "R16-N": {
+       "total": 1439.8
+      },
+      "CAL8-N": {
+       "total": 1738.85
+      },
+      "CAL8-A": {
+       "total": 1864.36
+      },
+      "CSL8-N": {
+       "total": 1478.53
+      },
+      "CSL8-A": {
+       "total": 1625.89
+      },
+      "CSL16-N": {
+       "total": 1994.89
+      },
+      "CSL16-A": {
+       "total": 2186.31
+      },
+      "RP1Q": {
+       "total": 1483.51
+      },
+      "GI": {
+       "total": 833.32
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-MAIO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-06": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1411.32
+      },
+      "R1-N": {
+       "total": 1620.0
+      },
+      "R1-A": {
+       "total": 2036.6
+      },
+      "PP4-B": {
+       "total": 1395.3
+      },
+      "PP4-N": {
+       "total": 1605.4
+      },
+      "R8-A": {
+       "total": 1726.43
+      },
+      "R8-B": {
+       "total": 1345.46
+      },
+      "R8-N": {
+       "total": 1415.86
+      },
+      "R16-A": {
+       "total": 1824.84
+      },
+      "PIS": {
+       "total": 997.99
+      },
+      "R16-N": {
+       "total": 1379.15
+      },
+      "CAL8-N": {
+       "total": 1676.81
+      },
+      "CAL8-A": {
+       "total": 1801.8
+      },
+      "CSL8-N": {
+       "total": 1422.87
+      },
+      "CSL8-A": {
+       "total": 1567.67
+      },
+      "CSL16-N": {
+       "total": 1918.53
+      },
+      "CSL16-A": {
+       "total": 2106.31
+      },
+      "RP1Q": {
+       "total": 1382.42
+      },
+      "GI": {
+       "total": 793.72
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-D-JUN2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1720.57
+      },
+      "R1-A": {
+       "total": 2145.74
+      },
+      "R1-B": {
+       "total": 1483.5
+      },
+      "PP4-B": {
+       "total": 1456.01
+      },
+      "PP4-N": {
+       "total": 1694.33
+      },
+      "R8-A": {
+       "total": 1810.86
+      },
+      "R8-B": {
+       "total": 1398.54
+      },
+      "R8-N": {
+       "total": 1495.83
+      },
+      "R16-A": {
+       "total": 1919.71
+      },
+      "PIS": {
+       "total": 1047.15
+      },
+      "R16-N": {
+       "total": 1456.07
+      },
+      "CAL8-N": {
+       "total": 1766.09
+      },
+      "CAL8-A": {
+       "total": 1891.92
+      },
+      "CSL8-N": {
+       "total": 1503.3
+      },
+      "CSL8-A": {
+       "total": 1650.3
+      },
+      "CSL16-N": {
+       "total": 2025.59
+      },
+      "CSL16-A": {
+       "total": 2216.35
+      },
+      "RP1Q": {
+       "total": 1478.84
+      },
+      "GI": {
+       "total": 838.45
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-JUNHO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-07": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1429.15
+      },
+      "R1-N": {
+       "total": 1636.92
+      },
+      "R1-A": {
+       "total": 2066.9
+      },
+      "PP4-B": {
+       "total": 1414.42
+      },
+      "PP4-N": {
+       "total": 1625.69
+      },
+      "R8-A": {
+       "total": 1751.19
+      },
+      "R8-B": {
+       "total": 1361.25
+      },
+      "R8-N": {
+       "total": 1434.09
+      },
+      "R16-A": {
+       "total": 1850.41
+      },
+      "PIS": {
+       "total": 1010.12
+      },
+      "R16-N": {
+       "total": 1397.69
+      },
+      "CAL8-N": {
+       "total": 1705.09
+      },
+      "CAL8-A": {
+       "total": 1833.26
+      },
+      "CSL8-N": {
+       "total": 1444.01
+      },
+      "CSL8-A": {
+       "total": 1592.09
+      },
+      "CSL16-N": {
+       "total": 1945.34
+      },
+      "CSL16-A": {
+       "total": 2137.65
+      },
+      "RP1Q": {
+       "total": 1397.77
+      },
+      "GI": {
+       "total": 805.61
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/07.CUB-D-JUL2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1737.49
+      },
+      "R1-A": {
+       "total": 2176.04
+      },
+      "R1-B": {
+       "total": 1501.33
+      },
+      "PP4-B": {
+       "total": 1475.14
+      },
+      "PP4-N": {
+       "total": 1714.63
+      },
+      "R8-A": {
+       "total": 1835.62
+      },
+      "R8-B": {
+       "total": 1418.32
+      },
+      "R8-N": {
+       "total": 1514.06
+      },
+      "R16-A": {
+       "total": 1945.28
+      },
+      "PIS": {
+       "total": 1059.28
+      },
+      "R16-N": {
+       "total": 1474.62
+      },
+      "CAL8-N": {
+       "total": 1794.36
+      },
+      "CAL8-A": {
+       "total": 1923.38
+      },
+      "CSL8-N": {
+       "total": 1524.44
+      },
+      "CSL8-A": {
+       "total": 1674.71
+      },
+      "CSL16-N": {
+       "total": 2052.41
+      },
+      "CSL16-A": {
+       "total": 2247.69
+      },
+      "RP1Q": {
+       "total": 1494.19
+      },
+      "GI": {
+       "total": 850.34
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/07.CUB-JULHO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-08": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1828.23
+      },
+      "R1-A": {
+       "total": 2274.52
+      },
+      "R1-B": {
+       "total": 1567.58
+      },
+      "PP4-B": {
+       "total": 1531.62
+      },
+      "PP4-N": {
+       "total": 1795.66
+      },
+      "R8-A": {
+       "total": 1913.67
+      },
+      "R8-B": {
+       "total": 1471.55
+      },
+      "R8-N": {
+       "total": 1586.76
+      },
+      "R16-A": {
+       "total": 2032.36
+      },
+      "PIS": {
+       "total": 1103.96
+      },
+      "R16-N": {
+       "total": 1544.98
+      },
+      "CAL8-N": {
+       "total": 1876.07
+      },
+      "CAL8-A": {
+       "total": 2006.19
+      },
+      "CSL8-N": {
+       "total": 1598.03
+      },
+      "CSL8-A": {
+       "total": 1750.59
+      },
+      "CSL16-N": {
+       "total": 2150.22
+      },
+      "CSL16-A": {
+       "total": 2348.68
+      },
+      "RP1Q": {
+       "total": 1579.68
+      },
+      "GI": {
+       "total": 890.3
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-AGOSTO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1487.62
+      },
+      "R1-N": {
+       "total": 1716.83
+      },
+      "R1-A": {
+       "total": 2153.64
+      },
+      "PP4-B": {
+       "total": 1464.36
+      },
+      "PP4-N": {
+       "total": 1697.15
+      },
+      "R8-A": {
+       "total": 1820.15
+      },
+      "R8-B": {
+       "total": 1408.33
+      },
+      "R8-N": {
+       "total": 1498.19
+      },
+      "R16-A": {
+       "total": 1927.27
+      },
+      "PIS": {
+       "total": 1049.49
+      },
+      "R16-N": {
+       "total": 1459.78
+      },
+      "CAL8-A": {
+       "total": 1906.37
+      },
+      "CSL8-N": {
+       "total": 1508.95
+      },
+      "CSL8-A": {
+       "total": 1659.07
+      },
+      "CSL16-N": {
+       "total": 2031.63
+      },
+      "CSL16-A": {
+       "total": 2226.8
+      },
+      "RP1Q": {
+       "total": 1472.88
+      },
+      "GI": {
+       "total": 840.75
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-D-AGO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-09": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1491.78
+      },
+      "R1-N": {
+       "total": 1720.37
+      },
+      "R1-A": {
+       "total": 2157.51
+      },
+      "PP4-B": {
+       "total": 1469.28
+      },
+      "PP4-N": {
+       "total": 1701.48
+      },
+      "R8-A": {
+       "total": 1824.41
+      },
+      "R8-B": {
+       "total": 1413.15
+      },
+      "R8-N": {
+       "total": 1502.43
+      },
+      "R16-A": {
+       "total": 1933.48
+      },
+      "PIS": {
+       "total": 1051.37
+      },
+      "R16-N": {
+       "total": 1463.99
+      },
+      "CAL8-N": {
+       "total": 1789.37
+      },
+      "CAL8-A": {
+       "total": 1912.54
+      },
+      "CSL8-N": {
+       "total": 1514.42
+      },
+      "CSL8-A": {
+       "total": 1664.53
+      },
+      "CSL16-N": {
+       "total": 2038.85
+      },
+      "CSL16-A": {
+       "total": 2234.0
+      },
+      "RP1Q": {
+       "total": 1475.05
+      },
+      "GI": {
+       "total": 842.71
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-D-SET2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1831.77
+      },
+      "R1-A": {
+       "total": 2278.4
+      },
+      "R1-B": {
+       "total": 1571.74
+      },
+      "PP4-B": {
+       "total": 1536.55
+      },
+      "PP4-N": {
+       "total": 1799.99
+      },
+      "R8-A": {
+       "total": 1917.93
+      },
+      "R8-B": {
+       "total": 1476.38
+      },
+      "R8-N": {
+       "total": 1591.0
+      },
+      "R16-A": {
+       "total": 2038.57
+      },
+      "PIS": {
+       "total": 1105.83
+      },
+      "R16-N": {
+       "total": 1549.2
+      },
+      "CAL8-N": {
+       "total": 1882.25
+      },
+      "CAL8-A": {
+       "total": 2012.36
+      },
+      "CSL8-N": {
+       "total": 1603.5
+      },
+      "CSL8-A": {
+       "total": 1756.05
+      },
+      "CSL16-N": {
+       "total": 2157.44
+      },
+      "CSL16-A": {
+       "total": 2355.89
+      },
+      "RP1Q": {
+       "total": 1581.85
+      },
+      "GI": {
+       "total": 892.25
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-SETEMBRO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-10": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1494.44
+      },
+      "R1-N": {
+       "total": 1722.18
+      },
+      "R1-A": {
+       "total": 2159.52
+      },
+      "PP4-B": {
+       "total": 1472.51
+      },
+      "PP4-N": {
+       "total": 1704.12
+      },
+      "R8-A": {
+       "total": 1827.12
+      },
+      "R8-B": {
+       "total": 1416.36
+      },
+      "R8-N": {
+       "total": 1505.04
+      },
+      "R16-A": {
+       "total": 1937.62
+      },
+      "PIS": {
+       "total": 1052.42
+      },
+      "R16-N": {
+       "total": 1466.61
+      },
+      "CAL8-N": {
+       "total": 1787.44
+      },
+      "CAL8-A": {
+       "total": 1916.61
+      },
+      "CSL8-N": {
+       "total": 1518.06
+      },
+      "CSL8-A": {
+       "total": 1668.17
+      },
+      "CSL16-N": {
+       "total": 2043.64
+      },
+      "CSL16-A": {
+       "total": 2238.79
+      },
+      "RP1Q": {
+       "total": 1475.11
+      },
+      "GI": {
+       "total": 843.52
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-D-OUT2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1833.58
+      },
+      "R1-A": {
+       "total": 2280.41
+      },
+      "R1-B": {
+       "total": 1574.4
+      },
+      "PP4-N": {
+       "total": 1802.63
+      },
+      "R8-A": {
+       "total": 1920.64
+      },
+      "PP4-B": {
+       "total": 1539.77
+      },
+      "R8-N": {
+       "total": 1593.61
+      },
+      "R16-A": {
+       "total": 2042.7
+      },
+      "R8-B": {
+       "total": 1479.58
+      },
+      "R16-N": {
+       "total": 1551.82
+      },
+      "PIS": {
+       "total": 1106.88
+      },
+      "CAL8-N": {
+       "total": 1886.32
+      },
+      "CAL8-A": {
+       "total": 2016.43
+      },
+      "CSL8-N": {
+       "total": 1607.14
+      },
+      "CSL8-A": {
+       "total": 1759.68
+      },
+      "CSL16-N": {
+       "total": 2162.23
+      },
+      "CSL16-A": {
+       "total": 2360.68
+      },
+      "RP1Q": {
+       "total": 1581.9
+      },
+      "GI": {
+       "total": 893.07
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-OUTUBRO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-11": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1496.11
+      },
+      "R1-N": {
+       "total": 1725.51
+      },
+      "R1-A": {
+       "total": 2165.21
+      },
+      "PP4-B": {
+       "total": 1474.12
+      },
+      "PP4-N": {
+       "total": 1706.57
+      },
+      "R8-A": {
+       "total": 1830.92
+      },
+      "R8-B": {
+       "total": 1417.83
+      },
+      "R8-N": {
+       "total": 1507.07
+      },
+      "R16-A": {
+       "total": 1941.01
+      },
+      "PIS": {
+       "total": 1052.46
+      },
+      "R16-N": {
+       "total": 1468.69
+      },
+      "CAL8-N": {
+       "total": 1788.19
+      },
+      "CAL8-A": {
+       "total": 1918.07
+      },
+      "CSL8-N": {
+       "total": 1518.79
+      },
+      "CSL8-A": {
+       "total": 1669.62
+      },
+      "CSL16-N": {
+       "total": 2044.6
+      },
+      "CSL16-A": {
+       "total": 2240.72
+      },
+      "RP1Q": {
+       "total": 1475.78
+      },
+      "GI": {
+       "total": 844.25
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-D-NOV2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1836.91
+      },
+      "R1-A": {
+       "total": 2286.09
+      },
+      "R1-B": {
+       "total": 1576.07
+      },
+      "PP4-B": {
+       "total": 1541.38
+      },
+      "PP4-N": {
+       "total": 1805.08
+      },
+      "R8-A": {
+       "total": 1924.44
+      },
+      "R8-B": {
+       "total": 1481.06
+      },
+      "R8-N": {
+       "total": 1595.64
+      },
+      "R16-A": {
+       "total": 2046.09
+      },
+      "PIS": {
+       "total": 1106.93
+      },
+      "R16-N": {
+       "total": 1553.9
+      },
+      "CAL8-N": {
+       "total": 1887.07
+      },
+      "CAL8-A": {
+       "total": 2017.88
+      },
+      "CSL8-N": {
+       "total": 1607.88
+      },
+      "CSL8-A": {
+       "total": 1761.14
+      },
+      "CSL16-N": {
+       "total": 2163.19
+      },
+      "CSL16-A": {
+       "total": 2362.61
+      },
+      "RP1Q": {
+       "total": 1582.58
+      },
+      "GI": {
+       "total": 893.8
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-NOVEMBRO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2022-12": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1499.43
+      },
+      "R1-N": {
+       "total": 1727.8
+      },
+      "R1-A": {
+       "total": 2167.82
+      },
+      "PP4-B": {
+       "total": 1478.23
+      },
+      "PP4-N": {
+       "total": 1709.91
+      },
+      "R8-A": {
+       "total": 1834.32
+      },
+      "R8-B": {
+       "total": 1421.88
+      },
+      "R8-N": {
+       "total": 1510.38
+      },
+      "R16-A": {
+       "total": 1946.32
+      },
+      "PIS": {
+       "total": 1053.94
+      },
+      "R16-N": {
+       "total": 1471.96
+      },
+      "CAL8-N": {
+       "total": 1793.28
+      },
+      "CAL8-A": {
+       "total": 1923.13
+      },
+      "CSL8-N": {
+       "total": 1523.36
+      },
+      "CSL8-A": {
+       "total": 1674.22
+      },
+      "CSL16-N": {
+       "total": 2050.73
+      },
+      "CSL16-A": {
+       "total": 2246.89
+      },
+      "RP1Q": {
+       "total": 1476.02
+      },
+      "GI": {
+       "total": 845.31
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-D-DEZ2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1839.2
+      },
+      "R1-A": {
+       "total": 2288.71
+      },
+      "R1-B": {
+       "total": 1579.39
+      },
+      "PP4-B": {
+       "total": 1545.49
+      },
+      "PP4-N": {
+       "total": 1808.42
+      },
+      "R8-A": {
+       "total": 1927.84
+      },
+      "R8-B": {
+       "total": 1485.1
+      },
+      "R8-N": {
+       "total": 1598.95
+      },
+      "R16-A": {
+       "total": 2051.4
+      },
+      "PIS": {
+       "total": 1108.41
+      },
+      "R16-N": {
+       "total": 1557.17
+      },
+      "CAL8-N": {
+       "total": 1892.16
+      },
+      "CAL8-A": {
+       "total": 2022.95
+      },
+      "CSL8-N": {
+       "total": 1612.44
+      },
+      "CSL8-A": {
+       "total": 1765.74
+      },
+      "CSL16-N": {
+       "total": 2169.32
+      },
+      "CSL16-A": {
+       "total": 2368.77
+      },
+      "RP1Q": {
+       "total": 1582.81
+      },
+      "GI": {
+       "total": 894.86
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-DEZEMBRO2022-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-01": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1942.57
+      },
+      "R1-A": {
+       "total": 2292.87
+      },
+      "R1-B": {
+       "total": 1587.22
+      },
+      "PP4-B": {
+       "total": 1551.81
+      },
+      "PP4-N": {
+       "total": 1814.16
+      },
+      "R8-A": {
+       "total": 1933.09
+      },
+      "R8-B": {
+       "total": 1492.82
+      },
+      "R8-N": {
+       "total": 1604.76
+      },
+      "R16-A": {
+       "total": 2062.63
+      },
+      "PIS": {
+       "total": 1106.28
+      },
+      "R16-N": {
+       "total": 1562.95
+      },
+      "CAL8-N": {
+       "total": 1904.49
+      },
+      "CAL8-A": {
+       "total": 2035.19
+      },
+      "CSL8-N": {
+       "total": 1624.7
+      },
+      "CSL8-A": {
+       "total": 1778.04
+      },
+      "CSL16-N": {
+       "total": 2182.32
+      },
+      "CSL16-A": {
+       "total": 2381.8
+      },
+      "RP1Q": {
+       "total": 1580.94
+      },
+      "GI": {
+       "total": 897.63
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-JANEIRO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-02": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1847.26
+      },
+      "R1-A": {
+       "total": 2298.18
+      },
+      "R1-B": {
+       "total": 1594.1
+      },
+      "PP4-B": {
+       "total": 1559.13
+      },
+      "PP4-N": {
+       "total": 1820.7
+      },
+      "R8-A": {
+       "total": 1940.38
+      },
+      "R8-B": {
+       "total": 1500.38
+      },
+      "R8-N": {
+       "total": 1610.96
+      },
+      "R16-A": {
+       "total": 2072.78
+      },
+      "PIS": {
+       "total": 1107.98
+      },
+      "R16-N": {
+       "total": 1569.36
+      },
+      "CAL8-N": {
+       "total": 1914.5
+      },
+      "CAL8-A": {
+       "total": 2045.38
+      },
+      "CSL8-N": {
+       "total": 1633.96
+      },
+      "CSL8-A": {
+       "total": 1787.5
+      },
+      "CSL16-N": {
+       "total": 2193.74
+      },
+      "CSL16-A": {
+       "total": 2393.56
+      },
+      "RP1Q": {
+       "total": 1581.12
+      },
+      "GI": {
+       "total": 899.78
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-FEVEREIRO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-03": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1852.08
+      },
+      "R1-A": {
+       "total": 2298.54
+      },
+      "R1-B": {
+       "total": 1597.92
+      },
+      "PP4-B": {
+       "total": 1561.38
+      },
+      "PP4-N": {
+       "total": 1823.55
+      },
+      "R8-A": {
+       "total": 1942.54
+      },
+      "R8-B": {
+       "total": 1502.72
+      },
+      "R8-N": {
+       "total": 1613.63
+      },
+      "R16-A": {
+       "total": 2080.45
+      },
+      "PIS": {
+       "total": 1109.26
+      },
+      "R16-N": {
+       "total": 1570.44
+      },
+      "CAL8-N": {
+       "total": 1915.0
+      },
+      "CAL8-A": {
+       "total": 2045.5
+      },
+      "CSL8-N": {
+       "total": 1636.78
+      },
+      "CSL8-A": {
+       "total": 1789.71
+      },
+      "CSL16-N": {
+       "total": 2197.42
+      },
+      "CSL16-A": {
+       "total": 2396.45
+      },
+      "RP1Q": {
+       "total": 1585.27
+      },
+      "GI": {
+       "total": 902.83
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-MARCO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-04": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1850.75
+      },
+      "R1-A": {
+       "total": 2297.27
+      },
+      "R1-B": {
+       "total": 1597.03
+      },
+      "PP4-B": {
+       "total": 1559.19
+      },
+      "PP4-N": {
+       "total": 1821.88
+      },
+      "R8-A": {
+       "total": 1940.66
+      },
+      "R8-B": {
+       "total": 1501.02
+      },
+      "R8-N": {
+       "total": 1612.13
+      },
+      "R16-A": {
+       "total": 2078.82
+      },
+      "PIS": {
+       "total": 1107.24
+      },
+      "R16-N": {
+       "total": 1568.79
+      },
+      "CAL8-N": {
+       "total": 1913.78
+      },
+      "CAL8-A": {
+       "total": 2044.08
+      },
+      "CSL8-N": {
+       "total": 1636.16
+      },
+      "CSL8-A": {
+       "total": 1789.04
+      },
+      "CSL16-N": {
+       "total": 2195.57
+      },
+      "CSL16-A": {
+       "total": 2394.56
+      },
+      "RP1Q": {
+       "total": 1584.72
+      },
+      "GI": {
+       "total": 902.75
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-ABRILO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-05": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1854.25
+      },
+      "R1-A": {
+       "total": 2306.14
+      },
+      "R1-B": {
+       "total": 1599.82
+      },
+      "PP4-B": {
+       "total": 1561.04
+      },
+      "PP4-N": {
+       "total": 1824.48
+      },
+      "R8-A": {
+       "total": 1946.19
+      },
+      "R8-B": {
+       "total": 1502.59
+      },
+      "R8-N": {
+       "total": 1614.79
+      },
+      "R16-A": {
+       "total": 2081.68
+      },
+      "PIS": {
+       "total": 1110.26
+      },
+      "R16-N": {
+       "total": 1571.02
+      },
+      "CAL8-N": {
+       "total": 1916.76
+      },
+      "CAL8-A": {
+       "total": 2047.06
+      },
+      "CSL8-N": {
+       "total": 1638.98
+      },
+      "CSL8-A": {
+       "total": 1791.86
+      },
+      "CSL16-N": {
+       "total": 2198.89
+      },
+      "CSL16-A": {
+       "total": 2397.89
+      },
+      "RP1Q": {
+       "total": 1586.47
+      },
+      "GI": {
+       "total": 905.82
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-MAIO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-06": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1854.65
+      },
+      "R1-A": {
+       "total": 2306.5
+      },
+      "R1-B": {
+       "total": 1600.1
+      },
+      "PP4-B": {
+       "total": 1562.26
+      },
+      "PP4-N": {
+       "total": 1825.25
+      },
+      "R8-A": {
+       "total": 1946.93
+      },
+      "R8-B": {
+       "total": 1503.87
+      },
+      "R8-N": {
+       "total": 1615.43
+      },
+      "R16-A": {
+       "total": 2082.83
+      },
+      "PIS": {
+       "total": 1111.71
+      },
+      "R16-N": {
+       "total": 1571.58
+      },
+      "CAL8-N": {
+       "total": 1917.37
+      },
+      "CAL8-A": {
+       "total": 2047.62
+      },
+      "CSL8-N": {
+       "total": 1639.82
+      },
+      "CSL8-A": {
+       "total": 1792.75
+      },
+      "CSL16-N": {
+       "total": 2200.04
+      },
+      "CSL16-A": {
+       "total": 2399.22
+      },
+      "RP1Q": {
+       "total": 1588.01
+      },
+      "GI": {
+       "total": 906.27
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-JUNHO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-08": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1855.58
+      },
+      "R1-A": {
+       "total": 2307.52
+      },
+      "R1-B": {
+       "total": 1600.21
+      },
+      "PP4-B": {
+       "total": 1562.69
+      },
+      "PP4-N": {
+       "total": 1825.39
+      },
+      "R8-A": {
+       "total": 1946.97
+      },
+      "R8-B": {
+       "total": 1503.31
+      },
+      "R8-N": {
+       "total": 1615.61
+      },
+      "R16-A": {
+       "total": 2090.44
+      },
+      "PIS": {
+       "total": 1110.93
+      },
+      "R16-N": {
+       "total": 1571.8
+      },
+      "CAL8-N": {
+       "total": 1917.78
+      },
+      "CAL8-A": {
+       "total": 2048.02
+      },
+      "CSL8-N": {
+       "total": 1639.84
+      },
+      "CSL8-A": {
+       "total": 1792.72
+      },
+      "CSL16-N": {
+       "total": 2199.99
+      },
+      "CSL16-A": {
+       "total": 2399.03
+      },
+      "RP1Q": {
+       "total": 1590.44
+      },
+      "GI": {
+       "total": 907.67
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-AGOSTO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-09": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1855.85
+      },
+      "R1-A": {
+       "total": 2307.77
+      },
+      "R1-B": {
+       "total": 1600.43
+      },
+      "PP4-N": {
+       "total": 1825.63
+      },
+      "R8-A": {
+       "total": 1947.18
+      },
+      "PP4-B": {
+       "total": 1561.95
+      },
+      "R8-B": {
+       "total": 1503.54
+      },
+      "R8-N": {
+       "total": 1615.84
+      },
+      "R16-A": {
+       "total": 2090.69
+      },
+      "PIS": {
+       "total": 1111.2
+      },
+      "R16-N": {
+       "total": 1571.99
+      },
+      "CAL8-N": {
+       "total": 1917.98
+      },
+      "CAL8-A": {
+       "total": 2048.21
+      },
+      "CSL8-N": {
+       "total": 1640.05
+      },
+      "CSL8-A": {
+       "total": 1792.93
+      },
+      "CSL16-N": {
+       "total": 2200.24
+      },
+      "CSL16-A": {
+       "total": 2399.32
+      },
+      "RP1Q": {
+       "total": 1590.86
+      },
+      "GI": {
+       "total": 907.77
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-SETEMBRO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-11": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1915.34
+      },
+      "R1-A": {
+       "total": 2371.75
+      },
+      "R1-B": {
+       "total": 1644.87
+      },
+      "PP4-B": {
+       "total": 1596.64
+      },
+      "PP4-N": {
+       "total": 1879.82
+      },
+      "R8-A": {
+       "total": 1996.22
+      },
+      "R8-B": {
+       "total": 1536.09
+      },
+      "R8-N": {
+       "total": 1662.08
+      },
+      "R16-A": {
+       "total": 2145.31
+      },
+      "PIS": {
+       "total": 1139.78
+      },
+      "R16-N": {
+       "total": 1615.93
+      },
+      "CAL8-N": {
+       "total": 1970.12
+      },
+      "CAL8-A": {
+       "total": 2100.67
+      },
+      "CSL8-N": {
+       "total": 1686.61
+      },
+      "CSL8-A": {
+       "total": 1840.8
+      },
+      "CSL16-N": {
+       "total": 2261.79
+      },
+      "CSL16-A": {
+       "total": 2462.68
+      },
+      "RP1Q": {
+       "total": 1643.94
+      },
+      "GI": {
+       "total": 932.03
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-NOVEMBRO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2023-12": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1915.67
+      },
+      "R1-A": {
+       "total": 2372.08
+      },
+      "R1-B": {
+       "total": 1645.09
+      },
+      "PP4-B": {
+       "total": 1597.29
+      },
+      "PP4-N": {
+       "total": 1880.33
+      },
+      "R8-A": {
+       "total": 1996.89
+      },
+      "R8-B": {
+       "total": 1536.73
+      },
+      "R8-N": {
+       "total": 1662.44
+      },
+      "R16-A": {
+       "total": 2145.96
+      },
+      "PIS": {
+       "total": 1140.51
+      },
+      "R16-N": {
+       "total": 1616.31
+      },
+      "CAL8-N": {
+       "total": 1970.43
+      },
+      "CAL8-A": {
+       "total": 2101.02
+      },
+      "CSL8-N": {
+       "total": 1687.03
+      },
+      "CSL8-A": {
+       "total": 1841.31
+      },
+      "CSL16-N": {
+       "total": 2262.39
+      },
+      "CSL16-A": {
+       "total": 2463.43
+      },
+      "RP1Q": {
+       "total": 1644.62
+      },
+      "GI": {
+       "total": 932.23
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-DEZEMBRO2023-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-01": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1561.61
+      },
+      "R1-N": {
+       "total": 1799.03
+      },
+      "R1-A": {
+       "total": 2245.63
+      },
+      "PP4-B": {
+       "total": 1527.91
+      },
+      "PP4-N": {
+       "total": 1777.38
+      },
+      "R8-A": {
+       "total": 1898.91
+      },
+      "R8-B": {
+       "total": 1471.65
+      },
+      "R8-N": {
+       "total": 1570.06
+      },
+      "R16-A": {
+       "total": 2036.86
+      },
+      "PIS": {
+       "total": 1084.99
+      },
+      "R16-N": {
+       "total": 1527.07
+      },
+      "CAL8-N": {
+       "total": 1867.16
+      },
+      "CAL8-A": {
+       "total": 1996.49
+      },
+      "CSL8-N": {
+       "total": 1594.28
+      },
+      "CSL8-A": {
+       "total": 1746.14
+      },
+      "CSL16-N": {
+       "total": 2139.0
+      },
+      "CSL16-A": {
+       "total": 2336.91
+      },
+      "RP1Q": {
+       "total": 1534.75
+      },
+      "GI": {
+       "total": 880.65
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-D-JAN2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1917.11
+      },
+      "R1-A": {
+       "total": 2373.76
+      },
+      "R1-B": {
+       "total": 1646.36
+      },
+      "PP4-B": {
+       "total": 1599.2
+      },
+      "PP4-N": {
+       "total": 1881.8
+      },
+      "R8-A": {
+       "total": 1998.04
+      },
+      "R8-B": {
+       "total": 1538.66
+      },
+      "R8-N": {
+       "total": 1663.94
+      },
+      "R16-A": {
+       "total": 2148.25
+      },
+      "PIS": {
+       "total": 1142.72
+      },
+      "R16-N": {
+       "total": 1617.39
+      },
+      "CAL8-N": {
+       "total": 1971.98
+      },
+      "CAL8-A": {
+       "total": 2102.3
+      },
+      "CSL8-N": {
+       "total": 1688.71
+      },
+      "CSL8-A": {
+       "total": 1843.15
+      },
+      "CSL16-N": {
+       "total": 2264.7
+      },
+      "CSL16-A": {
+       "total": 2466.11
+      },
+      "RP1Q": {
+       "total": 1647.95
+      },
+      "GI": {
+       "total": 933.16
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-JANEIRO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-02": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1565.23
+      },
+      "R1-N": {
+       "total": 1802.12
+      },
+      "R1-A": {
+       "total": 2249.25
+      },
+      "PP4-B": {
+       "total": 1532.07
+      },
+      "PP4-N": {
+       "total": 1780.94
+      },
+      "R8-A": {
+       "total": 1902.52
+      },
+      "R8-B": {
+       "total": 1475.55
+      },
+      "R8-N": {
+       "total": 1573.68
+      },
+      "R16-A": {
+       "total": 2042.23
+      },
+      "PIS": {
+       "total": 1087.26
+      },
+      "R16-N": {
+       "total": 1530.43
+      },
+      "CAL8-N": {
+       "total": 1872.04
+      },
+      "CAL8-A": {
+       "total": 2001.24
+      },
+      "CSL8-N": {
+       "total": 1598.47
+      },
+      "CSL8-A": {
+       "total": 1750.5
+      },
+      "CSL16-N": {
+       "total": 2145.0
+      },
+      "CSL16-A": {
+       "total": 2343.15
+      },
+      "RP1Q": {
+       "total": 1536.57
+      },
+      "GI": {
+       "total": 881.85
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-D-FEV2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1920.2
+      },
+      "R1-A": {
+       "total": 2377.38
+      },
+      "R1-B": {
+       "total": 1649.98
+      },
+      "PP4-B": {
+       "total": 1603.36
+      },
+      "PP4-N": {
+       "total": 1885.35
+      },
+      "R8-A": {
+       "total": 2001.65
+      },
+      "R8-B": {
+       "total": 1542.56
+      },
+      "R8-N": {
+       "total": 1667.56
+      },
+      "R16-A": {
+       "total": 2153.62
+      },
+      "PIS": {
+       "total": 1144.98
+      },
+      "R16-N": {
+       "total": 1620.75
+      },
+      "CAL8-N": {
+       "total": 1976.86
+      },
+      "CAL8-A": {
+       "total": 2107.02
+      },
+      "CSL8-N": {
+       "total": 1692.9
+      },
+      "CSL8-A": {
+       "total": 1847.51
+      },
+      "CSL16-N": {
+       "total": 2270.7
+      },
+      "CSL16-A": {
+       "total": 2472.35
+      },
+      "RP1Q": {
+       "total": 1649.78
+      },
+      "GI": {
+       "total": 934.37
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/10/02.CUB-FEVEREIRO2024-NBR0_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-03": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1918.91
+      },
+      "R1-A": {
+       "total": 2380.76
+      },
+      "R1-B": {
+       "total": 1648.35
+      },
+      "PP4-B": {
+       "total": 1602.41
+      },
+      "PP4-N": {
+       "total": 1886.34
+      },
+      "R8-A": {
+       "total": 2002.83
+      },
+      "R8-B": {
+       "total": 1541.61
+      },
+      "R8-N": {
+       "total": 1667.41
+      },
+      "R16-A": {
+       "total": 2166.88
+      },
+      "PIS": {
+       "total": 1142.25
+      },
+      "R16-N": {
+       "total": 1622.72
+      },
+      "CAL8-N": {
+       "total": 1980.84
+      },
+      "CAL8-A": {
+       "total": 2111.87
+      },
+      "CSL8-N": {
+       "total": 1693.56
+      },
+      "CSL8-A": {
+       "total": 1848.45
+      },
+      "CSL16-N": {
+       "total": 2270.83
+      },
+      "CSL16-A": {
+       "total": 2472.67
+      },
+      "RP1Q": {
+       "total": 1648.78
+      },
+      "GI": {
+       "total": 934.65
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-MARCO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1563.6
+      },
+      "R1-N": {
+       "total": 1800.83
+      },
+      "R1-A": {
+       "total": 2252.63
+      },
+      "PP4-B": {
+       "total": 1531.12
+      },
+      "PP4-N": {
+       "total": 1781.92
+      },
+      "R8-A": {
+       "total": 1903.7
+      },
+      "R8-B": {
+       "total": 1474.59
+      },
+      "R8-N": {
+       "total": 1573.53
+      },
+      "R16-A": {
+       "total": 2055.49
+      },
+      "PIS": {
+       "total": 1084.52
+      },
+      "R16-N": {
+       "total": 1532.4
+      },
+      "CAL8-N": {
+       "total": 1876.02
+      },
+      "CAL8-A": {
+       "total": 2006.06
+      },
+      "CSL8-N": {
+       "total": 1599.13
+      },
+      "CSL8-A": {
+       "total": 1751.45
+      },
+      "CSL16-N": {
+       "total": 2145.13
+      },
+      "CSL16-A": {
+       "total": 2343.48
+      },
+      "RP1Q": {
+       "total": 1535.58
+      },
+      "GI": {
+       "total": 882.13
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-D-MAR2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-04": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1563.46
+      },
+      "R1-N": {
+       "total": 1799.47
+      },
+      "R1-A": {
+       "total": 2251.31
+      },
+      "PP4-B": {
+       "total": 1530.9
+      },
+      "PP4-N": {
+       "total": 1781.21
+      },
+      "R8-A": {
+       "total": 1903.17
+      },
+      "R8-B": {
+       "total": 1474.39
+      },
+      "R8-N": {
+       "total": 1572.95
+      },
+      "R16-A": {
+       "total": 2041.9
+      },
+      "PIS": {
+       "total": 1084.51
+      },
+      "R16-N": {
+       "total": 1531.78
+      },
+      "CAL8-N": {
+       "total": 1875.23
+      },
+      "CAL8-A": {
+       "total": 2005.19
+      },
+      "CSL8-N": {
+       "total": 1598.63
+      },
+      "CSL8-A": {
+       "total": 1750.87
+      },
+      "CSL16-N": {
+       "total": 2144.45
+      },
+      "CSL16-A": {
+       "total": 2342.74
+      },
+      "RP1Q": {
+       "total": 1531.45
+      },
+      "GI": {
+       "total": 880.16
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-D-ABR2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1917.55
+      },
+      "R1-A": {
+       "total": 2379.45
+      },
+      "R1-B": {
+       "total": 1648.2
+      },
+      "PP4-B": {
+       "total": 1602.2
+      },
+      "PP4-N": {
+       "total": 1885.62
+      },
+      "R8-A": {
+       "total": 2002.3
+      },
+      "R8-B": {
+       "total": 1541.41
+      },
+      "R8-N": {
+       "total": 1666.83
+      },
+      "R16-A": {
+       "total": 2153.28
+      },
+      "PIS": {
+       "total": 1142.24
+      },
+      "R16-N": {
+       "total": 1622.1
+      },
+      "CAL8-N": {
+       "total": 1980.05
+      },
+      "CAL8-A": {
+       "total": 2111.0
+      },
+      "CSL8-N": {
+       "total": 1693.06
+      },
+      "CSL8-A": {
+       "total": 1847.88
+      },
+      "CSL16-N": {
+       "total": 2270.16
+      },
+      "CSL16-A": {
+       "total": 2471.93
+      },
+      "RP1Q": {
+       "total": 1644.65
+      },
+      "GI": {
+       "total": 932.68
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/10/04.CUB-ABRIL2024-NBR0_12721pdf.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-05": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1567.9
+      },
+      "R1-N": {
+       "total": 1801.57
+      },
+      "R1-A": {
+       "total": 2253.52
+      },
+      "PP4-B": {
+       "total": 1537.77
+      },
+      "PP4-N": {
+       "total": 1785.98
+      },
+      "R8-A": {
+       "total": 1908.48
+      },
+      "R8-B": {
+       "total": 1480.85
+      },
+      "R8-N": {
+       "total": 1577.72
+      },
+      "R16-A": {
+       "total": 2049.79
+      },
+      "PIS": {
+       "total": 1088.38
+      },
+      "R16-N": {
+       "total": 1536.61
+      },
+      "CAL8-N": {
+       "total": 1882.53
+      },
+      "CAL8-A": {
+       "total": 2012.49
+      },
+      "CSL8-N": {
+       "total": 1604.87
+      },
+      "CSL8-A": {
+       "total": 1757.03
+      },
+      "CSL16-N": {
+       "total": 2153.69
+      },
+      "CSL16-A": {
+       "total": 2351.88
+      },
+      "RP1Q": {
+       "total": 1526.87
+      },
+      "GI": {
+       "total": 879.58
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-D-MAI2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1919.66
+      },
+      "R1-A": {
+       "total": 2381.65
+      },
+      "R1-B": {
+       "total": 1652.65
+      },
+      "PP4-B": {
+       "total": 1609.07
+      },
+      "PP4-N": {
+       "total": 1890.39
+      },
+      "R8-A": {
+       "total": 2007.61
+      },
+      "R8-B": {
+       "total": 1547.86
+      },
+      "R8-N": {
+       "total": 1671.6
+      },
+      "R16-A": {
+       "total": 2161.17
+      },
+      "PIS": {
+       "total": 1146.11
+      },
+      "R16-N": {
+       "total": 1626.93
+      },
+      "CAL8-N": {
+       "total": 1987.34
+      },
+      "CAL8-A": {
+       "total": 2118.3
+      },
+      "CSL8-N": {
+       "total": 1699.3
+      },
+      "CSL8-A": {
+       "total": 1854.04
+      },
+      "CSL16-N": {
+       "total": 2279.39
+      },
+      "CSL16-A": {
+       "total": 2481.08
+      },
+      "RP1Q": {
+       "total": 1640.07
+      },
+      "GI": {
+       "total": 931.1
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-MAIO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-06": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1565.74
+      },
+      "R1-N": {
+       "total": 1799.9
+      },
+      "R1-A": {
+       "total": 2246.64
+      },
+      "PP4-B": {
+       "total": 1533.93
+      },
+      "PP4-N": {
+       "total": 1781.75
+      },
+      "R8-A": {
+       "total": 1903.91
+      },
+      "R8-B": {
+       "total": 1477.52
+      },
+      "R8-N": {
+       "total": 1574.47
+      },
+      "R16-A": {
+       "total": 2044.58
+      },
+      "PIS": {
+       "total": 1085.78
+      },
+      "R16-N": {
+       "total": 1532.07
+      },
+      "CAL8-N": {
+       "total": 1875.47
+      },
+      "CAL8-A": {
+       "total": 2005.16
+      },
+      "CSL8-N": {
+       "total": 1601.12
+      },
+      "CSL8-A": {
+       "total": 1752.75
+      },
+      "CSL16-N": {
+       "total": 2148.44
+      },
+      "CSL16-A": {
+       "total": 2345.85
+      },
+      "RP1Q": {
+       "total": 1525.52
+      },
+      "GI": {
+       "total": 879.3
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-D-JUN2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1917.98
+      },
+      "R1-A": {
+       "total": 2374.77
+      },
+      "R1-B": {
+       "total": 1650.49
+      },
+      "PP4-B": {
+       "total": 1605.22
+      },
+      "PP4-N": {
+       "total": 1886.16
+      },
+      "R8-A": {
+       "total": 2009.04
+      },
+      "R8-B": {
+       "total": 1544.53
+      },
+      "R8-N": {
+       "total": 1668.35
+      },
+      "R16-A": {
+       "total": 2155.97
+      },
+      "PIS": {
+       "total": 1143.51
+      },
+      "R16-N": {
+       "total": 1622.39
+      },
+      "CAL8-N": {
+       "total": 1980.28
+      },
+      "CAL8-A": {
+       "total": 2110.97
+      },
+      "CSL8-N": {
+       "total": 1695.55
+      },
+      "CSL8-A": {
+       "total": 1849.97
+      },
+      "CSL16-N": {
+       "total": 2274.15
+      },
+      "CSL16-A": {
+       "total": 2475.05
+      },
+      "RP1Q": {
+       "total": 1638.72
+      },
+      "GI": {
+       "total": 931.82
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/06.CUB-JUNHO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-07": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1565.24
+      },
+      "R1-N": {
+       "total": 1800.89
+      },
+      "R1-A": {
+       "total": 2247.35
+      },
+      "PP4-B": {
+       "total": 1534.83
+      },
+      "PP4-N": {
+       "total": 1783.1
+      },
+      "R8-A": {
+       "total": 1905.69
+      },
+      "R8-B": {
+       "total": 1478.24
+      },
+      "R8-N": {
+       "total": 1575.69
+      },
+      "R16-A": {
+       "total": 2046.41
+      },
+      "PIS": {
+       "total": 1087.11
+      },
+      "R16-N": {
+       "total": 1533.23
+      },
+      "CAL8-N": {
+       "total": 1876.47
+      },
+      "CAL8-A": {
+       "total": 2006.05
+      },
+      "CSL8-N": {
+       "total": 1602.15
+      },
+      "CSL8-A": {
+       "total": 1753.76
+      },
+      "CSL16-N": {
+       "total": 2150.23
+      },
+      "CSL16-A": {
+       "total": 2347.97
+      },
+      "RP1Q": {
+       "total": 1527.28
+      },
+      "GI": {
+       "total": 879.81
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/07.CUB-D-JUL2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1918.97
+      },
+      "R1-A": {
+       "total": 2375.48
+      },
+      "R1-B": {
+       "total": 1649.99
+      },
+      "PP4-B": {
+       "total": 1606.12
+      },
+      "PP4-N": {
+       "total": 1887.52
+      },
+      "R8-A": {
+       "total": 2004.82
+      },
+      "R8-B": {
+       "total": 1545.25
+      },
+      "R8-N": {
+       "total": 1669.57
+      },
+      "R16-A": {
+       "total": 2157.8
+      },
+      "PIS": {
+       "total": 1144.84
+      },
+      "R16-N": {
+       "total": 1623.55
+      },
+      "CAL8-N": {
+       "total": 1981.29
+      },
+      "CAL8-A": {
+       "total": 2111.86
+      },
+      "CSL8-N": {
+       "total": 1696.58
+      },
+      "CSL8-A": {
+       "total": 1850.77
+      },
+      "CSL16-N": {
+       "total": 2275.94
+      },
+      "CSL16-A": {
+       "total": 2477.17
+      },
+      "RP1Q": {
+       "total": 1640.48
+      },
+      "GI": {
+       "total": 932.33
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/07.CUB-JULHO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-08": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1919.24
+      },
+      "R1-A": {
+       "total": 2375.96
+      },
+      "R1-B": {
+       "total": 1651.38
+      },
+      "PP4-B": {
+       "total": 1607.69
+      },
+      "PP4-N": {
+       "total": 1887.96
+      },
+      "R8-A": {
+       "total": 2005.09
+      },
+      "R8-B": {
+       "total": 1546.77
+      },
+      "R8-N": {
+       "total": 1669.89
+      },
+      "R16-A": {
+       "total": 2158.11
+      },
+      "PIS": {
+       "total": 1146.13
+      },
+      "R16-N": {
+       "total": 1623.91
+      },
+      "CAL8-N": {
+       "total": 1981.61
+      },
+      "CAL8-A": {
+       "total": 2112.33
+      },
+      "CSL8-N": {
+       "total": 1696.86
+      },
+      "CSL8-A": {
+       "total": 1851.15
+      },
+      "CSL16-N": {
+       "total": 2276.4
+      },
+      "CSL16-A": {
+       "total": 2477.53
+      },
+      "RP1Q": {
+       "total": 1640.71
+      },
+      "GI": {
+       "total": 932.36
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-AGOSTO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1566.63
+      },
+      "R1-N": {
+       "total": 1801.16
+      },
+      "R1-A": {
+       "total": 2247.82
+      },
+      "PP4-B": {
+       "total": 1536.4
+      },
+      "PP4-N": {
+       "total": 1783.55
+      },
+      "R8-A": {
+       "total": 1905.96
+      },
+      "R8-B": {
+       "total": 1479.75
+      },
+      "R8-N": {
+       "total": 1576.01
+      },
+      "R16-A": {
+       "total": 2046.73
+      },
+      "PIS": {
+       "total": 1088.4
+      },
+      "R16-N": {
+       "total": 1533.59
+      },
+      "CAL8-N": {
+       "total": 1876.79
+      },
+      "CAL8-A": {
+       "total": 2006.52
+      },
+      "CSL8-N": {
+       "total": 1602.43
+      },
+      "CSL8-A": {
+       "total": 1754.15
+      },
+      "CSL16-N": {
+       "total": 2150.69
+      },
+      "CSL16-A": {
+       "total": 2348.34
+      },
+      "RP1Q": {
+       "total": 1527.51
+      },
+      "GI": {
+       "total": 879.84
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/08.CUB-D-AGO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-09": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1566.15
+      },
+      "R1-N": {
+       "total": 1801.75
+      },
+      "R1-A": {
+       "total": 2248.11
+      },
+      "PP4-B": {
+       "total": 1535.29
+      },
+      "PP4-N": {
+       "total": 1783.54
+      },
+      "R8-A": {
+       "total": 1906.01
+      },
+      "R8-B": {
+       "total": 1478.6
+      },
+      "R8-N": {
+       "total": 1575.95
+      },
+      "R16-A": {
+       "total": 2046.71
+      },
+      "PIS": {
+       "total": 1087.42
+      },
+      "R16-N": {
+       "total": 1533.58
+      },
+      "CAL8-N": {
+       "total": 1876.67
+      },
+      "CAL8-A": {
+       "total": 2006.43
+      },
+      "CSL8-N": {
+       "total": 1602.3
+      },
+      "CSL8-A": {
+       "total": 1754.03
+      },
+      "CSL16-N": {
+       "total": 2150.46
+      },
+      "CSL16-A": {
+       "total": 2348.32
+      },
+      "RP1Q": {
+       "total": 1527.93
+      },
+      "GI": {
+       "total": 880.09
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-D-SET2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1919.83
+      },
+      "R1-A": {
+       "total": 2376.25
+      },
+      "R1-B": {
+       "total": 1650.9
+      },
+      "PP4-B": {
+       "total": 1606.59
+      },
+      "PP4-N": {
+       "total": 1887.95
+      },
+      "R8-A": {
+       "total": 2005.14
+      },
+      "R8-B": {
+       "total": 1545.61
+      },
+      "R8-N": {
+       "total": 1669.83
+      },
+      "R16-A": {
+       "total": 2158.1
+      },
+      "PIS": {
+       "total": 1145.15
+      },
+      "R16-N": {
+       "total": 1623.89
+      },
+      "CAL8-N": {
+       "total": 1981.48
+      },
+      "CAL8-A": {
+       "total": 2112.24
+      },
+      "CSL8-N": {
+       "total": 1696.72
+      },
+      "CSL8-A": {
+       "total": 1851.04
+      },
+      "CSL16-N": {
+       "total": 2276.16
+      },
+      "CSL16-A": {
+       "total": 2477.51
+      },
+      "RP1Q": {
+       "total": 1641.14
+      },
+      "GI": {
+       "total": 932.61
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/09.CUB-SETEMBRO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-10": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1566.31
+      },
+      "R1-N": {
+       "total": 1802.94
+      },
+      "R1-A": {
+       "total": 2249.36
+      },
+      "PP4-B": {
+       "total": 1535.37
+      },
+      "PP4-N": {
+       "total": 1784.07
+      },
+      "R8-A": {
+       "total": 1906.38
+      },
+      "R8-B": {
+       "total": 1478.66
+      },
+      "R8-N": {
+       "total": 1576.54
+      },
+      "R16-A": {
+       "total": 2058.57
+      },
+      "PIS": {
+       "total": 1087.48
+      },
+      "R16-N": {
+       "total": 1533.99
+      },
+      "CAL8-N": {
+       "total": 1877.58
+      },
+      "CAL8-A": {
+       "total": 2007.09
+      },
+      "CSL8-N": {
+       "total": 1603.01
+      },
+      "CSL8-A": {
+       "total": 1754.6
+      },
+      "CSL16-N": {
+       "total": 2151.36
+      },
+      "CSL16-A": {
+       "total": 2349.06
+      },
+      "RP1Q": {
+       "total": 1532.07
+      },
+      "GI": {
+       "total": 882.24
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-D-OUT2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1921.02
+      },
+      "R1-A": {
+       "total": 2377.49
+      },
+      "R1-B": {
+       "total": 1651.06
+      },
+      "PP4-B": {
+       "total": 1606.66
+      },
+      "PP4-N": {
+       "total": 1888.48
+      },
+      "R8-A": {
+       "total": 2005.51
+      },
+      "R8-B": {
+       "total": 1545.67
+      },
+      "R8-N": {
+       "total": 1670.42
+      },
+      "R16-A": {
+       "total": 2169.96
+      },
+      "PIS": {
+       "total": 1145.2
+      },
+      "R16-N": {
+       "total": 1624.31
+      },
+      "CAL8-N": {
+       "total": 1982.39
+      },
+      "CAL8-A": {
+       "total": 2112.9
+      },
+      "CSL8-N": {
+       "total": 1697.44
+      },
+      "CSL8-A": {
+       "total": 1851.6
+      },
+      "CSL16-N": {
+       "total": 2277.07
+      },
+      "CSL16-A": {
+       "total": 2478.25
+      },
+      "RP1Q": {
+       "total": 1645.27
+      },
+      "GI": {
+       "total": 934.76
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/10.CUB-OUTBRO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-11": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1566.31
+      },
+      "R1-N": {
+       "total": 1802.95
+      },
+      "R1-A": {
+       "total": 2249.36
+      },
+      "PP4-B": {
+       "total": 1535.44
+      },
+      "PP4-N": {
+       "total": 1784.11
+      },
+      "R8-A": {
+       "total": 1906.38
+      },
+      "R8-B": {
+       "total": 1478.71
+      },
+      "R8-N": {
+       "total": 1576.57
+      },
+      "R16-A": {
+       "total": 2058.57
+      },
+      "PIS": {
+       "total": 1087.54
+      },
+      "R16-N": {
+       "total": 1534.01
+      },
+      "CAL8-N": {
+       "total": 1877.61
+      },
+      "CAL8-A": {
+       "total": 2007.12
+      },
+      "CSL8-N": {
+       "total": 1603.06
+      },
+      "CSL8-A": {
+       "total": 1754.64
+      },
+      "CSL16-N": {
+       "total": 2151.45
+      },
+      "CSL16-A": {
+       "total": 2349.14
+      },
+      "RP1Q": {
+       "total": 1532.07
+      },
+      "GI": {
+       "total": 882.24
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-D-NOV2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1921.03
+      },
+      "R1-A": {
+       "total": 2377.49
+      },
+      "R1-B": {
+       "total": 1651.06
+      },
+      "PP4-N": {
+       "total": 1888.52
+      },
+      "R8-A": {
+       "total": 2005.53
+      },
+      "PP4-B": {
+       "total": 1606.74
+      },
+      "R8-N": {
+       "total": 1670.45
+      },
+      "R16-A": {
+       "total": 2170.03
+      },
+      "R8-B": {
+       "total": 1545.72
+      },
+      "R16-N": {
+       "total": 1624.33
+      },
+      "PIS": {
+       "total": 1145.26
+      },
+      "CAL8-N": {
+       "total": 1982.42
+      },
+      "CAL8-A": {
+       "total": 2112.93
+      },
+      "CSL8-N": {
+       "total": 1697.49
+      },
+      "CSL8-A": {
+       "total": 1851.65
+      },
+      "CSL16-N": {
+       "total": 2277.16
+      },
+      "CSL16-A": {
+       "total": 2478.34
+      },
+      "RP1Q": {
+       "total": 1645.27
+      },
+      "GI": {
+       "total": 934.76
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/11.CUB-NOVEMBRO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2024-12": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1568.69
+      },
+      "R1-N": {
+       "total": 1804.66
+      },
+      "R1-A": {
+       "total": 2257.89
+      },
+      "PP4-B": {
+       "total": 1539.37
+      },
+      "PP4-N": {
+       "total": 1788.9
+      },
+      "R8-A": {
+       "total": 1911.01
+      },
+      "R8-B": {
+       "total": 1481.85
+      },
+      "R8-N": {
+       "total": 1580.17
+      },
+      "R16-A": {
+       "total": 2064.02
+      },
+      "PIS": {
+       "total": 1092.25
+      },
+      "R16-N": {
+       "total": 1539.23
+      },
+      "CAL8-N": {
+       "total": 1886.14
+      },
+      "CAL8-A": {
+       "total": 2016.09
+      },
+      "CSL8-N": {
+       "total": 1606.9
+      },
+      "CSL8-A": {
+       "total": 1759.1
+      },
+      "CSL16-N": {
+       "total": 2156.96
+      },
+      "CSL16-A": {
+       "total": 2355.38
+      },
+      "RP1Q": {
+       "total": 1532.25
+      },
+      "GI": {
+       "total": 883.42
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-D-DEZ2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1922.74
+      },
+      "R1-A": {
+       "total": 2386.03
+      },
+      "R1-B": {
+       "total": 1653.43
+      },
+      "PP4-N": {
+       "total": 1893.31
+      },
+      "R8-A": {
+       "total": 2010.14
+      },
+      "PP4-B": {
+       "total": 1610.66
+      },
+      "R8-B": {
+       "total": 1548.87
+      },
+      "R8-N": {
+       "total": 1674.05
+      },
+      "R16-A": {
+       "total": 2175.41
+      },
+      "PIS": {
+       "total": 1149.98
+      },
+      "R16-N": {
+       "total": 1629.55
+      },
+      "CAL8-N": {
+       "total": 1990.95
+      },
+      "CAL8-A": {
+       "total": 2121.9
+      },
+      "CSL8-N": {
+       "total": 1701.33
+      },
+      "CSL8-A": {
+       "total": 1856.11
+      },
+      "CSL16-N": {
+       "total": 2282.66
+      },
+      "CSL16-A": {
+       "total": 2484.58
+      },
+      "RP1Q": {
+       "total": 1645.46
+      },
+      "GI": {
+       "total": 935.94
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/12.CUB-DEZEMBRO2024-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-01": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1571.11
+      },
+      "R1-N": {
+       "total": 1808.29
+      },
+      "R1-A": {
+       "total": 2260.32
+      },
+      "PP4-B": {
+       "total": 1545.33
+      },
+      "PP4-N": {
+       "total": 1792.95
+      },
+      "R8-A": {
+       "total": 1915.78
+      },
+      "R8-B": {
+       "total": 1486.43
+      },
+      "R8-N": {
+       "total": 1584.27
+      },
+      "R16-A": {
+       "total": 2068.36
+      },
+      "PIS": {
+       "total": 1098.26
+      },
+      "R16-N": {
+       "total": 1543.05
+      },
+      "CAL8-N": {
+       "total": 1888.63
+      },
+      "CAL8-A": {
+       "total": 2018.59
+      },
+      "CSL8-N": {
+       "total": 1608.52
+      },
+      "CSL8-A": {
+       "total": 1760.55
+      },
+      "CSL16-N": {
+       "total": 2162.17
+      },
+      "CSL16-A": {
+       "total": 2360.41
+      },
+      "RP1Q": {
+       "total": 1534.29
+      },
+      "GI": {
+       "total": 883.91
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-D-JAN2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1926.37
+      },
+      "R1-A": {
+       "total": 2388.45
+      },
+      "R1-B": {
+       "total": 1655.86
+      },
+      "PP4-N": {
+       "total": 1897.36
+      },
+      "R8-A": {
+       "total": 2014.91
+      },
+      "PP4-B": {
+       "total": 1616.63
+      },
+      "R8-N": {
+       "total": 1678.15
+      },
+      "R16-A": {
+       "total": 2179.74
+      },
+      "R8-B": {
+       "total": 1553.44
+      },
+      "R16-N": {
+       "total": 1633.37
+      },
+      "PIS": {
+       "total": 1155.98
+      },
+      "CAL8-N": {
+       "total": 1993.45
+      },
+      "CAL8-A": {
+       "total": 2124.4
+      },
+      "CSL8-N": {
+       "total": 1702.94
+      },
+      "CSL8-A": {
+       "total": 1857.55
+      },
+      "CSL16-N": {
+       "total": 2287.88
+      },
+      "CSL16-A": {
+       "total": 2489.6
+      },
+      "RP1Q": {
+       "total": 1647.49
+      },
+      "GI": {
+       "total": 936.43
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/01.CUB-JANEIRO2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-02": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1571.28
+      },
+      "R1-N": {
+       "total": 1808.73
+      },
+      "R1-A": {
+       "total": 2260.77
+      },
+      "PP4-B": {
+       "total": 1545.59
+      },
+      "PP4-N": {
+       "total": 1793.27
+      },
+      "R8-A": {
+       "total": 1916.02
+      },
+      "R8-B": {
+       "total": 1486.63
+      },
+      "R8-N": {
+       "total": 1584.56
+      },
+      "R16-A": {
+       "total": 2070.43
+      },
+      "PIS": {
+       "total": 1098.44
+      },
+      "R16-N": {
+       "total": 1543.32
+      },
+      "CAL8-N": {
+       "total": 1888.97
+      },
+      "CAL8-A": {
+       "total": 2018.91
+      },
+      "CSL8-N": {
+       "total": 1608.81
+      },
+      "CSL8-A": {
+       "total": 1760.83
+      },
+      "CSL16-N": {
+       "total": 2162.59
+      },
+      "CSL16-A": {
+       "total": 2360.81
+      },
+      "RP1Q": {
+       "total": 1535.33
+      },
+      "GI": {
+       "total": 884.4
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-D-FEV2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1926.81
+      },
+      "R1-A": {
+       "total": 2388.91
+      },
+      "R1-B": {
+       "total": 1656.03
+      },
+      "PP4-N": {
+       "total": 1897.68
+      },
+      "R8-A": {
+       "total": 2015.15
+      },
+      "PP4-B": {
+       "total": 1616.88
+      },
+      "R8-N": {
+       "total": 1678.44
+      },
+      "R16-A": {
+       "total": 2181.82
+      },
+      "R8-B": {
+       "total": 1553.65
+      },
+      "R16-N": {
+       "total": 1633.64
+      },
+      "PIS": {
+       "total": 1156.17
+      },
+      "CAL8-N": {
+       "total": 1993.79
+      },
+      "CAL8-A": {
+       "total": 2124.72
+      },
+      "CSL8-N": {
+       "total": 1703.24
+      },
+      "CSL8-A": {
+       "total": 1857.84
+      },
+      "CSL16-N": {
+       "total": 2288.3
+      },
+      "CSL16-A": {
+       "total": 2490.01
+      },
+      "RP1Q": {
+       "total": 1648.53
+      },
+      "GI": {
+       "total": 936.92
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/02.CUB-FEVEREIRO2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-03": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1573.77
+      },
+      "R1-N": {
+       "total": 1810.19
+      },
+      "R1-A": {
+       "total": 2262.79
+      },
+      "PP4-B": {
+       "total": 1548.38
+      },
+      "PP4-N": {
+       "total": 1794.73
+      },
+      "R8-A": {
+       "total": 1917.35
+      },
+      "R8-B": {
+       "total": 1489.33
+      },
+      "R8-N": {
+       "total": 1586.05
+      },
+      "R16-A": {
+       "total": 2072.51
+      },
+      "PIS": {
+       "total": 1101.2
+      },
+      "R16-N": {
+       "total": 1544.47
+      },
+      "CAL8-N": {
+       "total": 1890.55
+      },
+      "CAL8-A": {
+       "total": 2020.3
+      },
+      "CSL8-N": {
+       "total": 1610.27
+      },
+      "CSL8-A": {
+       "total": 1762.5
+      },
+      "CSL16-N": {
+       "total": 2164.86
+      },
+      "CSL16-A": {
+       "total": 2363.24
+      },
+      "RP1Q": {
+       "total": 1537.73
+      },
+      "GI": {
+       "total": 885.1
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-D-MAR2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1928.27
+      },
+      "R1-A": {
+       "total": 2390.93
+      },
+      "R1-B": {
+       "total": 1658.52
+      },
+      "PP4-N": {
+       "total": 1899.15
+      },
+      "R8-A": {
+       "total": 2016.48
+      },
+      "PP4-B": {
+       "total": 1619.67
+      },
+      "R8-N": {
+       "total": 1679.93
+      },
+      "R16-A": {
+       "total": 2183.9
+      },
+      "R8-B": {
+       "total": 1556.34
+      },
+      "R16-N": {
+       "total": 1634.79
+      },
+      "PIS": {
+       "total": 1158.93
+      },
+      "CAL8-N": {
+       "total": 1995.36
+      },
+      "CAL8-A": {
+       "total": 2126.11
+      },
+      "CSL8-N": {
+       "total": 1704.7
+      },
+      "CSL8-A": {
+       "total": 1859.51
+      },
+      "CSL16-N": {
+       "total": 2290.57
+      },
+      "CSL16-A": {
+       "total": 2492.43
+      },
+      "RP1Q": {
+       "total": 1650.94
+      },
+      "GI": {
+       "total": 937.62
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/03.CUB-MARCO2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-04": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1930.12
+      },
+      "R1-A": {
+       "total": 2393.08
+      },
+      "R1-B": {
+       "total": 1660.13
+      },
+      "PP4-N": {
+       "total": 1900.84
+      },
+      "R8-A": {
+       "total": 2018.08
+      },
+      "PP4-B": {
+       "total": 1621.54
+      },
+      "R8-N": {
+       "total": 1681.54
+      },
+      "R16-A": {
+       "total": 2186.12
+      },
+      "R8-B": {
+       "total": 1558.09
+      },
+      "R16-N": {
+       "total": 1636.19
+      },
+      "PIS": {
+       "total": 1160.89
+      },
+      "CAL8-N": {
+       "total": 1996.93
+      },
+      "CAL8-A": {
+       "total": 2127.64
+      },
+      "CSL8-N": {
+       "total": 1706.1
+      },
+      "CSL8-A": {
+       "total": 1861.21
+      },
+      "CSL16-N": {
+       "total": 2292.71
+      },
+      "CSL16-A": {
+       "total": 2495.03
+      },
+      "RP1Q": {
+       "total": 1653.78
+      },
+      "GI": {
+       "total": 938.38
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-ABRIL2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1575.28
+      },
+      "R1-N": {
+       "total": 1812.04
+      },
+      "R1-A": {
+       "total": 2264.94
+      },
+      "PP4-B": {
+       "total": 1550.24
+      },
+      "PP4-N": {
+       "total": 1796.43
+      },
+      "R8-A": {
+       "total": 1918.95
+      },
+      "R8-B": {
+       "total": 1491.08
+      },
+      "R8-N": {
+       "total": 1587.66
+      },
+      "R16-A": {
+       "total": 2074.74
+      },
+      "PIS": {
+       "total": 1103.16
+      },
+      "R16-N": {
+       "total": 1545.87
+      },
+      "CAL8-N": {
+       "total": 1892.12
+      },
+      "CAL8-A": {
+       "total": 2021.83
+      },
+      "CSL8-N": {
+       "total": 1611.67
+      },
+      "CSL8-A": {
+       "total": 1764.2
+      },
+      "CSL16-N": {
+       "total": 2167.01
+      },
+      "CSL16-A": {
+       "total": 2365.83
+      },
+      "RP1Q": {
+       "total": 1540.57
+      },
+      "GI": {
+       "total": 885.86
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/04.CUB-D-ABR2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-05": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1577.6
+      },
+      "R1-N": {
+       "total": 1812.52
+      },
+      "R1-A": {
+       "total": 2265.5
+      },
+      "PP4-B": {
+       "total": 1551.41
+      },
+      "PP4-N": {
+       "total": 1796.75
+      },
+      "R8-A": {
+       "total": 1922.22
+      },
+      "R8-B": {
+       "total": 1493.33
+      },
+      "R8-N": {
+       "total": 1590.67
+      },
+      "R16-A": {
+       "total": 2079.01
+      },
+      "PIS": {
+       "total": 1104.37
+      },
+      "R16-N": {
+       "total": 1548.82
+      },
+      "CAL8-N": {
+       "total": 1897.01
+      },
+      "CAL8-A": {
+       "total": 2026.81
+      },
+      "CSL8-N": {
+       "total": 1614.82
+      },
+      "CSL8-A": {
+       "total": 1767.46
+      },
+      "CSL16-N": {
+       "total": 2171.82
+      },
+      "CSL16-A": {
+       "total": 2370.75
+      },
+      "RP1Q": {
+       "total": 1543.43
+      },
+      "GI": {
+       "total": 887.03
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-D-MAI2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 1930.6
+      },
+      "R1-A": {
+       "total": 2393.64
+      },
+      "R1-B": {
+       "total": 1662.35
+      },
+      "PP4-N": {
+       "total": 1901.17
+      },
+      "R8-A": {
+       "total": 2021.35
+      },
+      "PP4-B": {
+       "total": 1623.7
+      },
+      "R8-N": {
+       "total": 1684.55
+      },
+      "R16-A": {
+       "total": 2190.39
+      },
+      "R8-B": {
+       "total": 1560.34
+      },
+      "R16-N": {
+       "total": 1639.14
+      },
+      "PIS": {
+       "total": 1162.09
+      },
+      "CAL8-N": {
+       "total": 2001.82
+      },
+      "CAL8-A": {
+       "total": 2132.62
+      },
+      "CSL8-N": {
+       "total": 1709.25
+      },
+      "CSL8-A": {
+       "total": 1864.46
+      },
+      "CSL16-N": {
+       "total": 2297.53
+      },
+      "CSL16-A": {
+       "total": 2499.95
+      },
+      "RP1Q": {
+       "total": 1656.64
+      },
+      "GI": {
+       "total": 939.55
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/06/05.CUB-JUNHO2025-NBR_12721.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-06": {
+   "sinduscon-ms": {
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1659.09
+      },
+      "R1-N": {
+       "total": 1926.14
+      },
+      "R1-A": {
+       "total": 2388.44
+      },
+      "PP4-B": {
+       "total": 1620.79
+      },
+      "PP4-N": {
+       "total": 1896.77
+      },
+      "R8-A": {
+       "total": 2017.36
+      },
+      "R8-B": {
+       "total": 1557.65
+      },
+      "R8-N": {
+       "total": 1680.76
+      },
+      "R16-A": {
+       "total": 2185.85
+      },
+      "PIS": {
+       "total": 1157.02
+      },
+      "R16-N": {
+       "total": 1635.56
+      },
+      "CAL8-N": {
+       "total": 1997.39
+      },
+      "CAL8-A": {
+       "total": 2128.15
+      },
+      "CSL8-N": {
+       "total": 1705.31
+      },
+      "CSL8-A": {
+       "total": 1860.44
+      },
+      "CSL16-N": {
+       "total": 2292.38
+      },
+      "CSL16-A": {
+       "total": 2494.68
+      },
+      "RP1Q": {
+       "total": 1653.25
+      },
+      "GI": {
+       "total": 936.77
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/09/06-JUNHO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-07": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2061.74
+      },
+      "R1-A": {
+       "total": 2535.92
+      },
+      "R1-B": {
+       "total": 1756.37
+      },
+      "PP4-N": {
+       "total": 2016.99
+      },
+      "R8-A": {
+       "total": 2131.19
+      },
+      "PP4-B": {
+       "total": 1703.23
+      },
+      "R8-B": {
+       "total": 1635.09
+      },
+      "R8-N": {
+       "total": 1788.77
+      },
+      "R16-A": {
+       "total": 2318.34
+      },
+      "PIS": {
+       "total": 1226.06
+      },
+      "R16-N": {
+       "total": 1739.42
+      },
+      "CAL8-A": {
+       "total": 2250.27
+      },
+      "CSL8-N": {
+       "total": 1814.14
+      },
+      "CSL8-A": {
+       "total": 1972.17
+      },
+      "CSL16-N": {
+       "total": 2437.11
+      },
+      "CSL16-A": {
+       "total": 2643.34
+      },
+      "RP1Q": {
+       "total": 1784.55
+      },
+      "GI": {
+       "total": 999.11
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/09/07-JUL-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1660.22
+      },
+      "R1-N": {
+       "total": 1927.79
+      },
+      "R1-A": {
+       "total": 2390.56
+      },
+      "PP4-B": {
+       "total": 1622.34
+      },
+      "PP4-N": {
+       "total": 1898.54
+      },
+      "R8-A": {
+       "total": 2018.74
+      },
+      "R8-B": {
+       "total": 1559.06
+      },
+      "R8-N": {
+       "total": 1682.27
+      },
+      "R16-A": {
+       "total": 2191.98
+      },
+      "PIS": {
+       "total": 1160.57
+      },
+      "R16-N": {
+       "total": 1636.96
+      },
+      "CAL8-N": {
+       "total": 1999.51
+      },
+      "CAL8-A": {
+       "total": 2130.23
+      },
+      "CSL8-N": {
+       "total": 1707.02
+      },
+      "CSL8-A": {
+       "total": 1862.12
+      },
+      "CSL16-N": {
+       "total": 2294.5
+      },
+      "CSL16-A": {
+       "total": 2496.78
+      },
+      "RP1Q": {
+       "total": 1656.13
+      },
+      "GI": {
+       "total": 939.53
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/09/07-JULHO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-08": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2063.86
+      },
+      "R1-A": {
+       "total": 2538.31
+      },
+      "R1-B": {
+       "total": 1757.69
+      },
+      "PP4-N": {
+       "total": 2018.6
+      },
+      "R8-A": {
+       "total": 2132.61
+      },
+      "PP4-B": {
+       "total": 1704.57
+      },
+      "R8-B": {
+       "total": 1636.31
+      },
+      "R8-N": {
+       "total": 1790.29
+      },
+      "R16-A": {
+       "total": 2319.88
+      },
+      "PIS": {
+       "total": 1226.77
+      },
+      "R16-N": {
+       "total": 1740.89
+      },
+      "CAL8-N": {
+       "total": 2119.9
+      },
+      "CAL8-A": {
+       "total": 2251.77
+      },
+      "CSL8-N": {
+       "total": 1815.43
+      },
+      "CSL8-A": {
+       "total": 1973.51
+      },
+      "CSL16-N": {
+       "total": 2438.85
+      },
+      "CSL16-A": {
+       "total": 2645.13
+      },
+      "RP1Q": {
+       "total": 1788.26
+      },
+      "GI": {
+       "total": 1000.92
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/09/08-AGO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1661.54
+      },
+      "R1-N": {
+       "total": 1929.91
+      },
+      "R1-A": {
+       "total": 2392.95
+      },
+      "PP4-B": {
+       "total": 1623.69
+      },
+      "PP4-N": {
+       "total": 1900.15
+      },
+      "R8-A": {
+       "total": 2020.15
+      },
+      "R8-B": {
+       "total": 1560.28
+      },
+      "R8-N": {
+       "total": 1683.79
+      },
+      "R16-A": {
+       "total": 2193.52
+      },
+      "PIS": {
+       "total": 1161.27
+      },
+      "R16-N": {
+       "total": 1638.43
+      },
+      "CAL8-N": {
+       "total": 2001.0
+      },
+      "CAL8-A": {
+       "total": 2131.74
+      },
+      "CSL8-N": {
+       "total": 1708.31
+      },
+      "CSL8-A": {
+       "total": 1863.46
+      },
+      "CSL16-N": {
+       "total": 2296.24
+      },
+      "CSL16-A": {
+       "total": 2498.57
+      },
+      "RP1Q": {
+       "total": 1659.84
+      },
+      "GI": {
+       "total": 941.34
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/09/08-AGOSTO-DESONERADO-NBR_12721_2006-.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-09": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2064.79
+      },
+      "R1-A": {
+       "total": 2539.28
+      },
+      "R1-B": {
+       "total": 1758.1
+      },
+      "PP4-N": {
+       "total": 2019.23
+      },
+      "R8-A": {
+       "total": 2133.11
+      },
+      "PP4-B": {
+       "total": 1705.0
+      },
+      "R8-N": {
+       "total": 1790.87
+      },
+      "R16-A": {
+       "total": 2323.06
+      },
+      "R8-B": {
+       "total": 1636.69
+      },
+      "R16-N": {
+       "total": 1741.44
+      },
+      "PIS": {
+       "total": 1227.07
+      },
+      "CAL8-N": {
+       "total": 2120.56
+      },
+      "CAL8-A": {
+       "total": 2252.42
+      },
+      "CSL8-N": {
+       "total": 1815.96
+      },
+      "CSL8-A": {
+       "total": 1974.03
+      },
+      "CSL16-N": {
+       "total": 2439.55
+      },
+      "CSL16-A": {
+       "total": 2645.82
+      },
+      "RP1Q": {
+       "total": 1790.3
+      },
+      "GI": {
+       "total": 1001.86
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/10/09-SET-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1661.95
+      },
+      "R1-N": {
+       "total": 1930.83
+      },
+      "R1-A": {
+       "total": 2393.92
+      },
+      "PP4-B": {
+       "total": 1624.12
+      },
+      "PP4-N": {
+       "total": 1900.78
+      },
+      "R8-A": {
+       "total": 2020.65
+      },
+      "R8-B": {
+       "total": 1560.67
+      },
+      "R8-N": {
+       "total": 1684.37
+      },
+      "R16-A": {
+       "total": 2196.7
+      },
+      "PIS": {
+       "total": 1161.58
+      },
+      "R16-N": {
+       "total": 1638.98
+      },
+      "CAL8-N": {
+       "total": 2001.66
+      },
+      "CAL8-A": {
+       "total": 2132.38
+      },
+      "CSL8-N": {
+       "total": 1708.84
+      },
+      "CSL8-A": {
+       "total": 1863.98
+      },
+      "CSL16-N": {
+       "total": 2296.95
+      },
+      "CSL16-A": {
+       "total": 2499.25
+      },
+      "RP1Q": {
+       "total": 1661.88
+      },
+      "GI": {
+       "total": 942.28
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/10/09-SETEMBRO-DESONERADO-NBR_12721_2006-.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-10": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2065.64
+      },
+      "R1-A": {
+       "total": 2540.04
+      },
+      "R1-B": {
+       "total": 1758.69
+      },
+      "PP4-N": {
+       "total": 2019.85
+      },
+      "R8-A": {
+       "total": 2133.63
+      },
+      "PP4-B": {
+       "total": 1705.61
+      },
+      "R8-N": {
+       "total": 1791.49
+      },
+      "R16-A": {
+       "total": 2323.59
+      },
+      "R8-B": {
+       "total": 1637.23
+      },
+      "R16-N": {
+       "total": 1742.02
+      },
+      "PIS": {
+       "total": 1227.07
+      },
+      "CAL8-N": {
+       "total": 2120.89
+      },
+      "CAL8-A": {
+       "total": 2252.74
+      },
+      "CSL8-N": {
+       "total": 1816.43
+      },
+      "CSL8-A": {
+       "total": 1974.49
+      },
+      "CSL16-N": {
+       "total": 2440.17
+      },
+      "CSL16-A": {
+       "total": 2646.44
+      },
+      "RP1Q": {
+       "total": 1790.94
+      },
+      "GI": {
+       "total": 1001.86
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/11/10-OUT-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1662.54
+      },
+      "R1-N": {
+       "total": 1931.69
+      },
+      "R1-A": {
+       "total": 2394.68
+      },
+      "PP4-B": {
+       "total": 1624.72
+      },
+      "PP4-N": {
+       "total": 1901.39
+      },
+      "R8-A": {
+       "total": 2021.17
+      },
+      "R8-B": {
+       "total": 1561.21
+      },
+      "R8-N": {
+       "total": 1684.99
+      },
+      "R16-A": {
+       "total": 2197.23
+      },
+      "PIS": {
+       "total": 1161.58
+      },
+      "R16-N": {
+       "total": 1639.56
+      },
+      "CAL8-N": {
+       "total": 2001.99
+      },
+      "CAL8-A": {
+       "total": 2132.71
+      },
+      "CSL8-N": {
+       "total": 1709.3
+      },
+      "CSL8-A": {
+       "total": 1864.44
+      },
+      "CSL16-N": {
+       "total": 2297.56
+      },
+      "CSL16-A": {
+       "total": 2499.87
+      },
+      "RP1Q": {
+       "total": 1662.52
+      },
+      "GI": {
+       "total": 942.28
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2025/11/10-OUTUBRO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-11": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2083.18
+      },
+      "R1-A": {
+       "total": 2569.3
+      },
+      "R1-B": {
+       "total": 1768.74
+      },
+      "PP4-N": {
+       "total": 2032.24
+      },
+      "R8-A": {
+       "total": 2152.45
+      },
+      "PP4-B": {
+       "total": 1711.89
+      },
+      "R8-N": {
+       "total": 1081.65
+      },
+      "R16-A": {
+       "total": 2334.98
+      },
+      "R8-B": {
+       "total": 1642.78
+      },
+      "R16-N": {
+       "total": 1752.24
+      },
+      "PIS": {
+       "total": 1228.08
+      },
+      "CAL8-N": {
+       "total": 2131.63
+      },
+      "CAL8-A": {
+       "total": 2270.05
+      },
+      "CSL8-N": {
+       "total": 1821.98
+      },
+      "CSL8-A": {
+       "total": 1984.07
+      },
+      "CSL16-N": {
+       "total": 2447.75
+      },
+      "CSL16-A": {
+       "total": 2659.64
+      },
+      "RP1Q": {
+       "total": 1793.35
+      },
+      "GI": {
+       "total": 1004.5
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/01/11-NOV-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1672.59
+      },
+      "R1-N": {
+       "total": 1949.23
+      },
+      "R1-A": {
+       "total": 2423.94
+      },
+      "PP4-B": {
+       "total": 1631.01
+      },
+      "PP4-N": {
+       "total": 1913.79
+      },
+      "R8-A": {
+       "total": 2039.99
+      },
+      "R8-B": {
+       "total": 1566.76
+      },
+      "R8-N": {
+       "total": 1695.15
+      },
+      "R16-A": {
+       "total": 2208.62
+      },
+      "PIS": {
+       "total": 1162.59
+      },
+      "R16-N": {
+       "total": 1649.78
+      },
+      "CAL8-N": {
+       "total": 2012.73
+      },
+      "CAL8-A": {
+       "total": 2150.02
+      },
+      "CSL8-N": {
+       "total": 1714.86
+      },
+      "CSL8-A": {
+       "total": 1874.02
+      },
+      "CSL16-N": {
+       "total": 2305.15
+      },
+      "CSL16-A": {
+       "total": 2513.08
+      },
+      "RP1Q": {
+       "total": 1664.93
+      },
+      "GI": {
+       "total": 944.92
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/01/11-NOVEMBRO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2025-12": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2091.33
+      },
+      "R1-A": {
+       "total": 2583.99
+      },
+      "R1-B": {
+       "total": 1776.53
+      },
+      "PP4-N": {
+       "total": 2036.8
+      },
+      "R8-A": {
+       "total": 2161.29
+      },
+      "PP4-B": {
+       "total": 1715.51
+      },
+      "R8-B": {
+       "total": 1645.9
+      },
+      "R8-N": {
+       "total": 1806.09
+      },
+      "R16-A": {
+       "total": 2340.18
+      },
+      "PIS": {
+       "total": 1231.29
+      },
+      "R16-N": {
+       "total": 1756.1
+      },
+      "CAL8-N": {
+       "total": 2136.33
+      },
+      "CAL8-A": {
+       "total": 2274.76
+      },
+      "CSL8-N": {
+       "total": 1826.49
+      },
+      "CSL8-A": {
+       "total": 1988.87
+      },
+      "CSL16-N": {
+       "total": 2453.28
+      },
+      "CSL16-A": {
+       "total": 2665.68
+      },
+      "RP1Q": {
+       "total": 1798.95
+      },
+      "GI": {
+       "total": 1009.1
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/01/12-DEZ-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1680.38
+      },
+      "R1-N": {
+       "total": 1957.37
+      },
+      "R1-A": {
+       "total": 2438.63
+      },
+      "PP4-B": {
+       "total": 1634.63
+      },
+      "PP4-N": {
+       "total": 1918.35
+      },
+      "R8-A": {
+       "total": 2048.83
+      },
+      "R8-B": {
+       "total": 1569.87
+      },
+      "R8-N": {
+       "total": 1699.59
+      },
+      "R16-A": {
+       "total": 2213.82
+      },
+      "PIS": {
+       "total": 1165.8
+      },
+      "R16-N": {
+       "total": 1653.64
+      },
+      "CAL8-N": {
+       "total": 2017.42
+      },
+      "CAL8-A": {
+       "total": 2154.73
+      },
+      "CSL8-N": {
+       "total": 1719.37
+      },
+      "CSL8-A": {
+       "total": 1878.82
+      },
+      "CSL16-N": {
+       "total": 2310.68
+      },
+      "CSL16-A": {
+       "total": 2519.12
+      },
+      "RP1Q": {
+       "total": 1670.53
+      },
+      "GI": {
+       "total": 949.52
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/01/12-DEZEMBRO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-01": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2097.59
+      },
+      "R1-A": {
+       "total": 2589.33
+      },
+      "R1-B": {
+       "total": 1784.46
+      },
+      "PP4-N": {
+       "total": 2038.14
+      },
+      "R8-A": {
+       "total": 2162.09
+      },
+      "PP4-B": {
+       "total": 1717.18
+      },
+      "R8-B": {
+       "total": 1647.02
+      },
+      "R8-N": {
+       "total": 1807.03
+      },
+      "R16-A": {
+       "total": 2340.95
+      },
+      "PIS": {
+       "total": 1231.82
+      },
+      "R16-N": {
+       "total": 1756.85
+      },
+      "CAL8-N": {
+       "total": 2137.01
+      },
+      "CAL8-A": {
+       "total": 2275.45
+      },
+      "CSL8-N": {
+       "total": 1827.41
+      },
+      "CSL8-A": {
+       "total": 1989.79
+      },
+      "CSL16-N": {
+       "total": 2454.18
+      },
+      "CSL16-A": {
+       "total": 2666.58
+      },
+      "RP1Q": {
+       "total": 1803.37
+      },
+      "GI": {
+       "total": 1011.61
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/02/01-JAN-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1688.31
+      },
+      "R1-N": {
+       "total": 1963.64
+      },
+      "R1-A": {
+       "total": 2443.97
+      },
+      "PP4-B": {
+       "total": 1636.3
+      },
+      "PP4-N": {
+       "total": 1919.69
+      },
+      "R8-A": {
+       "total": 2049.64
+      },
+      "R8-B": {
+       "total": 1570.99
+      },
+      "R8-N": {
+       "total": 1700.53
+      },
+      "R16-A": {
+       "total": 2214.59
+      },
+      "PIS": {
+       "total": 1165.8
+      },
+      "R16-N": {
+       "total": 1653.64
+      },
+      "CAL8-N": {
+       "total": 2018.11
+      },
+      "CAL8-A": {
+       "total": 2155.42
+      },
+      "CSL8-N": {
+       "total": 1720.28
+      },
+      "CSL8-A": {
+       "total": 1879.74
+      },
+      "CSL16-N": {
+       "total": 2311.57
+      },
+      "CSL16-A": {
+       "total": 2520.01
+      },
+      "RP1Q": {
+       "total": 1674.95
+      },
+      "GI": {
+       "total": 952.03
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/02/01-JANEIRO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-02": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2100.62
+      },
+      "R1-A": {
+       "total": 2592.56
+      },
+      "R1-B": {
+       "total": 1786.65
+      },
+      "PP4-B": {
+       "total": 1720.62
+      },
+      "PP4-N": {
+       "total": 2041.43
+      },
+      "R8-A": {
+       "total": 2165.94
+      },
+      "R8-B": {
+       "total": 1650.03
+      },
+      "R8-N": {
+       "total": 1810.09
+      },
+      "R16-A": {
+       "total": 2344.5
+      },
+      "PIS": {
+       "total": 1235.16
+      },
+      "R16-N": {
+       "total": 1759.91
+      },
+      "CAL8-N": {
+       "total": 2139.58
+      },
+      "CAL8-A": {
+       "total": 2278.22
+      },
+      "CSL8-N": {
+       "total": 1829.51
+      },
+      "CSL8-A": {
+       "total": 1992.12
+      },
+      "CSL16-N": {
+       "total": 2457.99
+      },
+      "CSL16-A": {
+       "total": 2670.7
+      },
+      "RP1Q": {
+       "total": 1805.88
+      },
+      "GI": {
+       "total": 1012.04
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/03/02-FEV-NBR_12721_2006-1.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1690.5
+      },
+      "R1-N": {
+       "total": 1966.67
+      },
+      "R1-A": {
+       "total": 2447.2
+      },
+      "PP4-B": {
+       "total": 1639.74
+      },
+      "PP4-N": {
+       "total": 1922.98
+      },
+      "R8-A": {
+       "total": 2053.48
+      },
+      "R8-B": {
+       "total": 1574.0
+      },
+      "R8-N": {
+       "total": 1703.59
+      },
+      "R16-A": {
+       "total": 2218.14
+      },
+      "PIS": {
+       "total": 1169.67
+      },
+      "R16-N": {
+       "total": 1657.45
+      },
+      "CAL8-N": {
+       "total": 2020.68
+      },
+      "CAL8-A": {
+       "total": 2158.19
+      },
+      "CSL8-N": {
+       "total": 1722.39
+      },
+      "CSL8-A": {
+       "total": 1882.07
+      },
+      "CSL16-N": {
+       "total": 1315.39
+      },
+      "CSL16-A": {
+       "total": 2524.14
+      },
+      "RP1Q": {
+       "total": 1677.46
+      },
+      "GI": {
+       "total": 952.46
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/03/02-FEVEREIRO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-03": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2102.74
+      },
+      "R1-A": {
+       "total": 2594.62
+      },
+      "R1-B": {
+       "total": 1788.44
+      },
+      "PP4-N": {
+       "total": 2043.7
+      },
+      "R8-A": {
+       "total": 2168.29
+      },
+      "PP4-B": {
+       "total": 1723.4
+      },
+      "R8-B": {
+       "total": 1652.4
+      },
+      "R8-N": {
+       "total": 1812.32
+      },
+      "R16-A": {
+       "total": 2347.12
+      },
+      "PIS": {
+       "total": 1236.8
+      },
+      "R16-N": {
+       "total": 1762.12
+      },
+      "CAL8-N": {
+       "total": 2141.68
+      },
+      "CAL8-A": {
+       "total": 2280.34
+      },
+      "CSL8-N": {
+       "total": 1831.28
+      },
+      "CSL8-A": {
+       "total": 1993.88
+      },
+      "CSL16-N": {
+       "total": 2461.03
+      },
+      "CSL16-A": {
+       "total": 2673.73
+      },
+      "RP1Q": {
+       "total": 1807.0
+      },
+      "GI": {
+       "total": 1012.33
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/04/03-MAR-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1692.29
+      },
+      "R1-N": {
+       "total": 1968.78
+      },
+      "R1-A": {
+       "total": 2449.26
+      },
+      "PP4-B": {
+       "total": 1642.51
+      },
+      "PP4-N": {
+       "total": 1925.25
+      },
+      "R8-A": {
+       "total": 2055.83
+      },
+      "R8-B": {
+       "total": 1576.38
+      },
+      "R8-N": {
+       "total": 1705.82
+      },
+      "R16-A": {
+       "total": 2220.75
+      },
+      "PIS": {
+       "total": 1171.31
+      },
+      "R16-N": {
+       "total": 1659.65
+      },
+      "CAL8-N": {
+       "total": 2022.78
+      },
+      "CAL8-A": {
+       "total": 2160.3
+      },
+      "CSL8-N": {
+       "total": 1724.16
+      },
+      "CSL8-A": {
+       "total": 1883.83
+      },
+      "CSL16-N": {
+       "total": 2318.42
+      },
+      "CSL16-A": {
+       "total": 2527.16
+      },
+      "RP1Q": {
+       "total": 1678.58
+      },
+      "GI": {
+       "total": 952.75
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/04/03-MARCO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-04": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2103.46
+      },
+      "R1-A": {
+       "total": 2595.32
+      },
+      "R1-B": {
+       "total": 1790.35
+      },
+      "PP4-N": {
+       "total": 2044.93
+      },
+      "R8-A": {
+       "total": 2169.58
+      },
+      "PP4-B": {
+       "total": 1726.56
+      },
+      "R8-N": {
+       "total": 1813.42
+      },
+      "R16-A": {
+       "total": 2348.33
+      },
+      "R8-B": {
+       "total": 1655.23
+      },
+      "R16-N": {
+       "total": 1763.16
+      },
+      "PIS": {
+       "total": 1239.07
+      },
+      "CAL8-N": {
+       "total": 2142.62
+      },
+      "CAL8-A": {
+       "total": 2281.28
+      },
+      "CSL8-N": {
+       "total": 1831.94
+      },
+      "CSL8-A": {
+       "total": 1994.53
+      },
+      "CSL16-N": {
+       "total": 2462.45
+      },
+      "CSL16-A": {
+       "total": 2675.14
+      },
+      "RP1Q": {
+       "total": 1808.32
+      },
+      "GI": {
+       "total": 1013.07
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/05/04-ABR-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1694.2
+      },
+      "R1-N": {
+       "total": 1969.5
+      },
+      "R1-A": {
+       "total": 2449.96
+      },
+      "PP4-B": {
+       "total": 1645.68
+      },
+      "PP4-N": {
+       "total": 1926.48
+      },
+      "R8-A": {
+       "total": 2057.12
+      },
+      "R8-B": {
+       "total": 1579.2
+      },
+      "R8-N": {
+       "total": 1706.92
+      },
+      "R16-A": {
+       "total": 2221.97
+      },
+      "PIS": {
+       "total": 1173.58
+      },
+      "R16-N": {
+       "total": 1660.7
+      },
+      "CAL8-N": {
+       "total": 2023.72
+      },
+      "CAL8-A": {
+       "total": 2161.25
+      },
+      "CSL8-N": {
+       "total": 1724.81
+      },
+      "CSL8-A": {
+       "total": 1884.48
+      },
+      "CSL16-N": {
+       "total": 2319.85
+      },
+      "CSL16-A": {
+       "total": 2528.57
+      },
+      "RP1Q": {
+       "total": 1679.9
+      },
+      "GI": {
+       "total": 953.49
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/05/04-ABRIL-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-05": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2105.42
+      },
+      "R1-A": {
+       "total": 2603.32
+      },
+      "R1-B": {
+       "total": 1793.41
+      },
+      "PP4-N": {
+       "total": 2049.69
+      },
+      "R8-A": {
+       "total": 2174.43
+      },
+      "PP4-B": {
+       "total": 1730.53
+      },
+      "R8-B": {
+       "total": 1658.93
+      },
+      "R8-N": {
+       "total": 1817.13
+      },
+      "R16-A": {
+       "total": 2354.4
+      },
+      "PIS": {
+       "total": 1240.58
+      },
+      "R16-N": {
+       "total": 1768.46
+      },
+      "CAL8-N": {
+       "total": 2151.48
+      },
+      "CAL8-A": {
+       "total": 2290.58
+      },
+      "CSL8-N": {
+       "total": 1836.88
+      },
+      "CSL8-A": {
+       "total": 2000.12
+      },
+      "CSL16-N": {
+       "total": 2468.63
+      },
+      "CSL16-A": {
+       "total": 2682.18
+      },
+      "RP1Q": {
+       "total": 1809.04
+      },
+      "GI": {
+       "total": 1013.46
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/06/05-MAI-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1697.26
+      },
+      "R1-N": {
+       "total": 1971.46
+      },
+      "R1-A": {
+       "total": 2457.95
+      },
+      "PP4-B": {
+       "total": 1649.65
+      },
+      "PP4-N": {
+       "total": 1931.24
+      },
+      "R8-A": {
+       "total": 2061.97
+      },
+      "R8-B": {
+       "total": 1582.91
+      },
+      "R8-N": {
+       "total": 1710.63
+      },
+      "R16-A": {
+       "total": 2228.04
+      },
+      "PIS": {
+       "total": 1175.09
+      },
+      "R16-N": {
+       "total": 1666.0
+      },
+      "CAL8-N": {
+       "total": 2032.58
+      },
+      "CAL8-A": {
+       "total": 2170.54
+      },
+      "CSL8-N": {
+       "total": 1729.75
+      },
+      "CSL8-A": {
+       "total": 1890.07
+      },
+      "CSL16-N": {
+       "total": 2326.02
+      },
+      "CSL16-A": {
+       "total": 2535.61
+      },
+      "RP1Q": {
+       "total": 1680.62
+      },
+      "GI": {
+       "total": 953.88
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/06/05-MAIO-DESONERADO-NBR_12721_2006-1.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-06": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2109.97
+      },
+      "R1-A": {
+       "total": 2613.12
+      },
+      "R1-B": {
+       "total": 1809.84
+      },
+      "PP4-N": {
+       "total": 2059.27
+      },
+      "R8-A": {
+       "total": 2182.17
+      },
+      "PP4-B": {
+       "total": 1751.98
+      },
+      "R8-B": {
+       "total": 1679.52
+      },
+      "R8-N": {
+       "total": 1822.4
+      },
+      "R16-A": {
+       "total": 2360.52
+      },
+      "PIS": {
+       "total": 1254.19
+      },
+      "R16-N": {
+       "total": 1774.5
+      },
+      "CAL8-N": {
+       "total": 2159.25
+      },
+      "CAL8-A": {
+       "total": 2298.78
+      },
+      "CSL8-N": {
+       "total": 1842.07
+      },
+      "CSL8-A": {
+       "total": 2006.07
+      },
+      "CSL16-N": {
+       "total": 2474.63
+      },
+      "CSL16-A": {
+       "total": 2689.3
+      },
+      "RP1Q": {
+       "total": 1817.37
+      },
+      "GI": {
+       "total": 1020.45
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/07/06-JUN-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1713.69
+      },
+      "R1-N": {
+       "total": 1976.01
+      },
+      "R1-A": {
+       "total": 2467.76
+      },
+      "PP4-B": {
+       "total": 1671.1
+      },
+      "PP4-N": {
+       "total": 1940.82
+      },
+      "R8-A": {
+       "total": 2069.71
+      },
+      "R8-B": {
+       "total": 1603.49
+      },
+      "R8-N": {
+       "total": 1715.9
+      },
+      "R16-A": {
+       "total": 2234.15
+      },
+      "PIS": {
+       "total": 1188.7
+      },
+      "R16-N": {
+       "total": 1672.04
+      },
+      "CAL8-N": {
+       "total": 2040.35
+      },
+      "CAL8-A": {
+       "total": 2178.74
+      },
+      "CSL8-N": {
+       "total": 1734.94
+      },
+      "CSL8-A": {
+       "total": 1896.02
+      },
+      "CSL16-N": {
+       "total": 2332.04
+      },
+      "CSL16-A": {
+       "total": 2542.74
+      },
+      "RP1Q": {
+       "total": 1688.95
+      },
+      "GI": {
+       "total": 960.87
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/08/06-JUNHO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-07": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2173.06
+      },
+      "R1-A": {
+       "total": 2681.86
+      },
+      "R1-B": {
+       "total": 1854.69
+      },
+      "PP4-N": {
+       "total": 2114.69
+      },
+      "R8-A": {
+       "total": 2234.61
+      },
+      "PP4-B": {
+       "total": 1790.08
+      },
+      "R8-B": {
+       "total": 1715.28
+      },
+      "R8-N": {
+       "total": 1872.3
+      },
+      "R16-A": {
+       "total": 2419.36
+      },
+      "PIS": {
+       "total": 1284.79
+      },
+      "R16-N": {
+       "total": 1822.53
+      },
+      "CAL8-N": {
+       "total": 2214.89
+      },
+      "CAL8-A": {
+       "total": 2354.96
+      },
+      "CSL8-N": {
+       "total": 1891.93
+      },
+      "CSL8-A": {
+       "total": 2057.32
+      },
+      "CSL16-N": {
+       "total": 2541.03
+      },
+      "CSL16-A": {
+       "total": 2757.56
+      },
+      "RP1Q": {
+       "total": 1881.31
+      },
+      "GI": {
+       "total": 1050.49
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/08/07-JUL-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1753.25
+      },
+      "R1-N": {
+       "total": 2031.73
+      },
+      "R1-A": {
+       "total": 2528.49
+      },
+      "PP4-B": {
+       "total": 1704.75
+      },
+      "PP4-N": {
+       "total": 1989.71
+      },
+      "R8-A": {
+       "total": 2115.96
+      },
+      "R8-B": {
+       "total": 1635.07
+      },
+      "R8-N": {
+       "total": 1759.93
+      },
+      "R16-A": {
+       "total": 2286.04
+      },
+      "PIS": {
+       "total": 1215.7
+      },
+      "R16-N": {
+       "total": 1714.43
+      },
+      "CAL8-N": {
+       "total": 2089.44
+      },
+      "CAL8-A": {
+       "total": 2228.31
+      },
+      "CSL8-N": {
+       "total": 1778.91
+      },
+      "CSL8-A": {
+       "total": 1941.21
+      },
+      "CSL16-N": {
+       "total": 2390.57
+      },
+      "CSL16-A": {
+       "total": 2602.92
+      },
+      "RP1Q": {
+       "total": 1745.81
+      },
+      "GI": {
+       "total": 987.63
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/08/07-JULHO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-08": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2175.07
+      },
+      "R1-A": {
+       "total": 2684.17
+      },
+      "R1-B": {
+       "total": 1855.93
+      },
+      "PP4-N": {
+       "total": 2116.25
+      },
+      "R8-A": {
+       "total": 2235.99
+      },
+      "PP4-B": {
+       "total": 1791.36
+      },
+      "R8-B": {
+       "total": 1716.44
+      },
+      "R8-N": {
+       "total": 1873.74
+      },
+      "R16-A": {
+       "total": 2420.84
+      },
+      "PIS": {
+       "total": 1285.69
+      },
+      "R16-N": {
+       "total": 1823.93
+      },
+      "CAL8-N": {
+       "total": 2216.44
+      },
+      "CAL8-A": {
+       "total": 2356.52
+      },
+      "CSL8-N": {
+       "total": 1893.18
+      },
+      "CSL8-A": {
+       "total": 2058.63
+      },
+      "CSL16-N": {
+       "total": 2543.68
+      },
+      "CSL16-A": {
+       "total": 2759.27
+      },
+      "RP1Q": {
+       "total": 1885.26
+      },
+      "GI": {
+       "total": 1052.51
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/09/08-AGO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1754.49
+      },
+      "R1-N": {
+       "total": 2033.73
+      },
+      "R1-A": {
+       "total": 2530.8
+      },
+      "PP4-B": {
+       "total": 1706.03
+      },
+      "PP4-N": {
+       "total": 1991.27
+      },
+      "R8-A": {
+       "total": 2117.34
+      },
+      "R8-B": {
+       "total": 1636.23
+      },
+      "R8-N": {
+       "total": 1762.37
+      },
+      "R16-A": {
+       "total": 2287.52
+      },
+      "PIS": {
+       "total": 1216.6
+      },
+      "R16-N": {
+       "total": 1715.82
+      },
+      "CAL8-N": {
+       "total": 2090.99
+      },
+      "CAL8-A": {
+       "total": 2229.88
+      },
+      "CSL8-N": {
+       "total": 1780.16
+      },
+      "CSL8-A": {
+       "total": 1942.52
+      },
+      "CSL16-N": {
+       "total": 2392.22
+      },
+      "CSL16-A": {
+       "total": 2604.63
+      },
+      "RP1Q": {
+       "total": 1749.76
+      },
+      "GI": {
+       "total": 989.65
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/09/08-AGOSTO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-09": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2180.16
+      },
+      "R1-A": {
+       "total": 2694.82
+      },
+      "R1-B": {
+       "total": 1859.76
+      },
+      "PP4-N": {
+       "total": 2119.94
+      },
+      "R8-A": {
+       "total": 2242.84
+      },
+      "PP4-B": {
+       "total": 1794.27
+      },
+      "R8-B": {
+       "total": 1718.95
+      },
+      "R8-N": {
+       "total": 1877.57
+      },
+      "R16-A": {
+       "total": 2424.94
+      },
+      "PIS": {
+       "total": 1287.84
+      },
+      "R16-N": {
+       "total": 1827.31
+      },
+      "CAL8-N": {
+       "total": 2220.38
+      },
+      "CAL8-A": {
+       "total": 2360.48
+      },
+      "CSL8-N": {
+       "total": 1896.88
+      },
+      "CSL8-A": {
+       "total": 2062.34
+      },
+      "CSL16-N": {
+       "total": 2547.41
+      },
+      "CSL16-A": {
+       "total": 2764.02
+      },
+      "RP1Q": {
+       "total": 1889.13
+      },
+      "GI": {
+       "total": 1055.91
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/10/09-SET-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1758.33
+      },
+      "R1-N": {
+       "total": 2038.83
+      },
+      "R1-A": {
+       "total": 2541.45
+      },
+      "PP4-B": {
+       "total": 1708.94
+      },
+      "PP4-N": {
+       "total": 1994.96
+      },
+      "R8-A": {
+       "total": 2124.19
+      },
+      "R8-B": {
+       "total": 1638.75
+      },
+      "R8-N": {
+       "total": 1765.2
+      },
+      "R16-A": {
+       "total": 2291.62
+      },
+      "PIS": {
+       "total": 1218.75
+      },
+      "R16-N": {
+       "total": 1719.21
+      },
+      "CAL8-N": {
+       "total": 2094.93
+      },
+      "CAL8-A": {
+       "total": 2233.83
+      },
+      "CSL8-N": {
+       "total": 1783.85
+      },
+      "CSL8-A": {
+       "total": 1946.23
+      },
+      "CSL16-N": {
+       "total": 2396.95
+      },
+      "CSL16-A": {
+       "total": 2609.39
+      },
+      "RP1Q": {
+       "total": 1753.63
+      },
+      "GI": {
+       "total": 993.05
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/10/09-SETEMBRO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  },
+  "2026-10": {
+   "sinduscon-ms": {
+    "sem": {
+     "valores": {
+      "R1-N": {
+       "total": 2184.51
+      },
+      "R1-A": {
+       "total": 2699.69
+      },
+      "R1-B": {
+       "total": 1862.32
+      },
+      "PP4-B": {
+       "total": 1797.06
+      },
+      "PP4-N": {
+       "total": 2123.31
+      },
+      "R8-A": {
+       "total": 2245.73
+      },
+      "R8-B": {
+       "total": 1721.43
+      },
+      "R8-N": {
+       "total": 1880.68
+      },
+      "R16-A": {
+       "total": 2429.93
+      },
+      "PIS": {
+       "total": 1289.82
+      },
+      "R16-N": {
+       "total": 1830.3
+      },
+      "CAL8-N": {
+       "total": 2223.72
+      },
+      "CAL8-A": {
+       "total": 2363.85
+      },
+      "CSL8-N": {
+       "total": 1899.65
+      },
+      "CSL8-A": {
+       "total": 2065.17
+      },
+      "CSL16-N": {
+       "total": 2551.15
+      },
+      "CSL16-A": {
+       "total": 2767.81
+      },
+      "RP1Q": {
+       "total": 1897.66
+      },
+      "GI": {
+       "total": 1060.05
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/11/10-OUT-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    },
+    "com": {
+     "valores": {
+      "R1-B": {
+       "total": 1760.89
+      },
+      "R1-N": {
+       "total": 2043.18
+      },
+      "R1-A": {
+       "total": 2546.32
+      },
+      "PP4-B": {
+       "total": 1711.73
+      },
+      "PP4-N": {
+       "total": 1998.34
+      },
+      "R8-A": {
+       "total": 2127.08
+      },
+      "R8-B": {
+       "total": 1641.23
+      },
+      "R8-N": {
+       "total": 1768.31
+      },
+      "R16-A": {
+       "total": 2296.6
+      },
+      "PIS": {
+       "total": 1220.73
+      },
+      "R16-N": {
+       "total": 1722.19
+      },
+      "CAL8-N": {
+       "total": 2098.27
+      },
+      "CAL8-A": {
+       "total": 2237.17
+      },
+      "CSL8-N": {
+       "total": 1786.63
+      },
+      "CSL8-A": {
+       "total": 1949.06
+      },
+      "CSL16-N": {
+       "total": 2400.69
+      },
+      "CSL16-A": {
+       "total": 2613.17
+      },
+      "RP1Q": {
+       "total": 1762.16
+      },
+      "GI": {
+       "total": 997.19
+      }
+     },
+     "origem": {
+      "arquivo": "http://sindusconms.com.br/wp-content/uploads/2026/11/10-OUTUBRO-DESONERADO-NBR_12721_2006.pdf"
+     },
+     "coletado_em": "2026-11-21"
+    }
+   }
+  }
+ }
+}

@@ -11,8 +11,9 @@ import cub_comum as C
 
 
 def fonte_principal(d, mes, des='sem'):
-    """Escolhe a fonte do mês: principais primeiro, depois as demais (ordem alfabética do id)."""
-    ordem = sorted(d['fontes'], key=lambda f: (not d['fontes'][f].get('principal'), f))
+    """Fonte do mês para a série: só as principais (Sinduscon da capital), em ordem alfabética do id.
+    As fontes regionais (ex.: Juiz de Fora, Noroeste-PR) ficam só no cub-<UF>.json."""
+    ordem = sorted(f for f in d['fontes'] if d['fontes'][f].get('principal'))
     for f in ordem:
         v = d['meses'].get(mes, {}).get(f, {}).get(des)
         if v:
