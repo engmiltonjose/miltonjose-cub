@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21T00:47:28+00:00",
+ "gerado_em": "2026-11-21T00:48:50+00:00",
  "projetos": [
   "R1-B",
   "PP4-B",
@@ -46,6 +46,20 @@
      "primeiro": "2026-07",
      "ultimo": "2026-10",
      "meses": 4
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "RR": {
+   "arquivo": "cub-RR.json",
+   "fontes": {
+    "cbic-30": {
+     "nome": "Sinduscon-RR",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2026-09",
+     "ultimo": "2026-10",
+     "meses": 2
     }
    },
    "ultimo": "2026-10"
