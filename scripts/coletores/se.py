@@ -10,6 +10,7 @@ UF = 'SE'
 FONTE_ID = 'sinduscon-se'
 FONTE = {'nome': 'Sinduscon-SE', 'origem': 'https://sinduscon-se.com.br/cub', 'principal': True}
 PRIMEIRO_MES = '2015-10'
+SO_LOCAL = True   # o site responde 403 aos IPs do GitHub Actions: roda pela tarefa do Windows (scripts/rodar-local.ps1)
 
 
 def catalogo(site):

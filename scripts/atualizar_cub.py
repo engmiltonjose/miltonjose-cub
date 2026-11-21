@@ -109,6 +109,9 @@ def main():
     for mod in PROPRIOS:
         if a.ufs and mod.UF not in ufs:
             continue
+        if getattr(mod, 'SO_LOCAL', False) and os.environ.get('GITHUB_ACTIONS'):
+            print(f'{mod.UF} {mod.FONTE["nome"]}: pulado no GitHub (site bloqueia; roda no PC do Milton)')
+            continue
         d = C.ler_uf(mod.UF)
         inicio_mod = max(ini, getattr(mod, 'PRIMEIRO_MES', '2015-10'))
         desejados = set()
