@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21T00:48:50+00:00",
+ "gerado_em": "2026-11-21T04:42:51+00:00",
  "projetos": [
   "R1-B",
   "PP4-B",
@@ -22,6 +22,62 @@
   "GI"
  ],
  "ufs": {
+  "AC": {
+   "arquivo": "cub-AC.json",
+   "fontes": {
+    "cbic-4": {
+     "nome": "Sinduscon-AC",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2017-04",
+     "ultimo": "2026-03",
+     "meses": 80
+    }
+   },
+   "ultimo": "2026-03"
+  },
+  "AM": {
+   "arquivo": "cub-AM.json",
+   "fontes": {
+    "cbic-5": {
+     "nome": "Sinduscon-AM",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "BA": {
+   "arquivo": "cub-BA.json",
+   "fontes": {
+    "cbic-6": {
+     "nome": "Sinduscon-BA",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "CE": {
+   "arquivo": "cub-CE.json",
+   "fontes": {
+    "cbic-7": {
+     "nome": "Sinduscon-CE",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
   "DF": {
    "arquivo": "cub-DF.json",
    "fontes": {
@@ -29,9 +85,23 @@
      "nome": "Sinduscon-DF",
      "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
      "principal": true,
-     "primeiro": "2026-07",
+     "primeiro": "2015-10",
      "ultimo": "2026-10",
-     "meses": 4
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "ES": {
+   "arquivo": "cub-ES.json",
+   "fontes": {
+    "cbic-9": {
+     "nome": "Sinduscon-ES",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
     }
    },
    "ultimo": "2026-10"
@@ -43,12 +113,200 @@
      "nome": "Sinduscon-GO",
      "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
      "principal": true,
-     "primeiro": "2026-07",
+     "primeiro": "2015-10",
      "ultimo": "2026-10",
-     "meses": 4
+     "meses": 133
     }
    },
    "ultimo": "2026-10"
+  },
+  "MA": {
+   "arquivo": "cub-MA.json",
+   "fontes": {
+    "cbic-11": {
+     "nome": "Sinduscon-MA",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "MG": {
+   "arquivo": "cub-MG.json",
+   "fontes": {
+    "cbic-1": {
+     "nome": "Sinduscon-MG",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-07",
+     "meses": 130
+    },
+    "cbic-32": {
+     "nome": "Sinduscon-Juiz de Fora",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": false,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    },
+    "cbic-39": {
+     "nome": "Sinduscon-GV",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": false,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    },
+    "cbic-36": {
+     "nome": "Sinduscon Norte",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": false,
+     "primeiro": "2015-10",
+     "ultimo": "2022-12",
+     "meses": 87
+    },
+    "cbic-33": {
+     "nome": "Sinduscon-Vale do Piranga",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": false,
+     "primeiro": "2015-10",
+     "ultimo": "2021-01",
+     "meses": 64
+    },
+    "cbic-34": {
+     "nome": "Sinduscon-Lagos",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": false,
+     "primeiro": "2015-10",
+     "ultimo": "2021-11",
+     "meses": 74
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "MT": {
+   "arquivo": "cub-MT.json",
+   "fontes": {
+    "cbic-13": {
+     "nome": "Sinduscon-MT",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "PA": {
+   "arquivo": "cub-PA.json",
+   "fontes": {
+    "cbic-14": {
+     "nome": "Sinduscon-PA",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "PB": {
+   "arquivo": "cub-PB.json",
+   "fontes": {
+    "cbic-15": {
+     "nome": "Sinduscon-João Pessoa",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "PE": {
+   "arquivo": "cub-PE.json",
+   "fontes": {
+    "cbic-16": {
+     "nome": "Sinduscon-PE",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "PI": {
+   "arquivo": "cub-PI.json",
+   "fontes": {
+    "cbic-17": {
+     "nome": "Sinduscon-Teresina",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-08",
+     "meses": 131
+    }
+   },
+   "ultimo": "2026-08"
+  },
+  "PR": {
+   "arquivo": "cub-PR.json",
+   "fontes": {
+    "cbic-18": {
+     "nome": "Sinduscon-PR",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    },
+    "cbic-19": {
+     "nome": "Sinduscon-Noroeste-PR",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": false,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "RJ": {
+   "arquivo": "cub-RJ.json",
+   "fontes": {
+    "cbic-20": {
+     "nome": "Sinduscon-Rio",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-10",
+     "meses": 133
+    }
+   },
+   "ultimo": "2026-10"
+  },
+  "RN": {
+   "arquivo": "cub-RN.json",
+   "fontes": {
+    "cbic-21": {
+     "nome": "Sinduscon-RN",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2015-10",
+     "ultimo": "2026-08",
+     "meses": 131
+    }
+   },
+   "ultimo": "2026-08"
   },
   "RR": {
    "arquivo": "cub-RR.json",
@@ -57,12 +315,26 @@
      "nome": "Sinduscon-RR",
      "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
      "principal": true,
-     "primeiro": "2026-09",
+     "primeiro": "2021-05",
      "ultimo": "2026-10",
-     "meses": 2
+     "meses": 63
     }
    },
    "ultimo": "2026-10"
+  },
+  "SC": {
+   "arquivo": "cub-SC.json",
+   "fontes": {
+    "cbic-26": {
+     "nome": "Sinduscon Grande Florianópolis-SC",
+     "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
+     "principal": true,
+     "primeiro": "2016-04",
+     "ultimo": "2026-11",
+     "meses": 128
+    }
+   },
+   "ultimo": "2026-11"
   }
  }
 }
