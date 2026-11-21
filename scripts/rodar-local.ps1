@@ -18,5 +18,11 @@ git add dados/
 git diff --cached --quiet
 if ($LASTEXITCODE -ne 0) {
     git commit -q -m "CUB: atualizacao local (SE) $(Get-Date -Format yyyy-MM-dd)"
+    # o robo do GitHub pode ter gravado no meio tempo: mescla priorizando o local e regera as saidas
+    git pull -q --no-rebase -X ours
+    python scripts/gerar_saidas.py *>> $log
+    git add dados/
+    git diff --cached --quiet
+    if ($LASTEXITCODE -ne 0) { git commit -q -m "CUB: saidas regeradas apos mescla (local)" }
     git push -q
 }
