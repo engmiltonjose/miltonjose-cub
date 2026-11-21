@@ -1,4 +1,4 @@
-# Coleta, no PC do Milton, as fontes que bloqueiam o GitHub Actions (hoje: Sinduscon-SE) e publica no repositório.
+﻿# Coleta, no PC do Milton, as fontes que bloqueiam o GitHub Actions (hoje: Sinduscon-SE) e publica no repositório.
 #   powershell -File rodar-local.ps1            → roda uma vez
 #   powershell -File rodar-local.ps1 -Instalar  → registra a tarefa agendada "Milton - CUB local" (dias úteis, 10:30)
 param([switch]$Instalar)
@@ -17,6 +17,6 @@ python scripts/atualizar_cub.py --ufs SE --so-proprios *> $log
 git add dados/
 git diff --cached --quiet
 if ($LASTEXITCODE -ne 0) {
-    git commit -q -m "CUB: atualização local (SE) $(Get-Date -Format yyyy-MM-dd)"
+    git commit -q -m "CUB: atualizacao local (SE) $(Get-Date -Format yyyy-MM-dd)"
     git push -q
 }
