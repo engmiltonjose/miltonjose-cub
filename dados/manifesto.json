@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21T04:42:51+00:00",
+ "gerado_em": "2026-11-21T11:43:31+00:00",
  "projetos": [
   "R1-B",
   "PP4-B",
@@ -329,12 +329,12 @@
      "nome": "Sinduscon Grande Florianópolis-SC",
      "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
      "principal": true,
-     "primeiro": "2016-04",
-     "ultimo": "2026-11",
+     "primeiro": "2016-03",
+     "ultimo": "2026-10",
      "meses": 128
     }
    },
-   "ultimo": "2026-11"
+   "ultimo": "2026-10"
   }
  }
 }

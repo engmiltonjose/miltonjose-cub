@@ -81,17 +81,20 @@ def main():
                         estado['ausentes'][chave] = datetime.date.today().isoformat()
                         continue
                     estado['ausentes'].pop(chave, None)
+                    mes_dados = vals.pop('_mes_dados', None) or mes
                     prob = C.validar(vals)
                     if prob:
                         problemas.append(f'{uf} {nome} {mes} {des}: ' + '; '.join(prob))
                         continue
-                    origem = {'relatorio': 'composicao-cub-m2', 'sinduscon': sid, 'mes': mes,
+                    origem = {'relatorio': 'composicao-cub-m2', 'sinduscon': sid, 'mes_consultado': mes,
                               'desoneracao': des}
-                    r = C.registrar(d, fid, info, mes, des, vals, origem)
+                    if mes_dados != mes:
+                        origem['obs'] = f'Sinduscon rotula pelo mês de uso ({mes}); gravado no mês dos dados ({mes_dados})'
+                    r = C.registrar(d, fid, info, mes_dados, des, vals, origem)
                     if r == 'novo':
-                        novidades.append((uf, nome, mes, des, vals.get('R8-N', {}).get('total')))
+                        novidades.append((uf, nome, mes_dados, des, vals.get('R8-N', {}).get('total')))
                     elif r == 'alterado':
-                        alteracoes.append(f'{uf} {nome} {mes} ({des} desoneração)')
+                        alteracoes.append(f'{uf} {nome} {mes_dados} ({des} desoneração)')
             print(f'{uf} {nome}: ok', flush=True)
         C.gravar_uf(d)
         json.dump(estado, open(ESTADO, 'w', encoding='utf-8'), ensure_ascii=False, indent=0, sort_keys=True)

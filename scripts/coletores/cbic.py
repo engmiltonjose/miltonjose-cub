@@ -5,7 +5,7 @@ e as parcelas (materiais, mão de obra, despesas administrativas, equipamentos).
 Um POST por Sinduscon × mês × desoneração. Disponível a partir de out/2015.
 """
 import re, time, requests, pymupdf
-from cub_comum import codigo, num, PROJETOS
+from cub_comum import codigo, num, PROJETOS, MESES_PT
 
 BASE = 'http://cub.org.br/cub-m2-estadual/'
 UA = 'Mozilla/5.0 (robo-cub; dados publicos)'
@@ -59,10 +59,22 @@ class Sessao:
         return ler_pdf(r.content, desonerado), None
 
 
+def mes_dos_dados(conteudo):
+    """Alguns Sinduscons (ex.: Grande Florianópolis) rotulam pelo mês de USO:
+    'CUB/m² dados de Outubro/2026, para ser usado em Novembro/2026'. Devolve 'AAAA-MM' dos dados ou None."""
+    t = ' '.join(p.get_text() for p in pymupdf.open(stream=conteudo, filetype='pdf'))
+    m = re.search(r'dados de\s+(\w+)/(\d{4}),?\s+para ser usado', t, re.I)
+    if not m:
+        return None
+    nomes = [x.lower() for x in MESES_PT]
+    return f'{m.group(2)}-{nomes.index(m.group(1).lower()) + 1:02d}'
+
+
 def ler_pdf(conteudo, desonerado=None):
     doc = pymupdf.open(stream=conteudo, filetype='pdf')
     linhas = [l.strip() for p in doc for l in p.get_text().splitlines()]
     texto = ' '.join(linhas)
+    md = mes_dos_dados(conteudo)
     if desonerado is not None and ('Desonerad' in texto) != desonerado:
         raise ValueError('PDF não corresponde à desoneração pedida')
     out, i = {}, 0
@@ -91,4 +103,7 @@ def ler_pdf(conteudo, desonerado=None):
                 i += 1
             for c, v in zip(cods, vals):
                 out.setdefault(c, {})[chave] = v
-    return {p: out[p] for p in PROJETOS if p in out}
+    vals = {p: out[p] for p in PROJETOS if p in out}
+    if md:
+        vals['_mes_dados'] = md
+    return vals

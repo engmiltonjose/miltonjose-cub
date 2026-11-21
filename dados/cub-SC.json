@@ -8,7 +8,7 @@
   }
  },
  "meses": {
-  "2016-04": {
+  "2016-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -149,8 +149,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-04); gravado no mês dos dados (2016-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -293,14 +294,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-04); gravado no mês dos dados (2016-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-05": {
+  "2016-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -441,8 +443,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-05); gravado no mês dos dados (2016-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -585,14 +588,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-05); gravado no mês dos dados (2016-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-06": {
+  "2016-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -733,8 +737,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-06); gravado no mês dos dados (2016-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -877,14 +882,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-06); gravado no mês dos dados (2016-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-07": {
+  "2016-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -1025,8 +1031,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-07); gravado no mês dos dados (2016-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -1169,14 +1176,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-07); gravado no mês dos dados (2016-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-08": {
+  "2016-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -1317,8 +1325,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-08); gravado no mês dos dados (2016-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -1461,14 +1470,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-08); gravado no mês dos dados (2016-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-09": {
+  "2016-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -1609,8 +1619,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-09); gravado no mês dos dados (2016-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -1753,14 +1764,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-09); gravado no mês dos dados (2016-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-10": {
+  "2016-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -1901,8 +1913,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-10); gravado no mês dos dados (2016-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -2045,14 +2058,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-10); gravado no mês dos dados (2016-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-11": {
+  "2016-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -2193,8 +2207,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-11); gravado no mês dos dados (2016-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -2337,14 +2352,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-11); gravado no mês dos dados (2016-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2016-12": {
+  "2016-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -2485,8 +2501,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2016-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-12); gravado no mês dos dados (2016-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -2629,14 +2646,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2016-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2016-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2016-12); gravado no mês dos dados (2016-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-01": {
+  "2016-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -2777,8 +2795,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-01); gravado no mês dos dados (2016-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -2921,14 +2940,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-01); gravado no mês dos dados (2016-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-02": {
+  "2017-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -3069,8 +3089,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-02); gravado no mês dos dados (2017-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -3213,14 +3234,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-02); gravado no mês dos dados (2017-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-03": {
+  "2017-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -3361,8 +3383,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-03); gravado no mês dos dados (2017-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -3505,14 +3528,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-03); gravado no mês dos dados (2017-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-04": {
+  "2017-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -3653,8 +3677,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-04); gravado no mês dos dados (2017-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -3797,14 +3822,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-04); gravado no mês dos dados (2017-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-05": {
+  "2017-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -3945,8 +3971,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-05); gravado no mês dos dados (2017-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -4089,14 +4116,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-05); gravado no mês dos dados (2017-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-06": {
+  "2017-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -4237,8 +4265,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-06); gravado no mês dos dados (2017-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -4381,14 +4410,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-06); gravado no mês dos dados (2017-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-07": {
+  "2017-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -4529,8 +4559,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-07); gravado no mês dos dados (2017-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -4673,14 +4704,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-07); gravado no mês dos dados (2017-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-08": {
+  "2017-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -4821,8 +4853,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-08); gravado no mês dos dados (2017-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -4965,14 +4998,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-08); gravado no mês dos dados (2017-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-09": {
+  "2017-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -5113,8 +5147,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-09); gravado no mês dos dados (2017-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -5257,14 +5292,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-09); gravado no mês dos dados (2017-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-10": {
+  "2017-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -5405,8 +5441,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-10); gravado no mês dos dados (2017-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -5549,14 +5586,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-10); gravado no mês dos dados (2017-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-11": {
+  "2017-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -5697,8 +5735,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-11); gravado no mês dos dados (2017-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -5841,14 +5880,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-11); gravado no mês dos dados (2017-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2017-12": {
+  "2017-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -5989,8 +6029,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2017-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-12); gravado no mês dos dados (2017-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -6133,14 +6174,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2017-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2017-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2017-12); gravado no mês dos dados (2017-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-01": {
+  "2017-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -6281,8 +6323,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-01); gravado no mês dos dados (2017-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -6425,14 +6468,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-01); gravado no mês dos dados (2017-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-02": {
+  "2018-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -6573,8 +6617,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-02); gravado no mês dos dados (2018-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -6717,14 +6762,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-02); gravado no mês dos dados (2018-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-03": {
+  "2018-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -6865,8 +6911,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-03); gravado no mês dos dados (2018-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -7009,14 +7056,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-03); gravado no mês dos dados (2018-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-04": {
+  "2018-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -7157,8 +7205,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-04); gravado no mês dos dados (2018-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -7301,14 +7350,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-04); gravado no mês dos dados (2018-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-05": {
+  "2018-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -7449,8 +7499,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-05); gravado no mês dos dados (2018-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -7593,14 +7644,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-05); gravado no mês dos dados (2018-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-06": {
+  "2018-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -7741,8 +7793,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-06); gravado no mês dos dados (2018-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -7885,14 +7938,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-06); gravado no mês dos dados (2018-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-07": {
+  "2018-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -8033,8 +8087,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-07); gravado no mês dos dados (2018-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -8177,14 +8232,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-07); gravado no mês dos dados (2018-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-08": {
+  "2018-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -8325,8 +8381,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-08); gravado no mês dos dados (2018-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -8469,14 +8526,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-08); gravado no mês dos dados (2018-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-09": {
+  "2018-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -8617,8 +8675,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-09); gravado no mês dos dados (2018-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -8761,14 +8820,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-09); gravado no mês dos dados (2018-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-10": {
+  "2018-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -8909,8 +8969,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-10); gravado no mês dos dados (2018-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -9053,14 +9114,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-10); gravado no mês dos dados (2018-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-11": {
+  "2018-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -9201,8 +9263,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-11); gravado no mês dos dados (2018-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -9345,14 +9408,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-11); gravado no mês dos dados (2018-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2018-12": {
+  "2018-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -9493,8 +9557,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2018-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-12); gravado no mês dos dados (2018-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -9637,14 +9702,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2018-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2018-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2018-12); gravado no mês dos dados (2018-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-01": {
+  "2018-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -9785,8 +9851,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-01); gravado no mês dos dados (2018-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -9929,14 +9996,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-01); gravado no mês dos dados (2018-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-02": {
+  "2019-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -10077,8 +10145,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-02); gravado no mês dos dados (2019-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -10221,14 +10290,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-02); gravado no mês dos dados (2019-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-03": {
+  "2019-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -10369,8 +10439,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-03); gravado no mês dos dados (2019-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -10513,14 +10584,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-03); gravado no mês dos dados (2019-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-04": {
+  "2019-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -10661,8 +10733,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-04); gravado no mês dos dados (2019-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -10805,14 +10878,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-04); gravado no mês dos dados (2019-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-05": {
+  "2019-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -10953,8 +11027,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-05); gravado no mês dos dados (2019-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -11097,14 +11172,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-05); gravado no mês dos dados (2019-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-06": {
+  "2019-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -11245,8 +11321,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-06); gravado no mês dos dados (2019-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -11389,14 +11466,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-06); gravado no mês dos dados (2019-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-07": {
+  "2019-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -11537,8 +11615,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-07); gravado no mês dos dados (2019-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -11681,14 +11760,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-07); gravado no mês dos dados (2019-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-08": {
+  "2019-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -11829,8 +11909,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-08); gravado no mês dos dados (2019-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -11973,14 +12054,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-08); gravado no mês dos dados (2019-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-09": {
+  "2019-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -12121,8 +12203,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-09); gravado no mês dos dados (2019-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -12265,14 +12348,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-09); gravado no mês dos dados (2019-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-10": {
+  "2019-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -12413,8 +12497,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-10); gravado no mês dos dados (2019-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -12557,14 +12642,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-10); gravado no mês dos dados (2019-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-11": {
+  "2019-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -12705,8 +12791,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-11); gravado no mês dos dados (2019-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -12849,14 +12936,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-11); gravado no mês dos dados (2019-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2019-12": {
+  "2019-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -12997,8 +13085,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2019-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-12); gravado no mês dos dados (2019-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -13141,14 +13230,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2019-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2019-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2019-12); gravado no mês dos dados (2019-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-01": {
+  "2019-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -13289,8 +13379,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-01); gravado no mês dos dados (2019-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -13433,14 +13524,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-01); gravado no mês dos dados (2019-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-02": {
+  "2020-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -13581,8 +13673,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-02); gravado no mês dos dados (2020-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -13725,14 +13818,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-02); gravado no mês dos dados (2020-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-03": {
+  "2020-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -13873,8 +13967,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-03); gravado no mês dos dados (2020-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -14017,14 +14112,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-03); gravado no mês dos dados (2020-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-04": {
+  "2020-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -14165,8 +14261,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-04); gravado no mês dos dados (2020-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -14309,14 +14406,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-04); gravado no mês dos dados (2020-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-05": {
+  "2020-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -14457,8 +14555,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-05); gravado no mês dos dados (2020-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -14601,14 +14700,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-05); gravado no mês dos dados (2020-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-06": {
+  "2020-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -14749,8 +14849,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-06); gravado no mês dos dados (2020-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -14893,14 +14994,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-06); gravado no mês dos dados (2020-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-07": {
+  "2020-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -15041,8 +15143,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-07); gravado no mês dos dados (2020-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -15185,14 +15288,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-07); gravado no mês dos dados (2020-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-08": {
+  "2020-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -15333,8 +15437,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-08); gravado no mês dos dados (2020-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -15477,14 +15582,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-08); gravado no mês dos dados (2020-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-09": {
+  "2020-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -15625,8 +15731,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-09); gravado no mês dos dados (2020-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -15769,14 +15876,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-09); gravado no mês dos dados (2020-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-10": {
+  "2020-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -15917,8 +16025,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-10); gravado no mês dos dados (2020-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -16061,14 +16170,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-10); gravado no mês dos dados (2020-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-11": {
+  "2020-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -16209,8 +16319,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-11); gravado no mês dos dados (2020-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -16353,14 +16464,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-11); gravado no mês dos dados (2020-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2020-12": {
+  "2020-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -16501,8 +16613,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2020-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-12); gravado no mês dos dados (2020-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -16645,14 +16758,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2020-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2020-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2020-12); gravado no mês dos dados (2020-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-01": {
+  "2020-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -16793,8 +16907,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-01); gravado no mês dos dados (2020-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -16937,14 +17052,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-01); gravado no mês dos dados (2020-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-02": {
+  "2021-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -17085,8 +17201,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-02); gravado no mês dos dados (2021-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -17229,14 +17346,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-02); gravado no mês dos dados (2021-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-03": {
+  "2021-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -17377,8 +17495,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-03); gravado no mês dos dados (2021-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -17521,14 +17640,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-03); gravado no mês dos dados (2021-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-04": {
+  "2021-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -17669,8 +17789,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-04); gravado no mês dos dados (2021-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -17813,14 +17934,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-04); gravado no mês dos dados (2021-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-05": {
+  "2021-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -17961,8 +18083,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-05); gravado no mês dos dados (2021-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -18105,14 +18228,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-05); gravado no mês dos dados (2021-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-06": {
+  "2021-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -18253,8 +18377,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-06); gravado no mês dos dados (2021-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -18397,14 +18522,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-06); gravado no mês dos dados (2021-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-07": {
+  "2021-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -18545,8 +18671,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-07); gravado no mês dos dados (2021-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -18689,14 +18816,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-07); gravado no mês dos dados (2021-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-08": {
+  "2021-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -18837,8 +18965,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-08); gravado no mês dos dados (2021-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -18981,14 +19110,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-08); gravado no mês dos dados (2021-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-09": {
+  "2021-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -19129,8 +19259,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-09); gravado no mês dos dados (2021-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -19273,14 +19404,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-09); gravado no mês dos dados (2021-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-10": {
+  "2021-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -19421,8 +19553,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-10); gravado no mês dos dados (2021-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -19565,14 +19698,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-10); gravado no mês dos dados (2021-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-11": {
+  "2021-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -19713,8 +19847,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-11); gravado no mês dos dados (2021-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -19857,14 +19992,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-11); gravado no mês dos dados (2021-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2021-12": {
+  "2021-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -20005,8 +20141,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2021-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-12); gravado no mês dos dados (2021-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -20149,14 +20286,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2021-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2021-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2021-12); gravado no mês dos dados (2021-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-01": {
+  "2021-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -20297,8 +20435,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-01); gravado no mês dos dados (2021-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -20441,14 +20580,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-01); gravado no mês dos dados (2021-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-02": {
+  "2022-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -20589,8 +20729,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-02); gravado no mês dos dados (2022-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -20733,14 +20874,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-02); gravado no mês dos dados (2022-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-03": {
+  "2022-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -20881,8 +21023,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-03); gravado no mês dos dados (2022-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -21025,14 +21168,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-03); gravado no mês dos dados (2022-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-04": {
+  "2022-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -21173,8 +21317,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-04); gravado no mês dos dados (2022-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -21317,14 +21462,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-04); gravado no mês dos dados (2022-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-05": {
+  "2022-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -21465,8 +21611,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-05); gravado no mês dos dados (2022-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -21609,14 +21756,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-05); gravado no mês dos dados (2022-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-06": {
+  "2022-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -21757,8 +21905,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-06); gravado no mês dos dados (2022-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -21901,14 +22050,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-06); gravado no mês dos dados (2022-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-07": {
+  "2022-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -22049,8 +22199,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-07); gravado no mês dos dados (2022-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -22193,14 +22344,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-07); gravado no mês dos dados (2022-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-08": {
+  "2022-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -22341,8 +22493,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-08); gravado no mês dos dados (2022-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -22485,14 +22638,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-08); gravado no mês dos dados (2022-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-09": {
+  "2022-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -22633,8 +22787,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-09); gravado no mês dos dados (2022-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -22777,14 +22932,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-09); gravado no mês dos dados (2022-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-10": {
+  "2022-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -22925,8 +23081,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-10); gravado no mês dos dados (2022-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -23069,14 +23226,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-10); gravado no mês dos dados (2022-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-11": {
+  "2022-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -23217,8 +23375,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-11); gravado no mês dos dados (2022-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -23361,14 +23520,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-11); gravado no mês dos dados (2022-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2022-12": {
+  "2022-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -23509,8 +23669,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2022-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-12); gravado no mês dos dados (2022-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -23653,14 +23814,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2022-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2022-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2022-12); gravado no mês dos dados (2022-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-01": {
+  "2022-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -23801,8 +23963,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-01); gravado no mês dos dados (2022-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -23945,14 +24108,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-01); gravado no mês dos dados (2022-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-02": {
+  "2023-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -24093,8 +24257,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-02); gravado no mês dos dados (2023-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -24237,14 +24402,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-02); gravado no mês dos dados (2023-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-03": {
+  "2023-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -24385,8 +24551,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-03); gravado no mês dos dados (2023-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -24529,14 +24696,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-03); gravado no mês dos dados (2023-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-04": {
+  "2023-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -24677,8 +24845,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-04); gravado no mês dos dados (2023-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -24821,14 +24990,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-04); gravado no mês dos dados (2023-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-05": {
+  "2023-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -24969,8 +25139,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-05); gravado no mês dos dados (2023-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -25113,14 +25284,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-05); gravado no mês dos dados (2023-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-06": {
+  "2023-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -25261,8 +25433,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-06); gravado no mês dos dados (2023-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -25405,14 +25578,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-06); gravado no mês dos dados (2023-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-07": {
+  "2023-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -25553,8 +25727,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-07); gravado no mês dos dados (2023-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -25697,14 +25872,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-07); gravado no mês dos dados (2023-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-08": {
+  "2023-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -25845,8 +26021,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-08); gravado no mês dos dados (2023-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -25989,14 +26166,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-08); gravado no mês dos dados (2023-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-09": {
+  "2023-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -26137,8 +26315,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-09); gravado no mês dos dados (2023-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -26281,14 +26460,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-09); gravado no mês dos dados (2023-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-10": {
+  "2023-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -26429,8 +26609,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-10); gravado no mês dos dados (2023-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -26573,14 +26754,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-10); gravado no mês dos dados (2023-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-11": {
+  "2023-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -26721,8 +26903,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-11); gravado no mês dos dados (2023-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -26865,14 +27048,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-11); gravado no mês dos dados (2023-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2023-12": {
+  "2023-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -27013,8 +27197,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2023-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-12); gravado no mês dos dados (2023-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -27157,14 +27342,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2023-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2023-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2023-12); gravado no mês dos dados (2023-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-01": {
+  "2023-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -27305,8 +27491,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-01); gravado no mês dos dados (2023-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -27449,14 +27636,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-01); gravado no mês dos dados (2023-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-02": {
+  "2024-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -27597,8 +27785,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-02); gravado no mês dos dados (2024-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -27741,14 +27930,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-02); gravado no mês dos dados (2024-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-03": {
+  "2024-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -27889,8 +28079,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-03); gravado no mês dos dados (2024-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -28033,14 +28224,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-03); gravado no mês dos dados (2024-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-04": {
+  "2024-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -28181,8 +28373,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-04); gravado no mês dos dados (2024-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -28325,14 +28518,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-04); gravado no mês dos dados (2024-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-05": {
+  "2024-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -28473,8 +28667,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-05); gravado no mês dos dados (2024-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -28617,14 +28812,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-05); gravado no mês dos dados (2024-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-06": {
+  "2024-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -28765,8 +28961,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-06); gravado no mês dos dados (2024-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -28909,14 +29106,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-06); gravado no mês dos dados (2024-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-07": {
+  "2024-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -29057,8 +29255,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-07); gravado no mês dos dados (2024-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -29201,14 +29400,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-07); gravado no mês dos dados (2024-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-08": {
+  "2024-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -29349,8 +29549,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-08); gravado no mês dos dados (2024-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -29493,14 +29694,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-08); gravado no mês dos dados (2024-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-09": {
+  "2024-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -29641,8 +29843,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-09); gravado no mês dos dados (2024-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -29785,14 +29988,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-09); gravado no mês dos dados (2024-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-10": {
+  "2024-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -29933,8 +30137,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-10); gravado no mês dos dados (2024-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -30077,14 +30282,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-10); gravado no mês dos dados (2024-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-11": {
+  "2024-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -30225,8 +30431,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-11); gravado no mês dos dados (2024-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -30369,14 +30576,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-11); gravado no mês dos dados (2024-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2024-12": {
+  "2024-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -30517,8 +30725,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2024-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-12); gravado no mês dos dados (2024-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -30661,14 +30870,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2024-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2024-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2024-12); gravado no mês dos dados (2024-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-01": {
+  "2024-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -30809,8 +31019,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-01); gravado no mês dos dados (2024-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -30953,14 +31164,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-01); gravado no mês dos dados (2024-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-02": {
+  "2025-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -31101,8 +31313,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-02); gravado no mês dos dados (2025-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -31245,14 +31458,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-02); gravado no mês dos dados (2025-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-03": {
+  "2025-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -31393,8 +31607,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-03); gravado no mês dos dados (2025-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -31537,14 +31752,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-03); gravado no mês dos dados (2025-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-04": {
+  "2025-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -31685,8 +31901,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-04); gravado no mês dos dados (2025-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -31829,14 +32046,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-04); gravado no mês dos dados (2025-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-05": {
+  "2025-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -31977,8 +32195,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-05); gravado no mês dos dados (2025-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -32121,14 +32340,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-05); gravado no mês dos dados (2025-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-06": {
+  "2025-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -32269,8 +32489,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-06); gravado no mês dos dados (2025-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -32413,14 +32634,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-06); gravado no mês dos dados (2025-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-07": {
+  "2025-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -32561,8 +32783,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-07); gravado no mês dos dados (2025-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -32705,14 +32928,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-07); gravado no mês dos dados (2025-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-08": {
+  "2025-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -32853,8 +33077,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-08); gravado no mês dos dados (2025-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -32997,14 +33222,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-08); gravado no mês dos dados (2025-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-09": {
+  "2025-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -33145,8 +33371,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-09); gravado no mês dos dados (2025-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -33289,14 +33516,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-09); gravado no mês dos dados (2025-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-10": {
+  "2025-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -33437,8 +33665,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-10); gravado no mês dos dados (2025-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -33581,14 +33810,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-10); gravado no mês dos dados (2025-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-11": {
+  "2025-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -33729,8 +33959,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-11); gravado no mês dos dados (2025-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -33873,14 +34104,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-11); gravado no mês dos dados (2025-10)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2025-12": {
+  "2025-11": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -34021,8 +34253,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-12",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2025-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-12); gravado no mês dos dados (2025-11)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -34165,14 +34398,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2025-12",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2025-12",
+      "obs": "Sinduscon rotula pelo mês de uso (2025-12); gravado no mês dos dados (2025-11)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-01": {
+  "2025-12": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -34313,8 +34547,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-01",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-01); gravado no mês dos dados (2025-12)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -34457,14 +34692,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-01",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-01",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-01); gravado no mês dos dados (2025-12)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-02": {
+  "2026-01": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -34605,8 +34841,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-02",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-02); gravado no mês dos dados (2026-01)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -34749,14 +34986,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-02",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-02",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-02); gravado no mês dos dados (2026-01)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-03": {
+  "2026-02": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -34897,8 +35135,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-03",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-03); gravado no mês dos dados (2026-02)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -35041,14 +35280,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-03",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-03",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-03); gravado no mês dos dados (2026-02)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-04": {
+  "2026-03": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -35189,8 +35429,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-04",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-04); gravado no mês dos dados (2026-03)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -35333,14 +35574,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-04",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-04",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-04); gravado no mês dos dados (2026-03)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-05": {
+  "2026-04": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -35481,8 +35723,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-05",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-05); gravado no mês dos dados (2026-04)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -35625,14 +35868,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-05",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-05",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-05); gravado no mês dos dados (2026-04)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-06": {
+  "2026-05": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -35773,8 +36017,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-06",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-06); gravado no mês dos dados (2026-05)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -35917,14 +36162,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-06",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-06",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-06); gravado no mês dos dados (2026-05)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-07": {
+  "2026-06": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -36065,8 +36311,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-07",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-07); gravado no mês dos dados (2026-06)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -36209,14 +36456,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-07",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-07",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-07); gravado no mês dos dados (2026-06)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-08": {
+  "2026-07": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -36357,8 +36605,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-08",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-08); gravado no mês dos dados (2026-07)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -36501,14 +36750,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-08",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-08",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-08); gravado no mês dos dados (2026-07)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-09": {
+  "2026-08": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -36649,8 +36899,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-09",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-09); gravado no mês dos dados (2026-08)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -36793,14 +37044,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-09",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-09",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-09); gravado no mês dos dados (2026-08)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-10": {
+  "2026-09": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -36941,8 +37193,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-10",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-10); gravado no mês dos dados (2026-09)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -37085,14 +37338,15 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-10",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-10",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-10); gravado no mês dos dados (2026-09)"
      },
      "coletado_em": "2026-11-21"
     }
    }
   },
-  "2026-11": {
+  "2026-10": {
    "cbic-26": {
     "sem": {
      "valores": {
@@ -37233,8 +37487,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-11",
-      "desoneracao": "sem"
+      "desoneracao": "sem",
+      "mes_consultado": "2026-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-11); gravado no mês dos dados (2026-10)"
      },
      "coletado_em": "2026-11-21"
     },
@@ -37377,8 +37632,9 @@
      "origem": {
       "relatorio": "composicao-cub-m2",
       "sinduscon": "26",
-      "mes": "2026-11",
-      "desoneracao": "com"
+      "desoneracao": "com",
+      "mes_consultado": "2026-11",
+      "obs": "Sinduscon rotula pelo mês de uso (2026-11); gravado no mês dos dados (2026-10)"
      },
      "coletado_em": "2026-11-21"
     }
