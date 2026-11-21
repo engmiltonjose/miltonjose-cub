@@ -78,7 +78,11 @@ def ler_composicao(conteudo):
 
 def coletar(desejados, log=print):
     site = Site()
-    for (mes, des), u in sorted(catalogo(site).items()):
+    cat = catalogo(site)
+    if not cat and desejados:
+        r = site.get('https://sinduscon-se.com.br/cub')
+        log(f'SE: catálogo vazio (HTTP {r.status_code}, {len(r.text)} bytes) — o site pode estar bloqueando este acesso')
+    for (mes, des), u in sorted(cat.items()):
         if (mes, des) not in desejados:
             continue
         r = site.get(u)
