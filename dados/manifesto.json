@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21T12:36:58+00:00",
+ "gerado_em": "2026-11-23T22:27:08+00:00",
  "projetos": [
   "R1-B",
   "PP4-B",
@@ -274,11 +274,11 @@
      "origem": "CBIC — http://cub.org.br/cub-m2-estadual/",
      "principal": true,
      "primeiro": "2015-10",
-     "ultimo": "2026-08",
-     "meses": 131
+     "ultimo": "2026-09",
+     "meses": 132
     }
    },
-   "ultimo": "2026-08"
+   "ultimo": "2026-09"
   },
   "PR": {
    "arquivo": "cub-PR.json",
